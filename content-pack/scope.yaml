@@ -1,0 +1,1378 @@
+topic: 'The mental health system of systems in North Alabama: WellStone''s service area (Madison and Cullman counties
+  in depth; the fifteen-county Huntsville crisis-center catchment in outline), as a regional edition of the Alabama
+  Mental Health Systems Report.'
+question: What does the mental health system of systems look like in WellStone's service area in October 2026 (who
+  decides, who pays, what exists, who delivers it, who is reached and who is missed) in Madison and Cullman counties,
+  and how does the wider fifteen-county crisis catchment depend on it?
+purpose: orientation
+boundary:
+  in:
+  - Madison County and Cullman County, Alabama, researched in depth across the statewide report's eight domains
+    and four cross-sector sections
+  - the fifteen-county catchment of the Huntsville crisis center as map frame and comparison ring, with a short
+    profile of each of the four other community mental health centers serving it
+  - ADMH Region 1 and Alabama as benchmarks only
+  - census-tract map layers for Madison and Cullman; county layers for the ring; a point layer of service locations
+  - 'public sources only: agency documents and data, budgets, court records, organizations'' own published reports,
+    and reputable press where no primary document could be read'
+  - the statewide pack's checked references, county data and local passages, re-read for the regional claims
+  out:
+  - 'documents supplied privately by WellStone or any other provider: the report is independent and WellStone is
+    a subject, not a partner'
+  - Little Orange Fish's own publications and North Alabama Mental Health Coalition meeting recaps or minutes as
+    sources of fact
+  - separate research into the courts, jails, schools, housing or hospitals of the thirteen ring counties beyond
+    their center profiles and map layers
+  - state-level facts already established in the statewide report, except as benchmarks
+  - 're-analysis of any dataset: values are shown as published, and anything computed is labeled as derived'
+  - named private individuals from news reports
+  - clinical guidance and policy advocacy, as in the statewide report
+  rationale: 'Daniel chose the nested boundary on 4 October 2026: WellStone is the center and CCBHC for two counties
+    but its crisis center takes people from fifteen, so the two counties carry the depth and the fifteen carry the
+    map.'
+level: 'regional system: two counties in depth, tracts within them, fifteen counties in outline'
+time_window:
+  current_from: 2021
+  seminal: founding dates, closures, statutes and litigation of any age where the present depends on them
+stance: primer-with-controversies
+depth: deep
+target_words: 25000
+frame: the statewide report's eight domains and four cross-sector sections, so the two sites read as a pair
+anchors:
+- citation: 'Little Orange Fish. Alabama Mental Health Systems Report, v261003.1 (checked draft of 3 October 2026):
+    references, county data and local passages.'
+  why: Daniel selected the statewide pack as the one source to draw on beyond the public record; that report names
+    'a planned North Alabama regional edition built on the same template'.
+- citation: WellStone, Inc. Strategic Plan, Fiscal Years 2026-2027 (approved 18 November 2025), filed with the Alabama
+    Department of Mental Health.
+  url: https://mh.alabama.gov/wp-content/uploads/2026/01/WellStone-Behavioral-Health.pdf
+  why: The one current primary document in which WellStone states its own service area, numbers served and unmet
+    needs.
+excluded:
+- what: Published NAMHC meeting recaps and the NAMHC minutes compilation
+  why: Offered at the interview and not selected.
+- what: Documents supplied by Daniel
+  why: Offered at the interview and not selected; none supplied.
+assumed: false
+outline_approved: '2026-10-04'
+interview:
+- q: How should the North Alabama site be delivered?
+  answer: Same as statewide (public GitHub Pages under the feelingsarereal account with Little Orange Fish branding,
+    marked 'Draft for review' until approved)
+  asked: '2026-10-04'
+- q: What is the site mainly for?
+  answer: Regional systems report (the statewide report's eight-domain analysis redone at regional scale)
+  asked: '2026-10-04'
+- q: How does WellStone itself relate to this project?
+  answer: Independent, public sources only
+  asked: '2026-10-04'
+- q: Add this pack's references to your Zotero library?
+  answer: 'No'
+  asked: '2026-10-04'
+- q: Which map is the report about?
+  answer: 'Nested: two-county core, 15-county ring'
+  asked: '2026-10-04'
+- q: How should the report be organised?
+  answer: Same eight domains as statewide
+  asked: '2026-10-04'
+- q: How fine should the regional map go?
+  answer: Census tracts in the core, counties in the ring
+  asked: '2026-10-04'
+- q: How deep should the written report go?
+  answer: 'Full report scale: ~25,000 words'
+  asked: '2026-10-04'
+- q: Beyond the public record, which of these should I draw on?
+  answer: The statewide pack
+  asked: '2026-10-04'
+- q: Is there anything the report should keep out?
+  answer: 'Nothing: same scope as statewide'
+  asked: '2026-10-04'
+- q: What should the site be called?
+  answer: North Alabama Mental Health Systems Report
+  asked: '2026-10-04'
+- q: Whose name goes on it?
+  answer: Little Orange Fish, prepared with Claude
+  asked: '2026-10-04'
+search_strategy:
+  run_on: '2026-10-04'
+  status: two sweeps complete on 4 October 2026; every sentence then read back against its source passage by independent
+    checkers in three rounds
+  sources:
+  - web search
+  - publisher web sites read through an automated page reader
+  - the statewide pack's references and county data
+  queries:
+  - q: WellStone Behavioral Health Huntsville service area counties Madison Cullman
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: WellStone Emergency Services crisis center Huntsville beds 2025 2026
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: WellStone pediatric crisis center Huntsville opening 2026
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: WellStone annual report clients served CCBHC Alabama
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Alabama Department of Mental Health 310 board catchment areas map M-14 Madison County community mental health
+      centers
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Madison County Alabama mental health court jail diversion Stepping Up crisis intervention team Huntsville
+      police
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville Hospital community health needs assessment 2025 Madison County mental health behavioral health
+      priority
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Crisis Services of North Alabama 988 call center counties served HELPline
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: North Alabama Regional Hospital Decatur closed 2015 state psychiatric hospital effect Madison County probate
+      commitments
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville Hospital behavioral health psychiatric beds Decatur Morgan West inpatient psychiatric north Alabama
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: North Alabama Coalition for the Homeless point in time count 2025 Madison County mental illness
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Madison County opioid settlement funds allocation WellStone Huntsville 2025
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Cullman County mental health WellStone Cullman crisis jail substance use overdose 2025
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Mountain Lakes Behavioral Healthcare Mental Health Center of North Central Alabama Riverbend counties served
+      north Alabama community mental health centers
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Madison County Alabama jail mental health inmates lawsuit OR deaths OR "mental health" sheriff 2025
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Madison County Alabama mental health court probate involuntary commitment petitions per year Huntsville Hospital
+      psychiatric holds
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville Hospital behavioral health unit beds expansion 2025 psychiatric emergency department boarding
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville homeless point-in-time count 2026 NACH Madison County unsheltered
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: WellStone 2026 news expansion Cullman crisis OR "civil commitment" OR "primary care" OR housing Jeremy Blair
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Madison County Alabama suicide rate overdose deaths 2024 coroner report Huntsville
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: United Way Madison County community needs assessment mental health 2024 OR 2025 Huntsville
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville City Schools Madison County Schools mental health therapists school-based WellStone Nova counselors
+      2025
+    source: web search
+    phase: T1 pre-sweep
+    hits: null
+  - q: Huntsville City Council FY2027 budget outside agency appropriations WellStone mental health
+    source: web search
+    phase: D1-governance-financing
+    for: Huntsville's FY2027 appropriation to WellStone
+    useful: partly
+    hits: null
+  - q: WellStone "Be the Rock" capital campaign goal raised donors crisis center pediatric unit
+    source: web search
+    phase: D1-governance-financing
+    for: campaign goal, total and donors
+    useful: partly
+    hits: null
+  - q: Madison County Commission approves funding WellStone pediatric crisis unit $ appropriation City of Madison
+      Huntsville City Council
+    source: web search
+    phase: D1-governance-financing
+    for: local government capital and operating appropriations to WellStone
+    useful: 'yes'
+    hits: null
+  - q: Cullman County Commission opioid settlement funds allocated WellStone OR "The Link" OR "sheriff" Cullman
+      City Council opioid settlement
+    source: web search
+    phase: D1-governance-financing
+    for: Cullman city and county opioid settlement allocations
+    useful: 'yes'
+    hits: null
+  - q: Madison County Commission opioid settlement funds allocation 2024 2025 Madison County Alabama
+    source: web search
+    phase: D1-governance-financing
+    for: Madison County opioid settlement receipts and allocations
+    useful: partly
+    hits: null
+  - q: Huntsville City Council opioid settlement funds allocation 2025 WellStone First Stop Huntsville Hospital
+      Foundation Partnership for a Drug-Free Community
+    source: web search
+    phase: D1-governance-financing
+    for: Council approval and later Huntsville opioid allocations
+    useful: partly
+    hits: null
+  - q: Madison County Probate Judge Barger involuntary commitment petitions 2025 WellStone crisis stabilization
+      civil commitment beds Huntsville Hospital
+    source: web search
+    phase: D1-governance-financing
+    for: local civil commitment numbers and AOT results
+    useful: 'yes'
+    hits: null
+  - q: WellStone Cullman renovation 2024 Cullman City Council Cullman County Commission appropriation WellStone
+      mental health
+    source: web search
+    phase: D1-governance-financing
+    for: Cullman renovation cost and Cullman local appropriations
+    useful: partly
+    hits: null
+  - q: WellStone Huntsville SAMHSA grant awarded CCBHC million 2023 OR 2024 OR 2025
+    source: web search
+    phase: D1-governance-financing
+    for: federal grants to WellStone
+    useful: partly
+    hits: null
+  - q: Madison County Commission FY2027 budget approved WellStone mental health appropriation outside agencies
+    source: web search
+    phase: D1-governance-financing
+    for: Madison County's FY2027 appropriation to WellStone
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital Health System Community Health Needs Assessment 2025 Madison County mental health priority
+      pdf
+    source: web search
+    phase: D1-governance-financing
+    for: a Huntsville Hospital CHNA
+    useful: 'no'
+    hits: null
+  - q: Cullman County "Local Amendment 1" medical cannabis tax mental health November 2024 result passed OR failed
+    source: web search
+    phase: D1-governance-financing
+    for: outcome of the Cullman referendum that would have funded mental health
+    useful: 'yes'
+    hits: null
+  - q: Huntsville City Council homeless camping ordinance 2025 mental health homelessness plan Madison County commission
+    source: web search
+    phase: D1-governance-financing
+    for: local homelessness policy and ordinances
+    useful: partly
+    hits: null
+  - q: Madison County Alabama jail OR "Huntsville" mental health lawsuit settlement OR "consent decree" federal
+      court WellStone OR "Madison County Commission" 2024 2025
+    source: web search
+    phase: D1-governance-financing
+    for: local consent decrees or settlements
+    useful: 'no'
+    hits: null
+  - q: WellStone pediatric crisis unit Huntsville funding "million" state legislature ADMH "Be the Rock" raised
+      groundbreaking 2023
+    source: web search
+    phase: D1-governance-financing
+    for: pediatric unit funding by source
+    useful: partly
+    hits: null
+  - q: Huntsville budget "WellStone" annual appropriation outside agency "Madison County Commission" mental health
+      funding amount fiscal 2025 OR 2026
+    source: web search
+    phase: D1-governance-financing
+    for: annual city and county appropriations to WellStone
+    useful: 'no'
+    hits: null
+  - q: Huntsville Police co-responder WellStone mental health calls 2025 clinicians number of calls diverted
+    source: web search
+    phase: D2-service-continuum
+    for: current co-responder staffing and outcomes
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital behavioral health inpatient psychiatric beds Decatur Morgan West adolescent unit
+    source: web search
+    phase: D2-service-continuum
+    for: inpatient psychiatric capacity and ownership of Decatur Morgan West
+    useful: partly
+    hits: null
+  - q: WellStone 988 call center Huntsville counties covered calls answered per month
+    source: web search
+    phase: D2-service-continuum
+    for: 988 routing counties and call volumes for the Huntsville center
+    useful: partly
+    hits: null
+  - q: WellStone co-responder Huntsville Police 2024 OR 2025 OR 2026 "co-responders" responded calls year report
+      city council
+    source: web search
+    phase: D2-service-continuum
+    for: a dated count of co-responder calls; found the HPD annual report index
+    useful: partly
+    hits: null
+  - q: Alabama State Health Plan psychiatric beds inventory Madison County Huntsville Hospital Crestwood Unity Psychiatric
+      Care licensed psychiatric beds SHPDA
+    source: web search
+    phase: D2-service-continuum
+    for: psychiatric bed counts by facility
+    useful: partly
+    hits: null
+  - q: HEMSI psychiatric transports Madison County adults out of county mental health patients ambulance 2024 2025
+    source: web search
+    phase: D2-service-continuum
+    for: a HEMSI source for psychiatric transport counts and destinations
+    useful: 'no'
+    hits: null
+  - q: Crestwood Medical Center Huntsville behavioral health inpatient unit beds adult geriatric psychiatric
+    source: web search
+    phase: D2-service-continuum
+    for: whether Crestwood runs an inpatient psychiatric unit
+    useful: partly
+    hits: null
+  - q: Cullman Regional Medical Center psychiatric unit beds behavioral health emergency department mental health
+      patients holding
+    source: web search
+    phase: D2-service-continuum
+    for: inpatient psychiatric capacity in Cullman County
+    useful: 'yes'
+    hits: null
+  - q: Partnership for a Drug-Free Community Huntsville Recovery Resource Hub peer support Madison County
+    source: web search
+    phase: D2-service-continuum
+    for: prevention coalition and recovery hub
+    useful: 'no'
+    hits: null
+  - q: WellStone Huntsville adult mobile crisis team Madison County launched hours SAMHSA CCBHC grant
+    source: web search
+    phase: D2-service-continuum
+    for: the Madison County adult mobile crisis team
+    useful: 'yes'
+    hits: null
+  - q: WellStone pediatric crisis unit staffing shortage beds open nurses 2025 Huntsville WAFF OR WHNT OR WAAY
+    source: web search
+    phase: D2-service-continuum
+    for: staffed pediatric beds and staffing shortage reports
+    useful: 'yes'
+    hits: null
+  - q: WellStone "River Crossing" withdrawal management Huntsville 16 beds opened opioid settlement "River Valley
+      Recovery Center"
+    source: web search
+    phase: D2-service-continuum
+    for: opening dates and beds of WellStone's two substance-use units
+    useful: 'no'
+    hits: null
+  - q: Huntsville Hospital emergency department psychiatric patients boarding waiting beds behavioral health unit
+      HEMSI transports mental health 2025
+    source: web search
+    phase: D2-service-continuum
+    for: emergency-department boarding and the hospital's behavioral health page
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital "Community Health Needs Assessment" Madison County mental health 2025 OR 2022
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: A Huntsville Hospital / HH Health CHNA
+    useful: 'no'
+    hits: null
+  - q: WellStone pediatric crisis unit staffing shortage beds nurses October 2024 Huntsville
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Text version of the WAFF staffing-shortage story
+    useful: 'yes'
+    hits: null
+  - q: WellStone psychiatry residency program Huntsville ACGME residents
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Psychiatry residency in Huntsville (found the UAB Huntsville residency page and a directory entry for a
+      WellStone-sponsored program)
+    useful: 'yes'
+    hits: null
+  - q: '"Huntsville Hospital" "community health needs assessment" Madison County Alabama pdf hh.health OR huntsvillehospital.org'
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Second attempt at a Huntsville Hospital CHNA (found the Community Health Initiative page and annual reports
+      instead)
+    useful: partly
+    hits: null
+  - q: WellStone Cullman renovation OR "new facility" OR expansion 2024 2025 Cullman Tribune OR "Cullman Times"
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: The 2024 renovation of WellStone's Cullman campus
+    useful: 'yes'
+    hits: null
+  - q: Madison County coroner Berryhill suicides overdose deaths 2024 2025 numbers Huntsville
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Published coroner counts of suicides and overdoses
+    useful: 'no'
+    hits: null
+  - q: Huntsville Police OR HEMSI OR "Huntsville Fire" first responder peer support mental health wellness program
+      officers
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: First-responder wellbeing / peer support programs
+    useful: partly
+    hits: null
+  - q: Madison County OR Cullman County sheriff deputies transport involuntary commitment patients Bryce Hospital
+      Tuscaloosa probate mental health transport burden
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Sheriff transport of committed patients to Bryce
+    useful: 'no'
+    hits: null
+  - q: WellStone Huntsville "Joint Commission" OR "CARF" accredited behavioral health
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: WellStone's accreditation
+    useful: 'no'
+    hits: null
+  - q: Huntsville Hospital behavioral health inpatient psychiatric beds unit Madison Street adult; Crestwood Medical
+      Center behavioral health unit beds
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Hospital psychiatric units and bed counts in Madison County
+    useful: partly
+    hits: null
+  - q: WellStone Huntsville telehealth OR telepsychiatry school-based therapists Madison County schools Cullman
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Local tele-psychiatry and school tele-therapy
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital psychiatric beds behavioral health unit expansion OR "new" 2025 OR 2026 Madison County
+      mental health beds certificate of need
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Planned or under-construction facilities (surfaced the November 2025 WellStone mobile unit story and the
+      Madison Street Tower expansion, neither readable)
+    useful: partly
+    hits: null
+  - q: Alabama Kids Count 2025 Data Book county profile Madison County Cullman County children mental health pdf
+      alavoices
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Kids Count county profiles (search URLs were stale, but led to the Kids Count page that links the current
+      profiles)
+    useful: 'yes'
+    hits: null
+  - q: Alabama Department of Public Health drug overdose surveillance dashboard county emergency department visits
+      Madison County
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: A state overdose dashboard with county values (found the Alabama Drug Use Central Data Repository)
+    useful: partly
+    hits: null
+  - q: Madison County probate judge involuntary commitment beds wait Huntsville Hospital WellStone deputies transport
+      "Bryce" 2024 OR 2025
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: Commitment volumes, bed waits and transport to Bryce (found WAFF May 2025 and a Decatur Daily story; nothing
+      on transport)
+    useful: partly
+    hits: null
+  - q: '"Huntsville Fire & Rescue" OR "Huntsville Police Department" OR "Cullman" officer wellness peer support
+      team chaplain mental health first responders 2024 OR 2025'
+    source: web search
+    phase: D3-workforce-infrastructure-data
+    for: First-responder wellbeing programs
+    useful: 'no'
+    hits: null
+  - q: Madison County coroner suicides overdose deaths 2024 2025 annual numbers Huntsville
+    source: web search
+    phase: D4-equity-engagement
+    for: annual coroner counts of suicide and overdose deaths
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital Community Health Needs Assessment Madison County mental health 2025 OR 2022 pdf
+    source: web search
+    phase: D4-equity-engagement
+    for: the hospital CHNA for Madison County
+    useful: 'no'
+    hits: null
+  - q: Free2Be Huntsville closed LGBTQ youth Rocket City Pride GLSEN Greater Huntsville mental health
+    source: web search
+    phase: D4-equity-engagement
+    for: LGBTQ+ organizations and the Free2Be closure
+    useful: partly
+    hits: null
+  - q: Huntsville Hispanic Latino mental health Spanish-speaking counselors WellStone OR HICA OR "¡HOLA!" Madison
+      County
+    source: web search
+    phase: D4-equity-engagement
+    for: Spanish-language behavioral health access
+    useful: 'no'
+    hits: null
+  - q: '"NAMI Cullman" OR "NAMI of Cullman" support group Cullman County mental health advocacy'
+    source: web search
+    phase: D4-equity-engagement
+    for: whether a Cullman NAMI affiliate exists
+    useful: 'no'
+    hits: null
+  - q: Madison County Alabama coroner Berryhill suicides 2024 OR 2025 number record year
+    source: web search
+    phase: D4-equity-engagement
+    for: recent coroner suicide counts
+    useful: 'no'
+    hits: null
+  - q: Madison County Alabama "assisted outpatient treatment" probate judge WellStone program grant
+    source: web search
+    phase: D4-equity-engagement
+    for: AOT program origin, funding and results
+    useful: 'yes'
+    hits: null
+  - q: '"S.A.F.E.R. Together" veterans suicide prevention Huntsville Madison County'
+    source: web search
+    phase: D4-equity-engagement
+    for: what S.A.F.E.R. Together is and who runs it
+    useful: 'yes'
+    hits: null
+  - q: Huntsville "Out of the Darkness" walk AFSP 2025 North Alabama participants raised
+    source: web search
+    phase: D4-equity-engagement
+    for: AFSP walk dates and results in Huntsville
+    useful: partly
+    hits: null
+  - q: WellStone Huntsville "Mental Health First Aid" OR "QPR" training community Madison County Cullman 2025
+    source: web search
+    phase: D4-equity-engagement
+    for: local MHFA/QPR offerings
+    useful: partly
+    hits: null
+  - q: Rex Reynolds WellStone pediatric crisis unit funding legislature Huntsville delegation mental health Orr
+      OR Givhan
+    source: web search
+    phase: D4-equity-engagement
+    for: local legislators' roles in mental health funding
+    useful: 'no'
+    hits: null
+  - q: WellStone pediatric crisis unit Huntsville staffing shortage beds open ages 8 one year anniversary
+    source: web search
+    phase: D5-children-youth-families
+    for: First-year numbers, staffing and the age expansion at the pediatric unit
+    useful: 'yes'
+    hits: null
+  - q: Huntsville City Schools Madison County Schools WellStone school-based therapists number of schools mental
+      health service coordinator
+    source: web search
+    phase: D5-children-youth-families
+    for: School-based therapy coverage and district coordinators
+    useful: partly
+    hits: null
+  - q: Neaves-Davis Detention Center Madison County juvenile mental health services beds counties served
+    source: web search
+    phase: D5-children-youth-families
+    for: Juvenile detention capacity and services
+    useful: 'yes'
+    hits: null
+  - q: Cullman County juvenile detention youth held where juvenile court probation mental health
+    source: web search
+    phase: D5-children-youth-families
+    for: Cullman juvenile detention arrangements
+    useful: 'no'
+    hits: null
+  - q: Brooks' Place Child Advocacy Center Cullman forensic interviews counseling children served
+    source: web search
+    phase: D5-children-youth-families
+    for: Cullman's child advocacy center
+    useful: 'yes'
+    hits: null
+  - q: Cullman City Schools Cullman County Schools mental health services coordinator school-based therapy WellStone
+      students
+    source: web search
+    phase: D5-children-youth-families
+    for: Cullman school mental health arrangements
+    useful: partly
+    hits: null
+  - q: Huntsville City Schools mental health services school-based therapists social workers "mental health" department
+      page students served 2025
+    source: web search
+    phase: D5-children-youth-families
+    for: Huntsville City Schools mental health page
+    useful: 'no'
+    hits: null
+  - q: Madison City Schools mental health counselors therapists student services Alabama 2025 mental health coordinator
+    source: web search
+    phase: D5-children-youth-families
+    for: Madison City Schools mental health arrangements
+    useful: 'yes'
+    hits: null
+  - q: Huntsville Hospital for Women & Children pediatric emergency psychiatric boarding children mental health
+      waiting beds
+    source: web search
+    phase: D5-children-youth-families
+    for: Psychiatric boarding in the pediatric ER
+    useful: partly
+    hits: null
+  - q: Childhaven Cullman Alabama children's home residential foster care capacity
+    source: web search
+    phase: D5-children-youth-families
+    for: Childhaven's own site and Form 990
+    useful: 'yes'
+    hits: null
+  - q: Huntsville children psychiatric emergency room boarding child psychiatrist shortage residential treatment
+      north Alabama 2025
+    source: web search
+    phase: D5-children-youth-families
+    for: Local statements of gaps in children's psychiatric care
+    useful: 'no'
+    hits: null
+  - q: autism diagnosis wait list north Alabama Huntsville months evaluation children 2025
+    source: web search
+    phase: D5-children-youth-families
+    for: Autism diagnostic waits
+    useful: partly
+    hits: null
+  - q: Alabama A&M University Counseling Services students free sessions Oakwood University counseling center Huntsville
+    source: web search
+    phase: D5-children-youth-families
+    for: College counseling pages
+    useful: 'yes'
+    hits: null
+  - q: Cullman County juvenile probation office juvenile court detention youth transported Tennessee Valley Juvenile
+      Detention
+    source: web search
+    phase: D5-children-youth-families
+    for: Where Cullman County youth are detained
+    useful: 'no'
+    hits: null
+  - q: '"Huntsville City Schools" mental health therapists OR "social workers" students WellStone school year 2025
+      (restricted to eight news and district domains)'
+    source: web search
+    phase: D5-children-youth-families
+    for: Huntsville City Schools mental health staffing
+    useful: 'no'
+    hits: null
+  - q: Huntsville Madison County unaccompanied youth homelessness point-in-time count 2025 North Alabama Coalition
+      for the Homeless youth
+    source: web search
+    phase: D5-children-youth-families
+    for: Youth homelessness counts
+    useful: 'yes'
+    hits: null
+  - q: Huntsville police WellStone co-responder program calls responded 2024 2025 clinicians results
+    source: web search
+    phase: D6-justice-interface
+    for: Recent co-responder staffing and outcome figures
+    useful: partly
+    hits: null
+  - q: Huntsville police officer 2018 shooting suicidal man murder conviction reversed retrial manslaughter plea
+      date
+    source: web search
+    phase: D6-justice-interface
+    for: Timeline of the criminal case
+    useful: 'yes'
+    hits: null
+  - q: Alabama Court of Criminal Appeals reverses Huntsville officer murder conviction 2023 new trial jury instruction
+    source: web search
+    phase: D6-justice-interface
+    for: Date and reason for the reversal
+    useful: 'yes'
+    hits: null
+  - q: Madison County Jail lawsuit settlement 2013 inmate deaths Advanced Correctional Healthcare settled federal
+      court
+    source: web search
+    phase: D6-justice-interface
+    for: Outcome of the 2014 suits
+    useful: partly
+    hits: null
+  - q: Madison County Alabama Mental Health Court judge graduates Huntsville 23rd Judicial Circuit
+    source: web search
+    phase: D6-justice-interface
+    for: Mental Health Court founding, judge, numbers
+    useful: 'no'
+    hits: null
+  - q: Madison County probate court assisted outpatient treatment SAMHSA grant WellStone Barger participants
+    source: web search
+    phase: D6-justice-interface
+    for: AOT funding and numbers
+    useful: 'yes'
+    hits: null
+  - q: '"Madison County" jail Huntsville death lawsuits settled [plaintiffs'' surnames withheld] "Advanced Correctional
+      Healthcare" settlement amount'
+    source: web search
+    phase: D6-justice-interface
+    for: Settlement amounts in the three cases
+    useful: 'no'
+    hits: null
+  - q: Madison County Jail Huntsville inmate death lawsuit 2023 2024 2025 mental health sheriff medical contractor
+    source: web search
+    phase: D6-justice-interface
+    for: Later jail litigation and current contractor
+    useful: partly
+    hits: null
+  - q: Madison County Alabama jail deaths 2013 lawsuits settled county commission approves settlement [plaintiffs'
+      surnames withheld]
+    source: web search
+    phase: D6-justice-interface
+    for: Settlement of the three cases (query logged with one private surname redacted)
+    useful: 'no'
+    hits: null
+  - q: Cullman County Sheriff OR "Cullman Police" crisis intervention team CIT mental health officer WellStone deputies
+      trained
+    source: web search
+    phase: D6-justice-interface
+    for: Cullman law-enforcement CIT
+    useful: 'no'
+    hits: null
+  - q: Cullman County Detention Center lawsuit inmate death mental health medical care federal court
+    source: web search
+    phase: D6-justice-interface
+    for: Cullman jail litigation
+    useful: 'no'
+    hits: null
+  - q: '"Madison County" Alabama "mental health court" Huntsville judge graduation participants WellStone district
+      court'
+    source: web search
+    phase: D6-justice-interface
+    for: Mental Health Court details
+    useful: 'no'
+    hits: null
+  - q: Huntsville Municipal Court homeless docket OR "unsheltered" court program mental health docket
+    source: web search
+    phase: D6-justice-interface
+    for: Unsheltered docket description
+    useful: 'no'
+    hits: null
+  - q: WellStone crisis center Huntsville law enforcement drop-off diverted from jail emergency room numbers served
+      2024 OR 2025
+    source: web search
+    phase: D6-justice-interface
+    for: Crisis-center diversion counts
+    useful: 'yes'
+    hits: null
+  - q: Madison County Alabama "mental health court" Huntsville circuit judge program started participants graduated
+    source: web search
+    phase: D6-justice-interface
+    for: Mental Health Court details (second attempt, with unrelated domains blocked)
+    useful: 'no'
+    hits: null
+  - q: '"Madison County Jail" Huntsville capacity inmates population overcrowding sheriff Turner mental health inmates'
+    source: web search
+    phase: D6-justice-interface
+    for: Jail capacity, population and mental-health share
+    useful: 'no'
+    hits: null
+  - q: Huntsville 2026 point-in-time count homeless NACH results unsheltered
+    source: web search
+    phase: D7-housing-sdoh
+    for: 2026 PIT count for AL-503
+    useful: 'no'
+    hits: null
+  - q: Cullman County homeless count shelter "Cullman" homelessness 2025 OR 2026 point-in-time
+    source: web search
+    phase: D7-housing-sdoh
+    for: Any Cullman County homelessness count or shelter
+    useful: partly
+    hits: null
+  - q: Huntsville municipal court unsheltered docket homeless court program
+    source: web search
+    phase: D7-housing-sdoh
+    for: Official or press description of the unsheltered docket
+    useful: partly
+    hits: null
+  - q: Huntsville homeless point-in-time count 2026 North Alabama Coalition for the Homeless Madison County number
+      (with allowed_domains)
+    source: web search
+    phase: D7-housing-sdoh
+    for: Press coverage of the 2026 count
+    useful: 'no'
+    hits: null
+  - q: Cullman homeless shelter warming center "The Link of Cullman County" homelessness count (with allowed_domains)
+    source: web search
+    phase: D7-housing-sdoh
+    for: Cullman shelter coverage
+    useful: 'no'
+    hits: null
+  - q: Huntsville "unsheltered docket" OR "homeless court" municipal court Huntsville Alabama
+    source: web search
+    phase: D7-housing-sdoh
+    for: Unsheltered docket
+    useful: partly
+    hits: null
+  - q: Huntsville homeless count 2026 "point-in-time" NACH Madison County increase WAFF OR WHNT OR AL.com
+    source: web search
+    phase: D7-housing-sdoh
+    for: Press coverage of counts and City policy
+    useful: 'yes'
+    hits: null
+  - q: Cullman homelessness shelter "Cullman" homeless Link of Cullman County warming station Cullman Tribune
+    source: web search
+    phase: D7-housing-sdoh
+    for: Cullman Tribune coverage of shelter and The Link
+    useful: 'yes'
+    hits: null
+  - q: Alabama Medicaid "Eligibility by County" 2026 medicaid.alabama.gov documents Statistics County pdf
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: URL of the latest county eligibility table
+    useful: 'yes'
+    hits: null
+  - q: SAMHSA CCBHC expansion grant 2022 WellStone Huntsville award amount "WellStone" CCBHC grant $4 million
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: amount and term of the 2022 grant
+    useful: partly
+    hits: null
+  - q: North Alabama Community Care ACHN region counties Madison Cullman Medicaid care coordination
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: ACHN regional entity and its counties
+    useful: 'yes'
+    hits: null
+  - q: '"Wellstone" Huntsville SAMHSA CCBHC "SM086" OR "H79" award 2022 "$4,000,000" OR "$1,000,000" taggs OR usaspending'
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: award number and amount
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital Health System uncompensated care charity care million annual report Health Care Authority
+      of the City of Huntsville 2025
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: uncompensated-care figures and the Authority's audit
+    useful: 'yes'
+    hits: null
+  - q: 2026 marketplace open enrollment county-level Alabama Madison County Cullman County plan selections enrollment
+      drop enhanced subsidies
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: county marketplace enrollment
+    useful: 'no'
+    hits: null
+  - q: SHPDA certificate of need psychiatric beds Madison County Huntsville 2025 OR 2026 inpatient psychiatric hospital
+      approved
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: CON decisions on psychiatric beds
+    useful: partly
+    hits: null
+  - q: Cover Alabama OR "Alabama Arise" Medicaid expansion county fact sheet Madison County Cullman County uninsured
+      adults would gain coverage
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: county coverage-gap estimates
+    useful: 'no'
+    hits: null
+  - q: data.cms.gov "Medicare Monthly Enrollment" data-api dataset county BENE_FIPS_CD Tot_Benes
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: CMS county Medicare enrollment API
+    useful: 'yes'
+    hits: null
+  - q: Redstone Arsenal workforce fact sheet federal civilian employees military retirees TRICARE beneficiaries
+      Fox Army Health Center enrolled beneficiaries
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: TRICARE and federal-employee counts
+    useful: partly
+    hits: null
+  - q: Crestwood Medical Center Huntsville behavioral health services inpatient psychiatric unit beds; Cullman Regional
+      Medical Center psychiatric unit senior behavioral health beds
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: hospital psychiatric services and ownership
+    useful: partly
+    hits: null
+  - q: '"Huntsville Hospital" OR "HH Health" uncompensated care 2026 subsidies expire OR "Medicaid" cuts CEO Jeff
+      Samz uninsured patients'
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: local reporting on subsidy expiry and uncompensated care
+    useful: 'yes'
+    hits: null
+  - q: City of Huntsville FY2026 budget outside agency appropriations "WellStone" amount; Madison County Commission
+      appropriation WellStone; Cullman County Commission WellStone appropriation
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: local government appropriations to WellStone
+    useful: 'yes'
+    hits: null
+  - q: Good Samaritan Health Clinic Cullman uninsured eligibility free clinic; Community Free Clinic Huntsville
+      uninsured Madison County eligibility
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: free clinics for the uninsured
+    useful: 'yes'
+    hits: null
+  - q: taggs.hhs.gov "WELLSTONE" Huntsville AL award "CCBHC" H79SM
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: TAGGS record of the CCBHC grant
+    useful: partly
+    hits: null
+  - q: Cullman County Commission OR "Cullman City Council" budget appropriation WellStone mental health 2025 OR
+      2026 Cullman Tribune
+    source: web search
+    phase: D8-payers-coverage-ccbhc
+    for: Cullman local appropriations
+    useful: partly
+    hits: null
+  - q: Alabama 988 call centers counties covered WellStone Huntsville call center "counties" north Alabama 988
+    source: web search
+    phase: D9-ring-and-region
+    for: A published list of which counties the Huntsville 988 call center answers
+    useful: partly
+    hits: null
+  - q: WellStone crisis center Huntsville admissions "outside Madison County" OR "other counties" OR "surrounding
+      counties" sheriff transport deputies drive
+    source: web search
+    phase: D9-ring-and-region
+    for: Reporting on out-of-county admissions and who transports people to the Huntsville crisis center
+    useful: 'no'
+    hits: null
+  - q: Alabama Association of Regional Councils member councils counties TARCOG DeKalb Jackson Limestone Madison
+      Marshall NARCOG Cullman Lawrence Morgan
+    source: web search
+    phase: D9-ring-and-region
+    for: An official page listing TARCOG and NARCOG member counties
+    useful: partly
+    hits: null
+  - q: Alabama Department of Public Health "Northern District" counties public health districts Madison Cullman
+      Limestone Morgan Marshall Jackson
+    source: web search
+    phase: D9-ring-and-region
+    for: ADPH public health district membership for the 15 counties
+    useful: partly
+    hits: null
+  - q: Huntsville Hospital Health System hospitals list Decatur Morgan Hospital Athens-Limestone Marshall Medical
+      Centers Helen Keller Red Bay Lawrence Medical Center affiliates
+    source: web search
+    phase: D9-ring-and-region
+    for: An HH Health page listing its hospitals by location
+    useful: 'yes'
+    hits: null
+  - q: 'alaha.org hospital "Authorized Beds" "Mountain View Hospital" OR "Gadsden Regional Medical Center" OR "Walker
+      Baptist" OR "Marshall Medical Center" (site: alaha.org)'
+    source: web search
+    phase: D9-ring-and-region
+    for: Hospital association directory URLs for ring hospitals with psychiatric units
+    useful: 'yes'
+    hits: null
+  - q: Alabama Medicaid ACHN regions counties "Northwest" "Northeast" Alabama Coordinated Health Network region
+      map Madison Cullman Limestone North Alabama Community Care
+    source: web search
+    phase: D9-ring-and-region
+    for: County membership of the ACHN regions
+    useful: 'yes'
+    hits: null
+  - q: 'alabamapublichealth.gov public health districts map "Northern" district counties Colbert Cullman Franklin
+      Jackson Lauderdale Lawrence Limestone Madison Marion Marshall Morgan Walker Winston (site: alabamapublichealth.gov)'
+    source: web search
+    phase: D9-ring-and-region
+    for: An ADPH page other than the roster that lists district counties
+    useful: partly
+    hits: null
+  - q: sheriff deputies transport mental health patients "crisis center" Huntsville WellStone drive Walker OR Winston
+      OR Marion OR DeKalb OR Etowah OR Marshall OR Morgan County probate
+    source: web search
+    phase: D9-ring-and-region
+    for: Reporting on who transports ring-county residents to the Huntsville crisis center
+    useful: partly
+    hits: null
+  - q: Alabama Department of Senior Services Area Agencies on Aging list counties "Top of Alabama Regional Council
+      of Governments" DeKalb Jackson Limestone Madison Marshall
+    source: web search
+    phase: D9-ring-and-region
+    for: A state source for TARCOG's counties after TARCOG's pages failed
+    useful: 'yes'
+    hits: null
+  - q: Alabama 988 Study Commission report call center coverage "area code" OR "counties" WellStone "256" AltaPointe
+      "251" Crisis Center Birmingham "205" primary coverage
+    source: web search
+    phase: D9-ring-and-region
+    for: 988 call-center coverage areas by county or area code
+    useful: 'no'
+    hits: null
+  - q: Decatur Morgan Hospital West Campus behavioral health inpatient adult adolescent geriatric beds psychiatric
+      unit Huntsville Hospital Health System
+    source: web search
+    phase: D9-ring-and-region
+    for: Unit-level bed counts at Decatur Morgan West
+    useful: partly
+    hits: null
+  - q: Shoals OR Florence OR "northwest Alabama" crisis center planned Riverbend "crisis center" Lauderdale Colbert
+      Franklin no crisis center ADMH 2025 OR 2026
+    source: web search
+    phase: D9-ring-and-region
+    for: Whether a crisis center is planned for the three Shoals counties with none
+    useful: partly
+    hits: null
+  - q: WellStone Emergency Services crisis center Huntsville "counties" patients come from law enforcement drop-off
+      "from as far" OR "drive" OR "transport" WAFF OR WHNT OR AL.com OR "Decatur Daily" 2024 2025
+    source: web search
+    phase: D9-ring-and-region
+    for: Press reporting on distance and origin of crisis-center patients
+    useful: 'no'
+    hits: null
+  - q: '"Mental Health Center of North Central Alabama" mobile crisis OR CCBHC OR "crisis center" Decatur Morgan
+      Limestone Lawrence 2025 2026'
+    source: web search
+    phase: D9-ring-and-region
+    for: North Central's own crisis services and CCBHC plans
+    useful: 'yes'
+    hits: null
+  - q: Mental Health Center of North Central Alabama crisis residential unit Decatur opens OR "ribbon cutting" OR
+      "now open" 16-bed 2026
+    source: web search
+    phase: D9-ring-and-region
+    for: Confirmation that the Decatur crisis residential unit opened
+    useful: partly
+    hits: null
+  - q: '"WellStone" Huntsville CCBHC SAMHSA 2022 award "H79SM" OR "SM-22-002" OR taggs OR usaspending'
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: award number and amount of WellStone's 2022 CCBHC grant
+    hits: null
+  - q: taggs.hhs.gov "WELLSTONE" Huntsville AL award H79SM CCBHC-PDI
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: WellStone's award numbers
+    hits: null
+  - q: Madison County Commission budget appropriation "WellStone" OR "mental health" agencies appropriations FY2026
+      OR FY2025 OR FY2027 commission approves
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: county appropriation to WellStone
+    hits: null
+  - q: huntsvilleal.gov City Council approves operating budget fiscal year 2025 WellStone appropriation amendment
+      outside agencies
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: Huntsville appropriations to WellStone in earlier years
+    hits: null
+  - q: mh.alabama.gov peer programs consumer-run drop-in center "Huntsville" OR "Cullman" recovery community organization
+      directory peer support
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: ADMH peer and drop-in directories
+    hits: null
+  - q: Fox Army Health Center Redstone Arsenal behavioral health services eligibility active duty tricare.mil
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: working address for Fox Army Health Center's behavioral health pages
+    hits: null
+  - q: Alabama marketplace enrollment by county 2025 "Madison County" "Cullman County" plan selections healthcare.gov
+      enrollees county table
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: county marketplace plan selections
+    hits: null
+  - q: Alabama Arise OR "Cover Alabama" county fact sheet marketplace enrollees Madison County Cullman County enhanced
+      premium tax credits 2025 number enrolled
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: county marketplace figures from advocacy sources
+    hits: null
+  - q: SPEAK North Alabama suicide prevention app Huntsville Hospital Foundation Madison County suicides "Mental
+      Health First Aid" Huntsville training
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: local suicide prevention and Mental Health First Aid
+    hits: null
+  - q: '"Recovery Resource Hub" Huntsville "Partnership for a Drug-Free Community" peer support opens'
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: a readable report on the Recovery Resource Hub
+    hits: null
+  - q: '"WellStone" "annual appropriation" OR "appropriation agreement" City of Madison Alabama council resolution
+      FY25 OR FY26 OR FY27'
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: City of Madison appropriations to WellStone
+    hits: null
+  - q: Huntsville Hospital behavioral health unit psychiatric beds number "beds" adult geriatric inpatient Madison
+      County 2024 OR 2025 OR 2026
+    source: web search
+    phase: 'second sweep: D10-sweep2-finance-services-payers'
+    for: psychiatric bed counts at Huntsville Hospital
+    hits: null
+  - q: Madison County jail deaths 2013 lawsuits settled Advanced Correctional Healthcare [plaintiffs' surnames withheld]
+      settlement amount
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: How the three 2014 federal suits ended
+    hits: null
+  - q: al.com Huntsville "Madison County" jail death lawsuit "Advanced Correctional Healthcare" settled OR settlement
+      OR verdict OR dismissed 2017 2018
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Press report of a settlement, verdict or dismissal
+    hits: null
+  - q: Madison County jail Huntsville inmate population capacity overcrowded sheriff mental health inmates 2025
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Jail capacity, population and mental-health caseload
+    hits: null
+  - q: Madison County Alabama Probate Judge office "involuntary commitment" petition "assisted outpatient treatment"
+      madisoncountyal.gov mental health division
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: The probate court's own page on commitments and AOT
+    hits: null
+  - q: Huntsville Police WellStone co-responder program 2024 OR 2025 calls responded numbers council update crisis
+      intervention
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Co-responder outcome numbers after 2022
+    hits: null
+  - q: '"family justice center" Huntsville Madison County Alabama domestic violence Crisis Services of North Alabama'
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Whether Huntsville has a family justice center
+    hits: null
+  - q: Cullman Police Department OR "Cullman County Sheriff" "crisis intervention" training officers mental health
+      WellStone co-responder
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: CIT or co-response in Cullman County
+    hits: null
+  - q: Madison County Alabama "Veterans Treatment Court" OR "Drug Court" OR "Mental Health Court" graduation graduates
+      Huntsville judge 2024 OR 2025
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Specialty court numbers in Madison County
+    hits: null
+  - q: '"Madison County" Alabama community corrections authority Huntsville pretrial release "court referral" program
+      office'
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Madison County community corrections, pretrial and court referral
+    hits: null
+  - q: Huntsville City Schools mental health therapists social workers counselors WellStone school-based board presentation
+      number students served 2025
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Huntsville City Schools mental health staffing and numbers
+    hits: null
+  - q: Decatur Morgan Hospital West behavioral health adolescent unit beds ages inpatient psychiatric children
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Adolescent unit beds and ages at Decatur Morgan West
+    hits: null
+  - q: '"Madison County" Alabama jail "Southern Health Partners" contract commission inmates medical mental health
+      Huntsville'
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: Madison County jail health contract
+    hits: null
+  - q: Madison County Alabama settles lawsuit inmate death jail 2013 gangrene OR "alcohol withdrawal" OR constipation
+      settlement confidential Huntsville attorney Florence
+    source: web search
+    phase: 'second sweep: D11-sweep2-justice-children'
+    for: A third attempt at the outcome of the 2014 suits (this was a 13th search, one over the budget of 12)
+    hits: null
+  - q: WellStone psychiatry residency program Huntsville ACGME accredited first residents UAB
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Relation between the UAB Huntsville and WellStone residencies
+    hits: null
+  - q: Huntsville Police peer support team officer wellness HEMSI "Huntsville Fire & Rescue" first responder mental
+      health program
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: First-responder well-being programs
+    hits: null
+  - q: opioid treatment program methadone clinic Huntsville Cullman Alabama ADMH certified medication assisted treatment
+      directory
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Opioid treatment programs in the two counties
+    hits: null
+  - q: Madison County sheriff deputies transport mental health commitment patients Bryce Hospital burden probate
+      judge Barger
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Who transports committed patients, Madison County
+    hits: null
+  - q: Cullman County sheriff deputies transport mental health patients commitment hours away probate judge "Cullman"
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Who transports committed patients, Cullman County (also surfaced ADMH county directory pages)
+    hits: null
+  - q: Madison County coroner 2025 overdose deaths suicides total number year Tyler Berryhill
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Coroner statistics
+    hits: null
+  - q: '"The Arc of Madison County" Huntsville Alabama services intellectual developmental disabilities'
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: The Arc's correct website
+    hits: null
+  - q: Rocket City Pride Huntsville LGBTQ mental health resources counseling support group North Alabama
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: LGBTQ+ organizations and resources
+    hits: null
+  - q: Huntsville Madison County Hispanic Latino mental health access Spanish-speaking counselors interpreters barrier
+      Cullman
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Hispanic residents' access and language access
+    hits: null
+  - q: telepsychiatry OR telehealth mental health Cullman County schools OR hospital OR jail WellStone "Cullman"
+      tele-mental health
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Local tele-psychiatry
+    hits: null
+  - q: '"United Way of Cullman County" mental health partner agencies community needs'
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: United Way of Cullman County
+    hits: null
+  - q: sheriff deputies drive committed mental patients to Bryce Hospital Tuscaloosa "Madison County" OR "Cullman
+      County" Alabama transport state hospital waiting list
+    source: web search
+    phase: 'second sweep: D12-sweep2-workforce-equity'
+    for: Transport to Bryce Hospital
+    hits: null
+  - q: huntsvilleal.gov South Derrick Street camp 2026 capacity residents case management Homeless Services Team
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: City pages or press on the camp's capacity, rules and operator
+    hits: null
+  - q: Mental Health Center of North Central Alabama crisis residential unit Decatur opens ribbon cutting 2026
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: Whether the Decatur unit opened
+    hits: null
+  - q: CARTS Cullman Area Rural Transportation System demand response fares hours Cullman County Commission
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: The correct CARTS page and ridership
+    hits: null
+  - q: United Way of Cullman County partner agencies Cullman Caring for Kids Victim Services of Cullman The Link
+      Good Samaritan Health Clinic
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: A Cullman County directory of supports with numbers
+    hits: null
+  - q: Cullman Housing Authority public housing units Section 8 vouchers waiting list Cullman Alabama
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: The housing authority's real website
+    hits: null
+  - q: graduation rate 2024-25 Huntsville City Schools Madison County Schools Madison City Schools Cullman County
+      Schools Cullman City Schools state report card
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: District graduation rates
+    hits: null
+  - q: Cullman County Schools Cullman City Schools graduation rate state report card 2025 Cullman Tribune
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: Cullman district report-card figures
+    hits: null
+  - q: ALICE households Madison County Alabama percent below ALICE threshold 2024 data Cullman County United Way
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: County ALICE figures
+    hits: null
+  - q: Huntsville city council 2026 homeless encampment ordinance camping ban public property closure notice
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: 2026 policy changes on encampments
+    hits: null
+  - q: Cullman County homeless 2026 point-in-time count shelter The Link housing assistance Cullman Tribune
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: Cullman County homelessness services and counts
+    hits: null
+  - q: Huntsville City Schools 2024-2025 state report card overall score graduation rate chronic absenteeism Madison
+      County Schools 91
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: Madison County district report-card figures (WHNT, rocketcitynow and Yahoo excluded)
+    hits: null
+  - q: '"crisis residential" Decatur "Mental Health Center of North Central Alabama" opened OR "ribbon cutting"
+      OR "now open" OR "open house" 2026'
+    source: web search
+    phase: 'second sweep: D13-sweep2-housing-sdoh-ring'
+    for: Second attempt to confirm the Decatur unit opened
+    hits: null
+  snowball:
+  - from index pages (agency document lists, newsroom tag pages, budget pages) to the documents they link
+  - from a press report to the primary document it refers to
+  - from the statewide pack's references to their local passages
+  inclusion:
+  - the publisher's own document or data wherever one could be read
+  - reputable press only where no primary document was reachable, and labeled as such
+  - a supporting passage recorded for every finding
+  exclusion:
+  - pages the reader could not open (recorded, never worked around)
+  - archive or mirror copies of blocked pages
+  - figures recalled from memory or estimated
+  - names of private individuals from news reports
+  known_gaps:
+  - The search tool returns a page of results without a total, so hit counts are not available; every query is listed
+    with what it was for.
+  - 390 page reads failed across the two sweeps, most refused by a site's request limit or its robots rule. None
+    was worked around; the principal ones are in the open items.
+  - Most wellstone.com pages refused the page reader; WellStone's own description of its programs, locations and
+    board is therefore under-read, and the report leans on documents WellStone filed with the state, federal award
+    records and the press.
+  - Sources were read through an automated page reader that returns extracts. Passages are as it returned them;
+    paraphrases are flagged, and tables it returned inconsistently are listed under 'Needs a human eye'.
+  - 'Census, CDC, HRSA and County Health Rankings data sites are not reachable from the research environment. County
+    figures come from the statewide pack''s checked table. Tract-level map data was retrieved on 4 October 2026
+    through the browser on the builder''s own computer and checked against checksums computed in the browser (geo/raw/checks.md).
+    Tract boundaries are not in the pack: the app fetches the Census Bureau''s boundary file when it is built.'
+  - Service locations on the map were placed by geocoding the addresses printed in the sources. Two could not be
+    placed, and WellStone's Huntsville campus is placed from a federal treatment locator whose two records for the
+    address disagree; geo/NOTES.md lists every such case.
+corpus_profile:
+  status: two sweeps; references tiered and numbered in order of first citation
+  documents_recorded: 642
+  references_cited: 407
+  findings_recorded: 1375
+  findings_used: 759
+  conflicts_logged: 112
+  not_found_logged: 237
+  could_not_read: 390
+  rechecks: 47
+  by_kind:
+    primary-document: 69
+    org-page: 177
+    official-data: 61
+    press: 92
+    statute: 6
+    court-record: 1
+    other: 1
+  by_tier:
+    seminal: 12
+    current: 373
+    background: 22
+  by_read:
+    full: 336
+    partial: 70
+    not-read: 1
+  year_range:
+  - 2010
+  - 2026
+  undated: 180
+  concentration: mh.alabama.gov 59; cullmantribune.com 25; waff.com 18; huntsvilleal.gov 12; alabamapublichealth.gov
+    10; huntsvillebusinessjournal.com 10; census.gov 9; whnt.com 9 of 407 references. Where an organization is the
+    only source for a statement about itself, the text says so.
+  dissent_represented: true
+request: in cse_01BxuExYbSNYeJ4HtSMeEicf we developed a statewide interactive site. I now want to extend this concept
+  to focus on north alabama, specifically the serviuce area of Wellstone Behavioral services. This  application
+  site is somewhat different in that I'll need you to do the research rather than pull from a report.
+words: 21154

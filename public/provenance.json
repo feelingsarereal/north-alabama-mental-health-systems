@@ -1,0 +1,218 @@
+{
+  "generated_by": "Manuscript Interrogator 0.5.2",
+  "mode": "topic",
+  "as_of": "2026-10-04",
+  "report_version": "v261004.1",
+  "words": 20734,
+  "sections": 126,
+  "blocks": {
+    "total": 283,
+    "by_kind": {
+      "li": 61,
+      "list": 3,
+      "p": 205,
+      "table": 14
+    },
+    "cited": 252,
+    "framing": 33,
+    "synthesis": 59,
+    "uncited": 0
+  },
+  "terms": {
+    "glossary": 189,
+    "occurring_in_text": 185,
+    "linked": 185,
+    "linked_pct": 100,
+    "not_in_text": [
+      "american-community-survey",
+      "margin-of-error",
+      "cdc-places",
+      "claims-ledger"
+    ],
+    "by_category": {
+      "concept": 21,
+      "data-source": 12,
+      "facility": 23,
+      "funding": 14,
+      "law": 10,
+      "measure": 23,
+      "organization": 42,
+      "place": 5,
+      "program": 35,
+      "role": 4
+    }
+  },
+  "references": {
+    "total": 407,
+    "with_summary": 407,
+    "by_tier": {
+      "background": 22,
+      "current": 373,
+      "seminal": 12
+    },
+    "by_read": {
+      "full": 336,
+      "not-read": 1,
+      "partial": 70
+    },
+    "by_doc_type": {
+      "court-record": 1,
+      "official-data": 61,
+      "org-page": 177,
+      "other": 1,
+      "press": 92,
+      "primary-document": 69,
+      "statute": 6
+    },
+    "undated": 180,
+    "cited_in_body": 405,
+    "ledger_only": [],
+    "maps_glossary_primers_only": [
+      406,
+      407
+    ]
+  },
+  "ledger": {
+    "entries": 1497,
+    "by_status": {
+      "absence": 180,
+      "analysis": 234,
+      "self": 105,
+      "verified": 978
+    },
+    "by_kind": {
+      "absence": 191,
+      "analysis": 197,
+      "description": 360,
+      "event": 125,
+      "figure": 394,
+      "role": 81,
+      "self": 110,
+      "status": 39
+    },
+    "by_pass": {
+      "consistency pass after the glossary and primers were written": 14,
+      "consistency pass after the open-items reconciliation": 22,
+      "first check": 607,
+      "second check": 553,
+      "settled after the third check": 5,
+      "third check": 296
+    },
+    "anchored": 1497,
+    "unanchored": 0,
+    "unanchored_by_design": 0,
+    "anchor_errors": 0,
+    "sources": 1554
+  },
+  "open_items": {
+    "total": 129,
+    "by_group": {
+      "Could not be confirmed": 17,
+      "Could not be read": 20,
+      "Needs a human eye": 13,
+      "Not published, as far as this review found": 79
+    },
+    "by_who": {
+      "anyone-with-a-browser": 46,
+      "author": 77,
+      "next-review": 6
+    },
+    "printed_in_appendix_c": 22
+  },
+  "figures": {
+    "total": 6,
+    "by_kind": {
+      "chart": 2,
+      "network": 1,
+      "table": 3
+    },
+    "by_synthesis": {
+      "conceptual": 1,
+      "data": 5
+    }
+  },
+  "concepts": 12,
+  "maps": {
+    "layers": 65,
+    "by_geography": {
+      "county": 36,
+      "tract": 29
+    },
+    "by_group": {
+      "Access and housing": 4,
+      "Coverage": 4,
+      "Deaths": 2,
+      "Health and community": 10,
+      "Health and social needs (modeled)": 11,
+      "Income and work": 3,
+      "People and place": 25,
+      "Workforce and shortage": 6
+    },
+    "panel_only": [
+      "pop18plus"
+    ],
+    "counties": 15,
+    "tracts": 117,
+    "tract_geometry": 117,
+    "empty_cells_by_layer": {
+      "chr_suicide_rate": [
+        "01075"
+      ],
+      "chr_drug_overdose_rate": [
+        "01075",
+        "01093"
+      ],
+      "chr_pcp_ratio": [
+        "01075"
+      ],
+      "hpsa_mh_status": [
+        "01089"
+      ],
+      "hpsa_mh_score": [
+        "01089"
+      ],
+      "pct_rent_burden_35": [
+        "01089010630"
+      ]
+    },
+    "areas_with_an_empty_cell": {
+      "counties": 3,
+      "tracts": 1
+    },
+    "service_locations": {
+      "total": 54,
+      "by_type": {
+        "children": 5,
+        "clinic": 12,
+        "crisis": 2,
+        "hospital": 7,
+        "housing": 2,
+        "justice": 3,
+        "office": 2,
+        "peer-recovery": 4,
+        "primary-care": 6,
+        "social-services": 3,
+        "substance-use": 4,
+        "veterans": 4
+      },
+      "by_precision": {
+        "address": 46,
+        "ambiguous": 1,
+        "approximate": 6,
+        "none": 1
+      },
+      "markers_region": 50,
+      "markers_tracts": 37
+    },
+    "raw_files": 8
+  },
+  "systems": {
+    "nodes": 13,
+    "edges": 25,
+    "rows": 11,
+    "fan_out_edges": 11,
+    "headline_indicators": 27
+  },
+  "search_documents": 1315,
+  "build_errors": 0
+}

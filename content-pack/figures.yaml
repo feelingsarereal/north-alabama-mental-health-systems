@@ -1,0 +1,200 @@
+- id: fig-two-counties
+  label: Figure 1
+  title: Madison and Cullman counties side by side, with Alabama
+  kind: table
+  synthesis: data
+  refs:
+  - 52
+  - 15
+  - 16
+  data: figures/data/fig-two-counties.csv
+  columns:
+  - field: indicator
+    label: Indicator
+  - field: madison
+    label: Madison County
+  - field: cullman
+    label: Cullman County
+  - field: alabama
+    label: Alabama
+  - field: vintage
+    label: Source and vintage
+  caption: Twelve published indicators for the two counties of the core beside the state value from the same source. Values are as published in Census QuickFacts, County Health Rankings and the federal shortage-area file, taken from the county table checked for the statewide report.
+  how_to_read: Read across a row to compare the two counties with each other and with Alabama. The sources and years differ from row to row, so compare within a row and not down a column. Rates per 100,000 pool several years and are less stable for Cullman, the smaller county. An empty cell means the publisher did not publish the value.
+  explain:
+  - 'on': Residents per mental health provider
+    text: A lower number means more providers for the population. The counts come from a federal registry and include people who may no longer be practicing.
+    concept: workforce-shortage-measures
+  - 'on': Mental health shortage-area designation
+    text: A federal label for places with too few mental health professionals. Cullman holds one for its low-income population; Madison County holds none.
+    term: hpsa
+  concepts:
+  - reading-the-numbers
+  - workforce-shortage-measures
+  discussed_in:
+  - guide-two-counties
+  - appendix-a
+  source: Extracted by the builder from the statewide pack's checked county table (Census QuickFacts V2025; County Health Rankings 2025 release and March 2026 supplement; the federal shortage-area file retrieved 3 October 2026). Values are as published; nothing was converted or computed.
+- id: fig-commitments
+  label: Figure 2
+  title: What has been said in public about commitments in Madison County
+  kind: table
+  synthesis: data
+  refs:
+  - 79
+  - 80
+  - 51
+  data: figures/data/fig-commitments.csv
+  columns:
+  - field: year
+    label: Year
+  - field: figure
+    label: Figure
+  - field: what_was_counted
+    label: What was counted
+  - field: who_gave_it
+    label: Who gave it
+  caption: The four figures on involuntary commitment in Madison County found in the sources read. All come from press reports; the probate court publishes no count.
+  how_to_read: Each row is one figure as its source gave it. The rows count different things (people committed, petitions filed, commitments), so they are not points on one line and the table is deliberately not drawn as a chart.
+  explain:
+  - 'on': petitions
+    text: A petition asks the probate court to order treatment; not every petition ends in a commitment.
+    term: civil-commitment
+  concepts:
+  - civil-commitment
+  - reading-the-numbers
+  discussed_in:
+  - d1-commitment-and-the-courts
+  - d6-what-is-not-published
+  source: Extracted by the builder from three press reports. Values are as reported; none was converted, and no series was computed from them.
+- id: fig-access
+  label: Figure 3
+  title: Days a new patient waited at WellStone, January and December 2025
+  kind: table
+  synthesis: data
+  refs:
+  - 50
+  data: figures/data/fig-access.csv
+  columns:
+  - field: measure
+    label: Measure
+  - field: january_2025
+    label: January 2025
+  - field: december_2025
+    label: December 2025
+  caption: The two access measures the Department of Mental Health gave legislators for WellStone in January 2026. They are the only measured change in access found for the region.
+  how_to_read: Two measures at two points in time for one clinic, reported without a method note. "Less than 1" is printed as the Department gave it and is not a number that can be plotted.
+  explain:
+  - 'on': Days to an initial evaluation
+    text: One of the measures a certified clinic must collect itself.
+    term: time-to-services
+  concepts:
+  - ccbhc-and-prospective-payment
+  discussed_in:
+  - d3-the-community-base
+  - s12-the-ccbhc-transition
+  source: Extracted by the builder from the Department's FY2027 budget presentation. Values are as published.
+- id: fig-served
+  label: Figure 4
+  title: Four published figures for WellStone in fiscal year 2025
+  kind: chart
+  synthesis: data
+  refs:
+  - 64
+  - 1
+  - 48
+  chart:
+    type: bar
+    x:
+      field: label
+      label: Source
+    y:
+      field: people
+      label: Figure as printed
+      unit: people
+  data: figures/data/fig-served.csv
+  caption: How many people WellStone served in FY2025, according to four published statements. Two are the Department's table figures, whose unit could not be confirmed because the column headings did not come through; two are lower bounds ("over 12,000", "more than 13,500") and are drawn at the bound.
+  how_to_read: Each bar is one statement, labelled with its words as printed. The bars differ because the sources count different things over the same year, and no source reconciles them. Do not read the tallest bar as the right one.
+  explain:
+  - 'on': Department bars
+    text: 'The two figures come from different tables on one page of the Department''s annual report: one for community mental health centers and one for certified clinics.'
+    concept: reading-the-numbers
+  concepts:
+  - reading-the-numbers
+  discussed_in:
+  - d6-where-the-numbers-disagree
+  - d3-who-was-served
+  source: Extracted by the builder from the Department's FY2025 annual report, WellStone's strategic plan and a press report. Values are as published; the two "over" figures are plotted at the stated bound.
+- id: fig-housing
+  label: Figure 5
+  title: People counted as homeless and supportive housing beds, Huntsville continuum, 2022 to 2025
+  kind: chart
+  synthesis: data
+  refs:
+  - 59
+  - 313
+  - 314
+  - 60
+  - 61
+  chart:
+    type: line
+    x:
+      field: year
+      label: Year
+    y:
+      field: value
+      label: People or beds
+    series: series
+  data: figures/data/fig-housing.csv
+  caption: The January point-in-time count and the permanent supportive housing beds in the federal housing inventory for the three-county Huntsville continuum (Madison, Limestone and Morgan). No figure exists for Cullman County, which belongs to a different continuum.
+  how_to_read: One line counts people on a single night in January; the other counts beds. They are different units on one axis, shown together because the report sets them side by side. The count rose from 549 to 718 while the beds fell from 334 to 190. The count depends on how it was taken each year, so read the direction and not the exact gap.
+  explain:
+  - 'on': People counted as homeless
+    text: A count on one night in January, organized by the local continuum and reported to the federal housing department.
+    term: point-in-time-count
+  - 'on': Permanent supportive housing beds
+    text: Housing with services attached and no time limit, as listed in the federal inventory.
+    term: supported-housing
+  concepts:
+  - counting-homelessness-and-housing
+  discussed_in:
+  - s11-housing-and-homelessness
+  - dependency-map
+  source: Extracted by the builder from the federal housing department's count and inventory reports for the Huntsville continuum, 2022 to 2025. Values are as published; nothing was computed.
+- id: fig-systems-graph
+  label: Figure 6
+  title: How the parts of the regional system depend on one another
+  kind: network
+  synthesis: conceptual
+  refs:
+  - 1
+  - 3
+  - 37
+  - 39
+  - 50
+  - 51
+  - 55
+  - 56
+  - 57
+  - 61
+  - 62
+  - 69
+  - 88
+  - 192
+  - 374
+  - 397
+  data: figures/data/systems-graph.json
+  caption: The statewide report's twelve nodes and the ring, joined by the eleven links in this report's dependency table. Each link carries the evidence the report gives for it.
+  how_to_read: Each arrow runs from the part that constrains to the part that is constrained. Select a link to read its evidence. The Data node points to every other node because almost every judgment in the report rests on what is and is not measured. The arrows are the report's reading of the evidence, not a measured effect.
+  explain:
+  - 'on': Payers to Service continuum
+    text: The clinic payment covers Medicaid enrollees; the clinic must serve everyone.
+    concept: ccbhc-and-prospective-payment
+  - 'on': Housing to Service continuum
+    text: Supportive housing beds fell while the center and the court both asked for more places to step down to.
+    concept: counting-homelessness-and-housing
+  concepts:
+  - eight-domains
+  discussed_in:
+  - dependency-map
+  source: Drawn by the builder from the dependency table in this report; the frame of twelve nodes is the statewide report's. The links are the report's analysis and the evidence on each is cited.

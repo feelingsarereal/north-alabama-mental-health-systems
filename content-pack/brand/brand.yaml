@@ -1,0 +1,26 @@
+organisation: Little Orange Fish
+address: 101 Quality Circle, Suite 140, Huntsville, Alabama 35806
+email: info@littleorangefish.org
+website: littleorangefish.org
+tagline: A strong community is built of healthy individuals, and good health starts with a healthy mind.
+logo: brand/little-orange-fish-logo.jpg
+logo_note: Supplied by the author as a JPEG on a white ground (1865×712). On dark surfaces set it on a white rounded
+  panel; do not recolour or redraw it.
+colors:
+  orange: '#e8762b'
+  orange_fish: '#ee8544'
+  slate_wordmark: '#b6c3cc'
+  ink: '#222222'
+  ink_soft: '#555555'
+  muted: '#888888'
+  rule: '#bbbbbb'
+  table_head_fill: '#fbe5d6'
+  panel_fill: '#f3f3f3'
+  paper: '#ffffff'
+colors_source: Measured from the report PDF (heading, body, table and rule colours) and from the supplied logo image.
+type:
+  body: Carlito
+  headings: Carlito Bold
+  note: 'The PDF is set in Carlito (metric-compatible with Calibri): body 11 pt #222222, section headings 17 pt
+    bold in the orange, sub-headings 13.5 pt bold #333333. The logo wordmark is a light geometric sans. Self-host
+    the fonts (for example @fontsource/carlito); no runtime font fetches.'

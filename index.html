@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>North Alabama Mental Health Systems Report — draft for review</title>
+    <meta name="description" content="The North Alabama Mental Health Systems Report (Little Orange Fish, prepared with Claude) as a searchable site: Madison and Cullman counties and the fifteen-county Huntsville crisis catchment, from public sources. A draft for review; not approved; not peer reviewed." />
+    <link rel="icon" type="image/png" sizes="32x32" href="%BASE_URL%favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="%BASE_URL%favicon-192.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png" />
+    <meta name="theme-color" content="#e8762b" />
+    <script>
+      // theme before first paint: stored choice, else the system preference (DESIGN-SYSTEM §5)
+      try {
+        var t = localStorage.getItem('bx-theme:north-alabama-mental-health-systems');
+        if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

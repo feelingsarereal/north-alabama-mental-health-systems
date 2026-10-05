@@ -1,0 +1,1163 @@
+- id: OI-001
+  group: Could not be read
+  what: "About fifty pages of WellStone's website could not be read, including those on its programs, locations, board, school-based services and psychiatry residency. Two pages and two press releases were read."
+  why: "Much of what the report says about WellStone's programs rests on the Department of Mental Health's documents and on press reports and not on WellStone's own account."
+  blocks: [B0280, B0004, B0115, B0174]
+  sections: [appendix-c-could-not-be-read, front, d5-facilities, d8-gaps-and-opportunities]
+  looked: "Fifty wellstone.com addresses were requested on 4 October 2026. The page reader was refused (robots) or timed out on nearly all of them, and the site limited the number of requests on the rest. The site was not requested again in the second round of research."
+  who: anyone-with-a-browser
+  how_to_close: "Open the WellStone pages on programs, service locations, board and leadership, school-based therapy, client handbooks and the residency in a browser and check the report's statements against them."
+- id: OI-002
+  group: Could not be read
+  what: "WellStone's single audits for fiscal years 2022 to 2025 could not be opened, and no Form 990 data for any year after FY2021 appeared in the public database used."
+  why: "They would show WellStone's revenue by source, its federal awards and the significant deficiency flagged on the FY2025 audit, none of which the report can state."
+  blocks: [B0280, B0028, B0055, B0059, B0060, B0068, B0138, B0260]
+  sections: [appendix-c-could-not-be-read, guide-in-brief, d2-scope, d2-wellstones-books, d2-gaps-and-opportunities, d6-what-is-not-published, s12-gaps-and-opportunities]
+  looked: "ProPublica's Nonprofit Explorer (Form 990 data to FY2021 only; the audit pages returned a wrapper and the download was refused); the Federal Audit Clearinghouse summary and report pages (the page reader was refused (robots), and its data service needs a key); a guessed address for a 2023 annual report on wellstone.com."
+  who: anyone-with-a-browser
+  how_to_close: "Download the four audit reports from the Federal Audit Clearinghouse in a browser, and look up WellStone's later filings on the tax agency's public search for exempt organizations."
+- id: OI-003
+  group: Could not be read
+  what: "The City of Huntsville's outside agency appropriations books, which hold the annual amount for WellStone and other agencies, could not be opened. Only the FY2026 amount ($900,000, less $36,000 moved by amendment) is known, from a city release."
+  why: "They would give the city's appropriation to WellStone for FY2024, FY2025 and FY2027 and show which agencies share the outside-agency totals."
+  blocks: [B0280, B0037, B0063, B0070]
+  sections: [appendix-c-could-not-be-read, d1-local-government, d2-local-public-money, d2-gaps-and-opportunities]
+  looked: "The FY2027 appropriations book and the FY2026 budget ordinance packet on huntsvilleal.gov (the page reader was refused (robots) on every file under the city's uploads path, three attempts in all); the city's FY2025 and FY2027 budget releases and two press reports, which give totals only."
+  who: anyone-with-a-browser
+  how_to_close: "Open the appropriations books for FY2024 to FY2027 from the city's budget page in a browser and note the WellStone line in each."
+- id: OI-004
+  group: Could not be read
+  what: "Ten Cullman County Commission documents (agendas and minutes for 2025 and 2026) could not be read when first requested. Two agendas were read later; the minutes turned out to be scanned images with no text."
+  why: "They would show any county appropriation to WellStone, its appointments to WellStone's board, its opioid settlement decisions and the FY2027 budget."
+  blocks: [B0280, B0064]
+  sections: [appendix-c-could-not-be-read, d2-local-public-money]
+  looked: "Ten documents on the county's website were requested together and the site limited the number of requests. Later the agendas of 11 August and 22 September 2026 opened and carried no WellStone item; the minutes of 18 June 2026 and the others on the index returned no readable text. Press reports of the county's FY2027 budget gave no line items."
+  who: anyone-with-a-browser
+  how_to_close: "Read the scanned minutes for 2025 and 2026 by eye and note any item on WellStone, mental health, board appointments or opioid funds."
+- id: OI-005
+  group: Could not be read
+  what: "The full report of United Way of Madison County's 2024 community needs assessment could not be opened. Only the executive summary was read, and it carries one sentence on mental health and no percentages."
+  why: "It is the nearest thing Madison County has to a needs assessment, and any mental health results by rank, race, income or area would be in the full report."
+  blocks: [B0280, B0049, B0135, B0145]
+  sections: [appendix-c-could-not-be-read, d1-plans-on-file, d6-what-is-measured, d6-gaps-and-opportunities]
+  looked: "The full report on United Way's website (the file was too large for the page reader, at more than 31 megabytes; requested in both rounds of research); the executive summary, read three times."
+  who: anyone-with-a-browser
+  how_to_close: "Download the full report in a browser and read its sections on health and mental health."
+- id: OI-006
+  group: Could not be read
+  what: "The state health department's death tables for Madison and Cullman counties by cause, race and sex could not be read. The documents run to several hundred pages and the text returned stopped before either county's page; an older county profiles document returned numbers that belonged to other counties."
+  why: "They would give local counts of suicides and drug poisonings by race and sex, which the report cannot state for either county."
+  blocks: [B0280, B0136, B0151]
+  sections: [appendix-c-could-not-be-read, d6-what-is-measured, d7-what-the-data-show]
+  looked: "The 2024 cause-of-death book (Cullman on page 89, Madison on page 181; the text ended at page 12), the 2023 county health profiles (the text ended at page 23) and the 2021 county health profiles (the text ended in the Cherokee County profile), each requested in both rounds of research. The department's online query system needs a browser and was not used."
+  who: anyone-with-a-browser
+  how_to_close: "Open the 2024 cause-of-death book at pages 89 and 181, or run the department's online query system for the two counties, and copy the suicide and accidental poisoning rows."
+- id: OI-007
+  group: Could not be read
+  what: "Huntsville City Schools' pages on prevention and support, school counseling and student welfare returned only menus, so the district's counselors, social workers and mental health partners could not be described."
+  why: "It is the largest of the five school systems, and without it the report cannot say how school-based care is arranged for more than 23,000 students."
+  blocks: [B0280, B0184, B0192, B0195]
+  sections: [appendix-c-could-not-be-read, s9-schools, s9-key-actors, s9-gaps-and-opportunities]
+  looked: "Four pages on the district's website (the site limited the number of requests in the first round; in the second the pages loaded and returned navigation only); one web search."
+  who: anyone-with-a-browser
+  how_to_close: "Open the three pages in a browser and record the staff numbers, named partners and any counts of students served."
+- id: OI-008
+  group: Could not be read
+  what: "The current strategic plans of Mountain Lakes Behavioral Healthcare and the Mental Health Center of North Central Alabama (printed in Appendix C as the 2025 plans; filed with the Department in January 2026) are scanned images and could not be read."
+  why: "They would give each center's own count of people served, its crisis services and unmet needs, and any reference to the Huntsville crisis center."
+  blocks: [B0280, B0262, B0263, B0264]
+  sections: [appendix-c-could-not-be-read, s13-four-centers]
+  looked: "Both files on the Department's website were requested twice and returned no machine-readable text; a guessed address for an earlier Mountain Lakes plan was not found; the centers' own websites as read carry no count of people served."
+  who: anyone-with-a-browser
+  how_to_close: "Open the two plans in a browser and read them by eye."
+- id: OI-009
+  group: Could not be read
+  what: "Crisis Services of North Alabama's 2025 impact report and 2024 audit could not be opened, and its HELPline page could not be read."
+  why: "They would give the agency's service numbers (calls, shelter nights, forensic exams) and say how its HELPline relates to 988."
+  blocks: [B0280, B0079, B0088, B0164, B0215]
+  sections: [appendix-c-could-not-be-read, d3-crisis-response, d3-prevention-and-recovery, d8-who-engages, s10-victims]
+  looked: "The impact report, audit and services page are served from a host that refused the page reader (robots); the HELPline page could not be opened in either round of research; the home, About and FAQ pages were read and do not mention 988 or give numbers; a nonprofit database's search page was refused."
+  who: anyone-with-a-browser
+  how_to_close: "Open the impact report and audit from the agency's About page in a browser."
+- id: OI-010
+  group: Needs a human eye
+  what: "On page 29 of the Department's FY2025 annual report, WellStone's count as a Certified Community Behavioral Health Clinic was read as 13,700 on some readings and as 6,627 on others. The page prints each heading beneath its table, and 6,627 appears to belong to the 988 call center table."
+  why: "The report prints 13,700 as WellStone's clinic count and 6,627 as its 988 figure, and both rest on an inference from the order of the text."
+  blocks: [B0281, B0073, B0079, B0139, B0251]
+  sections: [appendix-c-needs-a-human-eye, d3-who-was-served, d3-crisis-response, d6-where-the-numbers-disagree, s12-the-ccbhc-transition]
+  looked: "The page was read several times in both rounds of research: some readings gave 13,700 for the clinic table, others attached the four-provider list ending in 6,627 to the clinic heading, and the raw text shows each heading following its table. The column headings and units were not returned."
+  who: anyone-with-a-browser
+  how_to_close: "Look at page 29 of the PDF and confirm which table each of 13,700 and 6,627 sits in, and what the tables count."
+- id: OI-011
+  group: Needs a human eye
+  what: "The National Children's Advocacy Center's therapy figures for 2024 and all of its 2025 figures could not be paired with their captions. The 2024 report gave 270 and 1,664 on one reading and 1,311, 83, 3,007 and 1,664 on another; the 2025 page is six numbers followed by five captions."
+  why: "The report leaves the 2024 therapy figures out and uses no 2025 figure, so the center's therapy volume is missing from the section on child welfare."
+  blocks: [B0281, B0187]
+  sections: [appendix-c-needs-a-human-eye, s9-child-welfare]
+  looked: "The 2024 impact report and the 2025 impact report, each read at least three times across both rounds of research. Forensic interviews (488), team case reviews (991) and forensic medical exams (129) for 2024 agreed on every reading and are printed."
+  who: anyone-with-a-browser
+  how_to_close: "Open both impact reports and copy the therapy intakes, sessions and hours for 2024 and each 2025 figure with its caption."
+- id: OI-012
+  group: Needs a human eye
+  what: "The state health department's May 2024 map of mental health shortage areas could not be read for Madison or Cullman County. Its text holds 67 county names and 66 numbers in separate lists, so every pairing returned (18 for Madison; 17 and 18 for Cullman) is unreliable."
+  why: "The report takes the two counties' designations from the federal file (none for Madison; low-income population, score 16, for Cullman), and the state's own map neither confirms nor contradicts that as read."
+  blocks: [B0281, B0098]
+  sections: [appendix-c-needs-a-human-eye, d4-the-shortage-measured]
+  looked: "The map PDF, read in both rounds of research, four readings in all; the department's shortage-area page, which as read offers the map and no county list."
+  who: anyone-with-a-browser
+  how_to_close: "Look at the map and note the shading and any number printed on Madison and Cullman."
+- id: OI-013
+  group: Needs a human eye
+  what: "The Department's April 2026 Stepping Up map could not be read to say whether Madison or Cullman County is a current site. Both counties were sites in 2018–19 and 2020–21 and appear on the Department's list to September 2023."
+  why: "It would settle whether jail screening under Stepping Up continues in either county, including the arrangement the Cullman County Commission backed in 2018."
+  blocks: [B0281, B0211, B0038]
+  sections: [appendix-c-needs-a-human-eye, s10-intercept-3, d1-local-government]
+  looked: "The map PDF, read in both rounds (its text lists all 67 county names without tying any to the legend); the Department's program page, which names two other counties only; the state's yearly reports and its progress report for May 2019 to September 2023; the Cullman Tribune's coverage, with nothing after April 2024."
+  who: anyone-with-a-browser
+  how_to_close: "Look at the map's shading for the two counties."
+- id: OI-014
+  group: Needs a human eye
+  what: "In the 2025 federal housing inventory for the Huntsville continuum, the permanent supportive housing row shows 24 beds in one subset column and 166 in the next, and readings disagreed on which column holds chronic and which veteran beds. It also could not be confirmed that the housing authority's 166-bed project, labeled \"- V\" in the list, is the veterans' voucher program."
+  why: "It decides whether WellStone's 24 Shelter Plus Care beds can be described as the only ones dedicated to chronically homeless people."
+  blocks: [B0281, B0225]
+  sections: [appendix-c-needs-a-human-eye, s11-housing-and-homelessness]
+  looked: "The inventory report was read several times in both rounds of research; the year-round totals (421, 37, 190, 36 and 684) agreed every time and the column labels did not. The 2022 report's layout points to the order chronic, veteran, youth."
+  who: anyone-with-a-browser
+  how_to_close: "Open the PDF and read the column headers above the permanent supportive housing row and the full name of the housing authority's project."
+- id: OI-015
+  group: Needs a human eye
+  what: "The number of people who took part in United Way of Madison County's 2024 needs assessment was read as \"nearly 1,000\" once and as \"nearly 1,500\" twice, in the same sentence of the executive summary."
+  why: "The figure is the assessment's sample size and should not be printed until it is settled."
+  blocks: [B0281]
+  sections: [appendix-c-needs-a-human-eye]
+  looked: "The executive summary PDF, three readings."
+  who: anyone-with-a-browser
+  how_to_close: "Open the executive summary and read the sentence."
+- id: OI-016
+  group: Could not be confirmed
+  what: "How the three federal lawsuits over the 2013 deaths in the Madison County jail ended could not be established. All three were reported as pending in September 2016, and in one of them the court denied the motions to dismiss on 9 March 2015."
+  why: "The report describes the allegations and cannot say whether the cases ended in judgment, dismissal or settlement."
+  blocks: [B0282, B0209]
+  sections: [appendix-c-could-not-be-confirmed, s10-intercept-3]
+  looked: "Six web searches across both rounds of research; the federal court documents site for cases 5:14-cv-01964, 5:14-cv-01959 and 5:14-cv-01309 in the Northern District of Alabama (error pages and pages not found, apart from one 2015 opinion); a court docket archive, a prison news site and a national news site (the page reader was refused (robots)); a state news site (blocked)."
+  who: author
+  how_to_close: "Look up the three dockets on the federal courts' electronic records system, or ask the clerk of the Northern District of Alabama for the final orders."
+- id: OI-017
+  group: Could not be confirmed
+  what: "Whether the Mental Health Center of North Central Alabama's 16-bed crisis residential unit in Decatur has opened could not be confirmed. Ground was broken on 10 December 2024 with completion expected in October 2025, and in October 2026 the center was advertising for nurses for the unit."
+  why: "It would be new bed capacity for committed patients inside the ring and would change how far families and officers from Morgan, Lawrence and Limestone counties travel."
+  blocks: [B0282, B0264]
+  sections: [appendix-c-could-not-be-confirmed, s13-four-centers]
+  looked: "The center's home, services, notices and vacancies pages; the Department's directory entry and FY2025 annual report; the Decatur-Morgan Chamber's site; three web searches; the Decatur Daily's article and a copy of a related report (the sites limited the number of requests); a television report that is no longer served."
+  who: author
+  how_to_close: "Ask the center or the Department whether the unit is admitting patients and on what date it opened."
+- id: OI-018
+  group: Could not be confirmed
+  what: "Whether WellStone's psychiatry residency has residents in training could not be established. A national residency database lists the program with six first-year positions and shows 24 current residents, a figure that equals four full classes and may describe approved positions."
+  why: "It would show whether Huntsville has one psychiatry residency producing graduates or two."
+  blocks: [B0282, B0104]
+  sections: [appendix-c-could-not-be-confirmed, d4-the-pipeline]
+  looked: "The American Medical Association's residency database entry (last updated 20 August 2026), read twice; a commercial residency directory, which says information is still to come; WellStone's own residency page (the page reader was refused (robots), three attempts)."
+  who: anyone-with-a-browser
+  how_to_close: "Open WellStone's residency page and the accreditation council's public program search in a browser and note the program's start date and current residents."
+- id: OI-019
+  group: Could not be confirmed
+  what: "Whether WellStone met the targets in its 2022 federal clinic grant could not be confirmed: a peer \"living room\" giving walk-in support to 400 people, intensive community care for 50 service members and veterans by 29 September 2023, and at least 1,200 mobile crisis responses by 29 September 2026. WellStone has said it added an adult mobile crisis team; no count against any target was found in the sources read."
+  why: "The report can state what was promised under a $3,974,261 grant and cannot state what was delivered."
+  blocks: [B0282, B0089, B0091, B0096, B0248]
+  sections: [appendix-c-could-not-be-confirmed, d3-prevention-and-recovery, d3-veterans, d3-gaps-and-opportunities, s12-the-ccbhc-transition]
+  looked: "The federal award record and abstract; the Department's board minutes of November 2025 and May 2026, its FY2025 annual report and its year in review; WellStone's June 2024 release."
+  who: author
+  how_to_close: "Ask WellStone for its final grant report, or request the grantee's progress reports from the federal agency."
+- id: OI-020
+  group: Could not be confirmed
+  what: "The capacity of the South Derrick Street camp is given as 84 marked spaces in the city's release of 16 April 2025 and as about 58 people in two press reports of 2026. No source read reconciles the two, gives the day the camp reopened or prints its community standards."
+  why: "The report prints both figures and cannot say which describes the camp today."
+  blocks: [B0282, B0226]
+  sections: [appendix-c-could-not-be-confirmed, s11-housing-and-homelessness]
+  looked: "The city's release, its Homeless Resources page, site search and volunteer form; press reports of March 2025, March 2026 and June 2026; the city's files under its uploads path (the page reader was refused (robots)); one television report (refused)."
+  who: author
+  how_to_close: "Ask the city's Community Development department for the camp's current capacity, its reopening date and a copy of the community standards."
+- id: OI-021
+  group: Could not be confirmed
+  what: "The exact day North Alabama Regional Hospital closed in 2015 was not found. The closure was announced on 13 January 2015 with a target of 30 June 2015, and admissions stopped on 1 March 2015."
+  why: "The report can date the closure only to mid-2015."
+  blocks: [B0282, B0017, B0084]
+  sections: [appendix-c-could-not-be-confirmed, guide-timeline, d3-inpatient-care]
+  looked: "Two local press reports (one showed no publication date as read); the Department's annual report for FY2015 and FY2016, which mentions the closure in one sentence."
+  who: anyone-with-a-browser
+  how_to_close: "Open the Decatur Daily's closure report in a browser to read its publication date, or ask the Department for the closing date."
+- id: OI-022
+  group: Could not be confirmed
+  what: "Whether Cullman County's mental health court, launched in May 2022, still sits could not be confirmed. By October 2026 the circuit's web page named neither the judge who launched it nor any of the specialty dockets."
+  why: "The report lists the court as launched in 2022 with its current status unconfirmed."
+  blocks: [B0282, B0045, B0210, B0216, B0275]
+  sections: [appendix-c-could-not-be-confirmed, d1-commitment-and-the-courts, s10-intercept-3, s10-the-area-against-the-intercepts, actors-by-sector]
+  looked: "The Cullman courts website (home, circuit, district and probate pages); the 2022 launch reports in both local papers; searches of the Cullman Tribune; a March 2025 report of a judges' luncheon; the Cullman Times site search (timed out)."
+  who: author
+  how_to_close: "Ask the circuit clerk or the presiding judge's office whether the mental health docket still meets."
+- id: OI-023
+  group: Not published, as far as this review found
+  what: "A count of the people WellStone serves in each county was not found in the sources read. The totals found, from the Department and from WellStone, are organization-wide."
+  why: "It would show how many Cullman County residents the center reaches and let each county be set against its population."
+  blocks: [B0138, B0028, B0074, B0134, B0144]
+  sections: [d6-what-is-not-published, guide-in-brief, d3-who-was-served, d6-what-is-measured, d6-gaps-and-opportunities]
+  looked: "The Department's annual reports for FY2021 to FY2025 (one WellStone row each); WellStone's strategic plan; press reports of 2024 and 2026."
+  who: author
+  how_to_close: "Ask the Department or WellStone for the FY2025 counts by county of residence."
+- id: OI-024
+  group: Not published, as far as this review found
+  what: "Lengths of stay, drop-offs by law enforcement, where people went next, readmissions and diversions from jail or emergency rooms at the Huntsville crisis center were not found in the sources read, and neither were admissions and lengths of stay at the pediatric unit. Capacity at opening, monthly admissions and yearly counts of people served were found."
+  why: "Diversion is the stated purpose of the crisis center, and the report cannot say how many people it has diverted."
+  blocks: [B0138, B0026, B0028, B0083, B0095, B0199, B0216, B0217, B0273]
+  sections: [d6-what-is-not-published, guide-in-brief, d3-crisis-response, d3-gaps-and-opportunities, s10-intercept-0, s10-the-area-against-the-intercepts, s10-gaps-and-opportunities, dependency-map]
+  looked: "The state evaluation office's preliminary report of September 2025 (read in part; it gives no per-center figures and found the centers' monthly reports inconsistent); the Department's annual reports for FY2022 to FY2025 and its crisis pages; WellStone's strategic plan; press reports from 2022 to 2026; one web search. WellStone's own crisis pages could not be read."
+  who: author
+  how_to_close: "Ask WellStone or the Department for the crisis center's monthly reports, which include a jail-avoidance field."
+- id: OI-025
+  group: Not published, as far as this review found
+  what: "The county of residence of people admitted to the crisis center or the pediatric unit was not found in the sources read."
+  why: "It is the only way to tell how much the thirteen ring counties use the Huntsville center."
+  blocks: [B0138, B0269, B0270]
+  sections: [d6-what-is-not-published, s13-how-much-the-ring-uses-huntsville]
+  looked: "The Department's FY2025 annual report (totals of 1,879 and 520 with no county); the state evaluation office's report, which says it has no geography for the people served; WellStone's strategic plan; the Department's crisis pages; three web searches."
+  who: author
+  how_to_close: "Ask WellStone or the Department for admissions by county of residence for FY2025."
+- id: OI-026
+  group: Not published, as far as this review found
+  what: "Results of the Huntsville Police co-responder program since 2022 (calls attended, arrests avoided, transports to the crisis center) and its current staffing and hours were not found in the sources read."
+  why: "The program has run for five years and the report can describe only its launch."
+  blocks: [B0138, B0026, B0080, B0201, B0216, B0218]
+  sections: [d6-what-is-not-published, guide-in-brief, d3-crisis-response, s10-intercept-1, s10-the-area-against-the-intercepts, s10-gaps-and-opportunities]
+  looked: "The city's 2021 release and 2022 feature; the police department's crisis intervention page and its review of 2025; searches of the city's site and blog; three press reports; four web searches. An undated television report says the program has a clinician on each of three shifts. The department's 2025 annual report sits under a path that refused the page reader (robots), and WellStone's own article on the program could not be read."
+  who: anyone-with-a-browser
+  how_to_close: "Open the police department's 2025 annual report in a browser; if it carries no numbers, ask the department or WellStone for them."
+- id: OI-027
+  group: Not published, as far as this review found
+  what: "An official yearly count of commitment petitions, hearings and orders was not found for either probate court, and neither was a list of designated facilities or a yearly count of people sent to state beds. The only figures are from press reports about Madison County, in different units (309 petitions in 2019, 414 in 2021 and 589 involuntary commitments in 2023); nothing was found for Cullman County."
+  why: "It would show how much demand each court faces and whether Madison County's outpatient program has changed it."
+  blocks: [B0138, B0040, B0043, B0053]
+  sections: [d6-what-is-not-published, d1-commitment-and-the-courts, d1-gaps-and-opportunities]
+  looked: "Madison County's probate pages (one was refused; the commitment page and the judge's page give procedure and no counts); the Cullman courts' probate page; the Department's commitment page and provider directory; press reports of 2020, 2023 and 2025; one web search."
+  who: author
+  how_to_close: "Ask each probate court, or the state court administration, for petitions, hearings and orders by year."
+- id: OI-028
+  group: Not published, as far as this review found
+  what: "How many commitments begin each way (a walk-in at the probate office, an emergency room visit or a 911 call) and how long people wait at each stage were not found in the sources read. One press report lists the three routes without counts."
+  why: "It would show where people are held before a hearing and for how long."
+  blocks: [B0138, B0043]
+  sections: [d6-what-is-not-published, d1-commitment-and-the-courts]
+  looked: "A May 2025 television report, read twice; Madison County's probate pages; the Department's commitment page, which does not say where a person is held before the hearing."
+  who: author
+  how_to_close: "Ask the Madison County Probate Court for petitions by route and the days from petition to hearing and to placement."
+- id: OI-029
+  group: Not published, as far as this review found
+  what: "A count of psychiatric beds by hospital was not obtained. Two counts were found (20 beds at Unity Psychiatric Care and 64 licensed beds at Decatur Morgan West); none was found for Huntsville Hospital's adult and senior units, for adolescent beds at Decatur Morgan West, or for the ring hospitals that list psychiatric services, and whether Crestwood runs an inpatient unit was not established."
+  why: "It would settle how many inpatient beds the two counties and the ring have, and which sixty beds a 2025 press report meant."
+  blocks: [B0138, B0085, B0117, B0268]
+  sections: [d6-what-is-not-published, d3-inpatient-care, d5-facilities, s13-what-the-ring-looks-like]
+  looked: "The State Health Plan's psychiatric rule, which prints no inventory and refers readers to the planning agency's data division; the planning agency's website (the connection failed in both rounds) and one of its meeting agendas (not opened); the hospital association's listings; Huntsville Hospital's behavioral health page, annual reports and FY2025 audit; a business magazine's May 2025 survey; two web searches."
+  who: anyone-with-a-browser
+  how_to_close: "Open the state health planning agency's website in a browser and find its inventory of licensed psychiatric beds by facility."
+- id: OI-030
+  group: Not published, as far as this review found
+  what: "A measure of how long psychiatric patients wait in emergency departments was not found for either county. The only accounts are of children waiting up to 24 hours before the pediatric unit opened."
+  why: "It would show whether the crisis center and the pediatric unit have relieved the hospitals."
+  blocks: [B0138, B0180]
+  sections: [d6-what-is-not-published, s9-wellstones-childrens-services]
+  looked: "Huntsville Hospital's pediatric emergency and behavioral health pages and annual reports; Cullman Regional's needs assessment, plan and expansion page; three press reports; one web search."
+  who: author
+  how_to_close: "Ask Huntsville Hospital and Cullman Regional for emergency department lengths of stay for psychiatric patients."
+- id: OI-031
+  group: Not published, as far as this review found
+  what: "The number of people with a mental illness held in either county's jail, the jails' average populations and their screening practice at booking were not found in the sources read. The most recent capacity statement found for the Madison County jail dates from 2010; the Cullman County detention center gives 553 beds."
+  why: "The jails are where the report can say least about people with mental illness."
+  blocks: [B0138, B0028, B0208, B0220]
+  sections: [d6-what-is-not-published, guide-in-brief, s10-intercept-3, s10-gaps-and-opportunities]
+  looked: "Both sheriffs' websites (jail, corrections, detention, press release and other pages); Madison County's department pages (refused); press reports of the jail health contracts; a national jail data site (certificate error); two web searches. The state's Stepping Up reports give screening counts for 2018–19 and 2020–21 only."
+  who: author
+  how_to_close: "Ask each sheriff's office, by records request if needed, for average daily population and the number of inmates on the mental health caseload."
+- id: OI-032
+  group: Not published, as far as this review found
+  what: "Staff vacancy and turnover figures for WellStone were not found in the sources read. Its plan names nursing recruitment as an unmet need without numbers."
+  why: "Nursing is the named bottleneck and no number describes it."
+  blocks: [B0138, B0102, B0111]
+  sections: [d6-what-is-not-published, d4-what-cannot-be-staffed, d4-gaps-and-opportunities]
+  looked: "WellStone's strategic plan; the Department's FY2025 annual report and FY2027 budget presentation; WellStone's careers and about pages (the page reader was refused (robots)). An undated press report said WellStone's website then listed more than 50 openings in Huntsville."
+  who: author
+  how_to_close: "Ask WellStone for its vacancy and turnover rates, for nursing in particular."
+- id: OI-033
+  group: Not published, as far as this review found
+  what: "The goal of WellStone's Be the Rock capital campaign and the total it raised were not found. A press report at the crisis center's opening in 2022 gave close to $550,000 raised toward about $5 million; no later total, donor list or separate WellStone foundation was found."
+  why: "About half the cost of the crisis center was left to the campaign, and the report cannot say whether it was raised."
+  blocks: [B0138, B0056]
+  sections: [d6-what-is-not-published, d2-what-the-buildings-cost]
+  looked: "The campaign's page; press reports of 2022, 2024 and February 2026; WellStone's ribbon-cutting post; a nonprofit database (no separate foundation listed); one web search. WellStone's fundraising posts could not be read."
+  who: author
+  how_to_close: "Ask WellStone's development office for the campaign's goal and final total."
+- id: OI-034
+  group: Not published, as far as this review found
+  what: "Yearly counts of suicides and overdose deaths by race and sex were not found in any local publication, and no county count of veteran suicides was found. The Madison County coroner's website carries no statistics as read; coroners' counts reach the public through interviews, such as overdose deaths for 2016 to 2019 in Madison County and suicides for 2021 and 2022 in Cullman County."
+  why: "Deaths are the plainest measure of the burden, and the report has no local series by year, race or sex."
+  blocks: [B0138, B0136, B0143, B0152, B0159]
+  sections: [d6-what-is-not-published, d6-what-is-measured, d6-gaps-and-opportunities, d7-specific-communities, d7-gaps-and-opportunities]
+  looked: "The Madison County coroner's home and About pages (a third page was not read); several web searches; press interviews with both coroners; the state health department's suicide page; a veterans' suicide prevention page and the VA's Birmingham pages. The state's death tables, which hold the counts by race and sex, are listed separately as could not be read."
+  who: author
+  how_to_close: "Ask both coroners for annual counts of suicides and overdose deaths for 2021 to 2025."
+- id: OI-035
+  group: Not published, as far as this review found
+  what: "Which counties the Huntsville 988 call center answers was not found in the sources read, and neither was an answer rate for that center alone. A Department presentation calls WellStone the call center for Region I, northern Alabama, and WellStone has said that Cullman County callers reach the Huntsville center."
+  why: "It is the fourth map of WellStone's service area and the one the report cannot draw."
+  blocks: [B0138, B0011, B0079]
+  sections: [d6-what-is-not-published, guide-three-maps, d3-crisis-response]
+  looked: "The Department's 988 page, its three-year release, its 2020 crisis center award release, its FY2025 annual report and its board minutes; WellStone's strategic plan; a 2023 press report; three web searches."
+  who: author
+  how_to_close: "Ask the Department or WellStone for the list of counties routed to the Huntsville center and its answer rate."
+- id: OI-036
+  group: Not published, as far as this review found
+  what: "A homelessness count for Cullman County was not found. The county is counted within a 37-county continuum whose figures as read are a total only (636 people in January 2026), and the only shelter with Cullman in its name in the federal inventory is a 21-bed domestic violence shelter."
+  why: "The report cannot say how many people are homeless in one of WellStone's two counties."
+  blocks: [B0138, B0222, B0227, B0236, B0237]
+  sections: [d6-what-is-not-published, s11-housing-and-homelessness, s11-the-area-against-the-five-domains, s11-gaps-and-opportunities]
+  looked: "The rural continuum's about, count and members pages; the federal 2025 count and inventory reports for it; the Cullman Tribune's coverage of The Link; three web searches."
+  who: author
+  how_to_close: "Ask the Alabama Rural Coalition for the Homeless for the Cullman County rows of its January 2026 count."
+- id: OI-037
+  group: Not published, as far as this review found
+  what: "Quality and outcome measures for WellStone under the clinic model were not found: the Department's promised annual quality report, first-year results of the demonstration, follow-up after hospitalization, the clinic count for FY2024 and any access time after December 2025. The two access times reported for 2025 are the only measured results found."
+  why: "The first quality report would be the first published outcome measures for WellStone."
+  blocks: [B0138, B0019, B0077, B0090, B0134, B0141, B0146, B0251, B0273]
+  sections: [d6-what-is-not-published, guide-in-brief, d3-the-community-base, d3-prevention-and-recovery, d6-what-is-measured, d6-quality-improvement, d6-gaps-and-opportunities, s12-the-ccbhc-transition, dependency-map]
+  looked: "The Department's quality reporting manual, clinic manual, January 2026 and summer 2025 budget presentations, FY2024 and FY2025 annual reports, board minutes of May 2025, November 2025 and May 2026 and its year in review; the hospital system's annual report and audit; a federal grant abstract."
+  who: next-review
+  how_to_close: "Check the Department's clinic pages for the annual quality report when it appears."
+- id: OI-038
+  group: Could not be read
+  what: "The City of Madison's council documents on WellStone could not be read. The only amount known is the $45,000 proposed for FY2024; its appropriations for FY2025 to FY2027 and its agreement with WellStone for first-responder mental health services were not found."
+  why: "The City of Madison pays toward WellStone and appoints no one to its board, and the report can cite one year's amount."
+  blocks: [B0034, B0050, B0063, B0067]
+  sections: [d1-the-center-and-its-board, d1-key-actors, d2-local-public-money, d2-key-actors]
+  looked: "Two meeting documents on the city's agenda host (returned as unreadable data); the city's own site (the page reader was refused (robots)); a television report of the FY2027 budget (refused) and one of the agreement (no longer served)."
+  who: anyone-with-a-browser
+  how_to_close: "Open the council agendas for the FY2025 to FY2027 budgets in a browser and note the WellStone resolutions."
+- id: OI-039
+  group: Could not be read
+  what: "Several other City of Huntsville documents could not be opened: the police department's 2025 annual report, its 2021 written response on policy, its directives portal, the FY2027 council budget presentation, the city's record of its appointments to WellStone's board, and files linked from the Homeless Resources page."
+  why: "They may hold current counts of crisis-trained officers, any policy change after the 2018 shooting, directives on staff support and the camp's rules."
+  blocks: [B0108, B0201, B0202, B0226]
+  sections: [d4-wellbeing, s10-intercept-1, s11-housing-and-homelessness]
+  looked: "Files under the city's uploads path and its boards portal (the page reader was refused (robots)); the directives portal, which loads by script and returned no document list. City pages and features from 2020 to 2023 were read, and none links the crisis training expansion or the co-responder program to the 2018 shooting."
+  who: anyone-with-a-browser
+  how_to_close: "Open each document in a browser, starting with the police department's 2025 annual report and its directives portal."
+- id: OI-040
+  group: Could not be read
+  what: "Several Madison County government pages returned an error and could not be read: the probate court's mental health page, the sub-pages of the juvenile detention center, the community corrections and department index pages and the rural transit page."
+  why: "They may hold the court's own account of its commitment and outpatient programs, services for detained youth and current transit hours."
+  blocks: [B0041, B0124, B0188]
+  sections: [d1-commitment-and-the-courts, d5-transportation, s9-juvenile-justice]
+  looked: "The county's website returned \"forbidden\" on these pages in both rounds of research, three attempts on some. The probate court's commitment page and the alternative sentencing office's pages did open."
+  who: anyone-with-a-browser
+  how_to_close: "Open the pages in a browser."
+- id: OI-041
+  group: Could not be read
+  what: "Most of the Alabama Medicaid Agency's website could not be read: its pages on the coordinated health networks, the network chapter of its provider manual, its statistics page with later county files and an FY2022 county map, and its sheet of network regions."
+  why: "They would confirm the care coordination regions and may give Medicaid spending by county."
+  blocks: [B0246, B0247]
+  sections: [s12-medicaid-behavioral-health]
+  looked: "The site's pages failed on a certificate error or refused the page reader on both host names, in both rounds of research. Two PDF files, the transportation page and a copy of the budget presentation on the Legislature's site were read."
+  who: anyone-with-a-browser
+  how_to_close: "Open the statistics page in a browser and download the county files and the county map."
+- id: OI-042
+  group: Could not be read
+  what: "Huntsville Hospital Health System's own website, Decatur Morgan Hospital's psychiatric services pages and Crestwood Medical Center's behavioral health page could not be read."
+  why: "They would give the system's own count of hospitals and beds, how its affiliates in the ring are owned or managed, and the adolescent beds and ages admitted at Decatur Morgan West."
+  blocks: [B0085, B0268]
+  sections: [d3-inpatient-care, s13-what-the-ring-looks-like]
+  looked: "Five requests to the system's site and four to Decatur Morgan Hospital's (the page reader was refused (robots) or timed out); four requests to a guessed Crestwood address (not found, or the site limited the number of requests). The hospital association's listings and Huntsville Hospital's own pages were read."
+  who: anyone-with-a-browser
+  how_to_close: "Open the three sites in a browser and record bed counts by unit and the list of affiliated hospitals."
+- id: OI-043
+  group: Could not be read
+  what: "About forty requests for local press articles and site searches failed (some articles were tried in both rounds of research), from three Huntsville television stations, a state news site, a web portal's copies of local reports, a national magazine, and the search pages of the Cullman Times, the Cullman Tribune, 256 Today and the Redstone Rocket."
+  why: "Among them are reports on crisis intervention training counts, the Madison County drug court, the jail health contract, a later settled lawsuit against the sheriff, the camp's reopening and school counseling numbers."
+  blocks: [B0201, B0208, B0210, B0226]
+  sections: [s10-intercept-1, s10-intercept-3, s11-housing-and-homelessness]
+  looked: "Two stations refused the page reader; the third station's articles are no longer served and redirect to another station; the portal limited the number of requests; the state news site was blocked; the magazine refused the page reader; the newspapers' search pages timed out or were refused."
+  who: anyone-with-a-browser
+  how_to_close: "Open the articles in a browser; the articles that are no longer served would need the station or an archive."
+- id: OI-044
+  group: Could not be read
+  what: "The websites of several local nonprofits and one regional council could not be read: The Link of Cullman County, two community action agencies, Family Services Center's programs page, Harris Home for Children, The Pathfinder, the Salvation Army in Huntsville, Cullman's domestic violence agency and the North Central Alabama Regional Council of Governments."
+  why: "Their own program descriptions and service numbers are missing; what the report says about them comes from funders' lists, the federal housing inventory and the press."
+  blocks: [B0213, B0215, B0235]
+  sections: [s10-intercept-4-5, s10-victims, s11-social-and-community-context]
+  looked: "The Link's site (certificate error on every request in both rounds); the community action sites and Harris Home (the page reader was refused (robots)); Family Services Center's programs page and the council's page (timed out); guessed addresses for the other three (not found or did not resolve)."
+  who: anyone-with-a-browser
+  how_to_close: "Open each site in a browser and record program descriptions and any counts of people served."
+- id: OI-045
+  group: Could not be read
+  what: "Several public data tools load by script and returned no data: County Health Rankings' county pages, the federal shortage-area search and health center finder, the Kids Count data center and the state's drug use data repository. As a result it was not established whether any WellStone site holds its own facility shortage designation or whether a federally qualified health center has a site in Cullman County."
+  why: "A facility designation decides whether clinicians at WellStone's Madison County sites qualify for federal loan repayment, and the health center question bears on the report's account of Cullman's safety net."
+  blocks: [B0107, B0231]
+  sections: [d4-the-pipeline, s11-health-care-access]
+  looked: "The tools were requested in one or both rounds of research and returned navigation only or were refused; the report's county values come from the checked county file assembled for the statewide report. Two health centers' own location lists show no Cullman County site."
+  who: anyone-with-a-browser
+  how_to_close: "Search the federal shortage-area tool for facility designations in Madison County and the health center finder for Cullman County."
+- id: OI-046
+  group: Could not be read
+  what: "County figures on household hardship and schooling could not be read or were not reached: the ALICE county tables and data sheet, the food insecurity map, eviction filings, the state report card's graduation and absenteeism rates for the three Madison County school districts, official enrollment by district, and monthly unemployment and food assistance figures later than those printed."
+  why: "They would fill out the report's account of economic stability and education in the two counties."
+  blocks: [B0229, B0233]
+  sections: [s11-economic-stability, s11-education-access]
+  looked: "The ALICE county page (placeholders only), state report (an image) and data sheet (a spreadsheet); the food insecurity map's county pages (navigation only); the state report card site (loads by script); the federal labor statistics file (not found; a copy of the series was read); press reports of report card scores; district home pages. Eviction data and the state's monthly food assistance tables were not reached."
+  who: anyone-with-a-browser
+  how_to_close: "Open each source in a browser and copy the Madison and Cullman rows."
+- id: OI-047
+  group: Could not be read
+  what: "The federal county-level file of 2026 marketplace plan selections could not be opened, and Census estimates of uninsured adults aged 19 to 64 by county could not be read."
+  why: "Coverage losses in 2026 are known for the state and not for Madison or Cullman County."
+  blocks: [B0245, B0258]
+  sections: [s12-the-coverage-picture, s12-gaps-and-opportunities]
+  looked: "The federal file is a compressed archive the page reader could not open; the Census data services now require a key or limited the number of requests; a third-party site refused the page reader (robots); three web searches. A secondary presentation of Census survey estimates for all ages was used."
+  who: anyone-with-a-browser
+  how_to_close: "Download the county-level open enrollment file and read the two county rows for 2025 and 2026."
+- id: OI-048
+  group: Could not be read
+  what: "United Way of Madison County's 2024 annual summary is an image with no readable text, and the state's 2-1-1 dashboard refused the page reader, so United Way's allocations to behavioral health agencies, its list of partner agencies, and 2-1-1 call volumes and top needs for either county could not be recorded."
+  why: "They would show what residents ask for help with and how much local philanthropy goes to mental health."
+  blocks: []
+  sections: []
+  looked: "The annual summary PDF; the 2-1-1 dashboard (refused in both rounds of research); the state 2-1-1 network's pages; both United Ways' pages (Madison's counters displayed zero, and its partners page listed no agencies in the text returned)."
+  who: anyone-with-a-browser
+  how_to_close: "Read the annual summary by eye and open the 2-1-1 dashboard in a browser for the two counties."
+- id: OI-049
+  group: Needs a human eye
+  what: "In the state evaluation office's table of crisis center spending, WellStone's FY2022 row (21.8% operations, 78.6% capital) agreed on every reading. The FY2021, FY2023 and FY2024 rows were returned once only in one round of research, and the FY2024 row as returned does not sum to 100."
+  why: "The report prints the FY2021 and FY2024 shares."
+  blocks: [B0058]
+  sections: [d2-what-the-buildings-cost]
+  looked: "Table 1 on page 11 of the preliminary report of September 2025, read in both rounds of research."
+  who: anyone-with-a-browser
+  how_to_close: "Look at Table 1 and confirm the four WellStone rows."
+- id: OI-050
+  group: Needs a human eye
+  what: "The Department's map of mental illness service regions is an image, so the membership of its Region 1 (twenty counties and seven centers) could not be read again for this report, which relies on the statewide edition's reading of it. The Department's regional offices page lists a different, thirteen-county Region I and does not say which division's regions it describes."
+  why: "Region 1 is used in the report as a benchmark, and its county list has been read by eye only once."
+  blocks: [B0010, B0271]
+  sections: [guide-three-maps, s13-overlapping-boundaries]
+  looked: "The September 2026 map image on the Department's website (the page reader cannot read images); the Department's regional offices page."
+  who: anyone-with-a-browser
+  how_to_close: "Look at the map and list the Region 1 counties and centers."
+- id: OI-051
+  group: Needs a human eye
+  what: "The State Health Plan's psychiatric rule prints its two regions in side-by-side columns, which were returned interleaved. The ten-county North Region list is a reconstruction, and one reading placed a county from another part of the state in it."
+  why: "The report says Madison, Morgan and Cullman sit in a ten-county North Region for psychiatric bed need."
+  blocks: [B0085]
+  sections: [d3-inpatient-care]
+  looked: "The rule on the state administrative code site."
+  who: anyone-with-a-browser
+  how_to_close: "Read the two county lists in the rule by eye."
+- id: OI-052
+  group: Needs a human eye
+  what: "A naloxone distribution figure for Cullman County could not be read from the state opioid council's 2025 report. The report's text gives 2,344 doses for Madison County and does not mention Cullman, which may appear only on the report's map."
+  why: "The report has a naloxone figure for one county only."
+  blocks: [B0123]
+  sections: [d5-medicines]
+  looked: "The council's 2025 report, read in both rounds of research and searched through its appendices for Cullman."
+  who: anyone-with-a-browser
+  how_to_close: "Look at the distribution map in the report and read the Cullman County value."
+- id: OI-053
+  group: Needs a human eye
+  what: "Several official maps could not be read for the two counties because county assignments are shown only by symbols or shading: the court administration's maps of mental health, veterans and drug courts and of court referral officers, the Department's map of prevention funding sources and the state health department's map of telehealth sites."
+  why: "They would confirm from a state source which specialty courts sit in each county and whether the county health departments are telehealth sites."
+  blocks: [B0210]
+  sections: [s10-intercept-3]
+  looked: "Each map was requested and returned county names and statewide totals only (14 mental health courts, 28 veterans courts and 47 adult drug courts)."
+  who: anyone-with-a-browser
+  how_to_close: "Look at each map and note the entries for Madison and Cullman."
+- id: OI-054
+  group: Could not be confirmed
+  what: "Whether the pediatric crisis unit reached full staffing could not be confirmed. On 23 October 2024 it could treat six children at a time in its 24 beds; no later count of staffed beds was found."
+  why: "It is the report's most concrete evidence of the workforce shortage."
+  blocks: [B0023, B0082, B0101, B0110]
+  sections: [guide-in-brief, d3-crisis-response, d4-what-cannot-be-staffed, d4-gaps-and-opportunities]
+  looked: "A television report of October 2024; the Department's FY2025 annual report, which gives evaluations and not staffed beds; press reports of December 2024 and February 2026; one web search."
+  who: author
+  how_to_close: "Ask WellStone how many of the unit's 24 beds are staffed today and when that number was reached."
+- id: OI-055
+  group: Could not be confirmed
+  what: "Whether WellStone met its target of 75% of therapists certified in an evidence-based practice by 30 September 2026 could not be confirmed, and the plan gives no baseline."
+  why: "It is the one workforce target in WellStone's plan, and its date fell four days before this report."
+  blocks: [B0103]
+  sections: [d4-what-cannot-be-staffed]
+  looked: "WellStone's FY2026–27 strategic plan. No later WellStone or Department document was found, and WellStone's site beyond its home page could not be read."
+  who: author
+  how_to_close: "Ask WellStone for the baseline and the share certified on 30 September 2026."
+- id: OI-056
+  group: Could not be confirmed
+  what: "Results of Madison County's assisted outpatient treatment program against its federal grant targets (275 people enrolled over four years; a 75% decrease in participants needing inpatient care or incarceration) were not found, and no independent evaluation was found. Press reports give return rates of about 10% and of under 20%."
+  why: "The program is the court's main innovation and the report can cite only press figures for its results."
+  blocks: [B0044, B0053, B0205]
+  sections: [d1-commitment-and-the-courts, d1-gaps-and-opportunities, s10-intercept-2]
+  looked: "The federal award record and abstract; press reports of 2020 to 2023; the probate court's pages."
+  who: author
+  how_to_close: "Ask WellStone or the probate court for the grant's final report and enrollment numbers."
+- id: OI-057
+  group: Could not be confirmed
+  what: "What pays for the programs built on WellStone's federal grants now that their periods have ended (30 July 2026 for assisted outpatient treatment, 29 September 2026 for the clinic grant) could not be established, and whether the outpatient commitment program continues at the same scale was not confirmed."
+  why: "The report notes the grants' end dates and cannot say whether Medicaid's clinic payment, local budgets or nothing has replaced them."
+  blocks: [B0027, B0061, B0069]
+  sections: [guide-in-brief, d2-wellstones-books, d2-gaps-and-opportunities]
+  looked: "The federal grants database and award records; the Department's board minutes and budget documents; WellStone's strategic plan."
+  who: author
+  how_to_close: "Ask WellStone how each program is funded for FY2027."
+- id: OI-058
+  group: Could not be confirmed
+  what: "Whether WellStone's electronic health record is connected to the state health information exchange could not be confirmed. WellStone does not name its record system on any page read, and nothing was found on a registry of open crisis beds."
+  why: "The clinic model requires the connection, and the report cannot say whether the crisis center, the hospitals and the courts can see one another's information."
+  blocks: [B0118, B0130]
+  sections: [d5-information-systems, d5-gaps-and-opportunities]
+  looked: "WellStone's home page (its patient portal is hosted by a records vendor); its strategic plan; the Department's quality manual and board minutes of May 2025; the exchange's 2025 briefing, which does not name local participants; the Department's 988 and crisis center pages."
+  who: author
+  how_to_close: "Ask WellStone and Alabama One Health Record whether the connection is live."
+- id: OI-059
+  group: Could not be confirmed
+  what: "Whether WellStone's mobile clinic is in service could not be confirmed. It was announced on 7 November 2025 as due to be deployed in the coming weeks."
+  why: "The report describes the van as a way round transport barriers in Madison County."
+  blocks: [B0076, B0121]
+  sections: [d3-the-community-base, d5-medicines]
+  looked: "A business journal's report of November 2025; no later source was read."
+  who: author
+  how_to_close: "Ask WellStone whether the van is running and where it stops."
+- id: OI-060
+  group: Could not be confirmed
+  what: "Whether a Defense Department plan to limit Fox Army Health Center to active-duty soldiers was carried out could not be confirmed. An undated press report described the plan; the clinic's current pages still list retirees and family members."
+  why: "It decides how many military retirees and family members around Redstone Arsenal rely on civilian mental health care."
+  blocks: [B0091]
+  sections: [d3-veterans]
+  looked: "An undated television report; Fox Army Health Center's mental health and behavioral health pages."
+  who: author
+  how_to_close: "Ask the clinic's public affairs office who is eligible for behavioral health care there."
+- id: OI-061
+  group: Could not be confirmed
+  what: "What replaced North Alabama Regional Hospital's 74 beds could not be established: whether the 16-bed crisis stabilization units named in Cullman and Huntsville in 2015 still operate, and under what name, and which counties the hospital served. The one Department document found on the closure gives it a single sentence."
+  why: "The report says the region lost its state hospital and cannot say what capacity took its place."
+  blocks: [B0084, B0264]
+  sections: [d3-inpatient-care, s13-four-centers]
+  looked: "Two local press reports of 2015; the Department's annual report for FY2015 and FY2016; a 2024 statement by a neighboring center's chief executive naming the same four towns."
+  who: author
+  how_to_close: "Ask the Department what crisis stabilization or crisis residential beds it funds in Madison and Cullman counties today."
+- id: OI-062
+  group: Could not be confirmed
+  what: "Whether two Cullman County arrangements continue could not be confirmed: the 2019 route by which a judge can order a mental health evaluation, and the reentry program The Link of Cullman County began with a 2020 federal grant."
+  why: "The report's table of intercepts marks both as not confirmed."
+  blocks: [B0207, B0213, B0216]
+  sections: [s10-intercept-2, s10-intercept-4-5, s10-the-area-against-the-intercepts]
+  looked: "The state's Stepping Up reports for 2018–19 and 2020–21; local press reports of 2019 and 2020; The Link's website (certificate error)."
+  who: author
+  how_to_close: "Ask WellStone's Cullman office and The Link whether each still operates."
+- id: OI-063
+  group: Could not be confirmed
+  what: "Results of Cullman Regional Medical Center's suicide prevention initiative, Project Zero Suicide, were not found; its 2025 plan says the hospital had recently joined."
+  why: "It is the hospital's main new commitment on mental health."
+  blocks: [B0048, B0142]
+  sections: [d1-plans-on-file, d6-quality-improvement]
+  looked: "The hospital's 2025 implementation plan and its home page."
+  who: next-review
+  how_to_close: "Check the hospital's next needs assessment and plan for reported results."
+- id: OI-064
+  group: Not published, as far as this review found
+  what: "An annual operating appropriation from the Madison County Commission to WellStone was not found, and the Commission's budget documents were not found in a form that could be read. Its recorded contributions are a share of the crisis center's capital cost and a $1,000,000 pandemic recovery grant; no local fund for indigent care was found."
+  why: "The county appoints six of WellStone's eighteen board members, and the report cannot say what it pays each year."
+  blocks: [B0063, B0070]
+  sections: [d2-local-public-money, d2-gaps-and-opportunities]
+  looked: "The county's home and budget pages (no document links returned); press reports of the FY2027 budget (one read, one copy refused); the county's pandemic recovery plan; several web searches; a local news site's search page (refused)."
+  who: anyone-with-a-browser
+  how_to_close: "Find the FY2025 to FY2027 budgets on the county's website in a browser, or ask the county finance office for the WellStone line."
+- id: OI-065
+  group: Not published, as far as this review found
+  what: "The City of Cullman's budget and the amount of its community service contract with WellStone were not found. The FY2027 budget resolutions name \"Cullman Area Mental Health (Wellstone)\" among twenty organizations without amounts."
+  why: "The city appoints three board members, and the report cannot state what it contributes."
+  blocks: [B0038, B0064, B0070]
+  sections: [d1-local-government, d2-local-public-money, d2-gaps-and-opportunities]
+  looked: "City council minutes of eight 2026 meetings; the council packet of 14 September 2026 (resolution title only); the minutes of 29 September 2025 (timed out twice); press reports of the FY2026 and FY2027 budgets."
+  who: anyone-with-a-browser
+  how_to_close: "Open the council minutes for the September 2025 and September 2026 budget meetings in a browser, or ask the city clerk for the contract amounts."
+- id: OI-066
+  group: Not published, as far as this review found
+  what: "Official totals of opioid settlement receipts and full lists of allocations were not found for Madison County, Cullman County or the City of Cullman, and Huntsville's allocations after April 2023 and the utilization reports it requires from recipients were not found."
+  why: "Settlement money is the newest local funding stream, and the report can trace only part of it."
+  blocks: [B0065, B0071]
+  sections: [d2-local-public-money, d2-gaps-and-opportunities]
+  looked: "City of Huntsville releases and press reports of 2022 and 2023; Cullman Times reports and City of Cullman minutes; one press report on Madison County; four web searches."
+  who: author
+  how_to_close: "Ask each government's finance office for its settlement receipts, allocations and any recipient reports."
+- id: OI-067
+  group: Not published, as far as this review found
+  what: "The shares of the pediatric unit's $9 million cost paid by the state, the Department and donors, the cost and funding of the 2024 Cullman renovation, and the amount of the state grant for the River Crossing detox unit were not found."
+  why: "Capital spending is the best documented part of local financing, and these three projects are the gaps in it."
+  blocks: [B0057]
+  sections: [d2-what-the-buildings-cost]
+  looked: "WellStone's ribbon-cutting post; press reports of 2024 and 2026 in Huntsville and Cullman; the Department's FY2024 and FY2025 annual reports; the Department's October 2025 opioid settlement presentation, read three times (the slide prints no amount for the detox unit; a $1,000,000 line may relate to it and should be checked by eye)."
+  who: author
+  how_to_close: "Ask WellStone or the Department for the funding breakdown of each project."
+- id: OI-068
+  group: Not published, as far as this review found
+  what: "The amount of the Department's contract with WellStone and the state operating funds for the Huntsville crisis center and pediatric unit were not found. One state document gives $7,000,000 a year for each crisis center and the enacted budget gives $36,000,000 for six; neither reconciles the two."
+  why: "State money is WellStone's largest source, and the report cannot say how much reaches it."
+  blocks: [B0058]
+  sections: [d2-what-the-buildings-cost]
+  looked: "The enacted FY2027 General Fund comparison sheet; the state evaluation office's report; the Department's annual reports and budget presentation."
+  who: author
+  how_to_close: "Ask the Department for its FY2026 and FY2027 contract amounts with WellStone, by program."
+- id: OI-069
+  group: Not published, as far as this review found
+  what: "WellStone's daily rate under the clinic payment model, the payments it has received and the share of its clients enrolled in Medicaid were not found."
+  why: "The rate is paid for Medicaid enrollees only, so these three numbers decide how much of WellStone's care the new model pays for."
+  blocks: [B0249, B0250, B0256]
+  sections: [s12-the-ccbhc-transition, s12-gaps-and-opportunities]
+  looked: "The Department's clinic office page, provider and billing manuals, re-base memorandum, budget presentations and FY2025 annual report; WellStone's strategic plan and June 2024 release."
+  who: author
+  how_to_close: "Ask the Alabama Medicaid Agency or WellStone for the rate and for the share of clients who are Medicaid enrollees."
+- id: OI-070
+  group: Not published, as far as this review found
+  what: "WellStone's sliding fee schedule, the insurers it accepts and its designated collaborating organizations were not found."
+  why: "They show what an uninsured resident would pay and which partners deliver clinic services on WellStone's behalf."
+  blocks: [B0250]
+  sections: [s12-the-ccbhc-transition]
+  looked: "WellStone's registration, client handbook, primary care and partners pages (timed out, or the site limited the number of requests); the federal grant abstract; the Department's clinic directory and manual; press reports of 2026."
+  who: anyone-with-a-browser
+  how_to_close: "Open WellStone's registration and client handbook pages in a browser."
+- id: OI-071
+  group: Not published, as far as this review found
+  what: "Public mental health spending by county or by center was not found: the Medicaid agency's documents as read give eligible people by county and no spending, and the Department's FY2025 annual report gives Medicaid revenue for community mental illness services as one statewide line."
+  why: "A per-person spending figure for the two counties cannot be built from the reports read."
+  blocks: [B0066, B0247]
+  sections: [d2-benchmarks, s12-medicaid-behavioral-health]
+  looked: "Alabama Medicaid's county statistics and FY2027 budget presentation; the Department's FY2025 annual report. An interactive county map for FY2022 on the Medicaid agency's statistics page could not be opened."
+  who: anyone-with-a-browser
+  how_to_close: "Open the Medicaid agency's county map in a browser; if it gives no spending by county, ask the agency."
+- id: OI-072
+  group: Not published, as far as this review found
+  what: "A current list of WellStone's board members with the body that appointed each, and the membership, remit and consumer and family seats of its Community Advisory Committee, were not found. The committee is known only from the Madison County probate judge's official biography."
+  why: "The state's clinic manual requires people with lived experience to take a meaningful part in governance, and the report cannot say how WellStone meets that rule."
+  blocks: [B0034, B0171, B0174]
+  sections: [d1-the-center-and-its-board, d8-lived-experience, d8-gaps-and-opportunities]
+  looked: "WellStone's board and leadership pages (the page reader was refused (robots); the site was not requested in the second round of research); the City of Huntsville's boards portal (refused); the strategic plan, which names only the board president; Cullman city minutes (one appointee); the Department's board minutes and peer programs page."
+  who: anyone-with-a-browser
+  how_to_close: "Open WellStone's board page and look on its site for an annual summary of an advisory body's recommendations."
+- id: OI-073
+  group: Not published, as far as this review found
+  what: "No document read describes how the thirteen ring counties, or their four mental health centers, take part in decisions about the crisis center, or when and how those counties were assigned to it."
+  why: "The board that governs a fifteen-county crisis center is appointed by four governments in two counties."
+  blocks: [B0034, B0051]
+  sections: [d1-the-center-and-its-board, d1-gaps-and-opportunities]
+  looked: "WellStone's strategic plan; the Department's crisis pages and its October 2020 award release, which names no counties; the four ring centers' pages and readable plans."
+  who: author
+  how_to_close: "Ask the Department how the catchment was set and whether any agreement gives the ring centers a say."
+- id: OI-074
+  group: Not published, as far as this review found
+  what: "Whether WellStone or the hospital psychiatric units hold accreditation from a national body was not found; WellStone's plan mentions only certification by the Department."
+  why: "Accreditation is a basic quality marker a reader would expect to see stated."
+  blocks: []
+  sections: []
+  looked: "WellStone's strategic plan and home page; one web search. The national accreditors' look-up tools load by script and were not tried, and WellStone's about pages could not be read."
+  who: anyone-with-a-browser
+  how_to_close: "Search the two national accreditors' public directories for WellStone and the hospitals."
+- id: OI-075
+  group: Not published, as far as this review found
+  what: "A community health needs assessment from Huntsville Hospital or Crestwood Medical Center was not found."
+  why: "Cullman's hospital has issued one every three years; Madison County has no hospital equivalent in the sources read."
+  blocks: [B0049, B0135]
+  sections: [d1-plans-on-file, d6-what-is-measured]
+  looked: "Guessed addresses on the hospitals' sites (not found, or the page reader was refused (robots)); Huntsville Hospital's request for proposals for its community grants, which cites no assessment; three web searches."
+  who: author
+  how_to_close: "Ask Huntsville Hospital whether it has carried out an assessment and where it is posted."
+- id: OI-076
+  group: Not published, as far as this review found
+  what: "A Huntsville or Madison County mental health task force, or a section on behavioral health in a city or county strategic or consolidated plan, was not found; Huntsville's federal housing consolidated plan was not located in readable form."
+  why: "It would be a fourth local planning document beside the three the report describes."
+  blocks: [B0046]
+  sections: [d1-plans-on-file]
+  looked: "The City of Huntsville's homeless resources and boards pages; a press report on federal housing allocations; one web search."
+  who: anyone-with-a-browser
+  how_to_close: "Find Huntsville's consolidated plan on the city's Community Development pages and read its sections on mental health and homelessness."
+- id: OI-077
+  group: Not published, as far as this review found
+  what: "Yearly activity counts and current staffing and hours for the adult mobile crisis teams in Cullman and Huntsville were not found. The only count is a team member's statement of more than 150 crises in Cullman County in the summer of 2022."
+  why: "Mobile teams are the Department's answer for rural residents who cannot reach the crisis center."
+  blocks: [B0080]
+  sections: [d3-crisis-response]
+  looked: "Local press reports of 2020, 2022, 2023 and 2024; the Department's mobile crisis page and annual reports (the FY2025 report folds adult mobile crisis into the center's total)."
+  who: author
+  how_to_close: "Ask WellStone for calls and responses by team and year."
+- id: OI-078
+  group: Not published, as far as this review found
+  what: "The number of children and adolescents WellStone serves in total, by program and by county, was not found."
+  why: "The report can give counts for the pediatric unit and the mobile teams and no total for children's services."
+  blocks: [B0179]
+  sections: [s9-wellstones-childrens-services]
+  looked: "The Department's FY2025 annual report and directories; press reports; WellStone's service pages (could not be opened). Kids Count gives children with serious emotional disturbance receiving services by county without naming the provider."
+  who: author
+  how_to_close: "Ask WellStone for children served in FY2025 by program and county."
+- id: OI-079
+  group: Not published, as far as this review found
+  what: "The number of WellStone's residential beds, group homes and supported housing places, and its caseloads for homeless outreach and supported employment, were not found."
+  why: "Housing is named twice among WellStone's unmet needs, and the report cannot say how much it now provides."
+  blocks: [B0228, B0230]
+  sections: [s11-housing-and-homelessness, s11-economic-stability]
+  looked: "WellStone's strategic plan (lists residential facilities without numbers); the Department's directory and its February 2025 release on supported employment; the state rehabilitation agency's office list; WellStone's residential and service location pages (the page reader was refused (robots))."
+  who: author
+  how_to_close: "Ask WellStone for its residential capacity by site and its housing and employment caseloads."
+- id: OI-080
+  group: Not published, as far as this review found
+  what: "Who operates the Our Place drop-in center in Huntsville, its hours and attendance, and the number of certified peer specialists working in either county were not found."
+  why: "Recovery supports cluster in Huntsville, and the report can list them without saying how much they are used."
+  blocks: [B0089, B0106]
+  sections: [d3-prevention-and-recovery, d4-the-pipeline]
+  looked: "The Department's drop-in center list (address and phone only), peer support and peer programs pages; two recovery organizations' home pages; one organization's locations page (not found)."
+  who: author
+  how_to_close: "Call Our Place and ask the Department's Office of Peer Programs for certified peers by county."
+- id: OI-081
+  group: Not published, as far as this review found
+  what: "A count of residents trained in Mental Health First Aid or suicide prevention was not found for either county. The only local figure is about 100 faculty and staff trained at the University of Alabama in Huntsville by September 2026."
+  why: "Public education is described in the report and cannot be counted."
+  blocks: [B0088, B0166, B0175]
+  sections: [d3-prevention-and-recovery, d8-public-education, d8-gaps-and-opportunities]
+  looked: "The Department's Mental Health First Aid page (no counts); NAMI Madison County's and Crisis Services of North Alabama's pages; a press report on the university's classes; WellStone's page on its classes (could not be read)."
+  who: author
+  how_to_close: "Ask WellStone's prevention program and the Department for the number of people trained in each county."
+- id: OI-082
+  group: Not published, as far as this review found
+  what: "The operator, reach and funding of the SPEAK North Alabama suicide prevention program were not found."
+  why: "It is a local prevention program the report could not describe."
+  blocks: []
+  sections: []
+  looked: "One web search; a guessed site address that did not resolve; the Huntsville Hospital Foundation's home page, which has no mention of it."
+  who: author
+  how_to_close: "Ask the Huntsville Hospital Foundation whether it runs the program and what it reaches."
+- id: OI-083
+  group: Not published, as far as this review found
+  what: "A count from the ambulance service of psychiatric transports, and of how many children still leave Madison County for psychiatric care since the pediatric unit opened, was not found. The figures of \"about 800\" and \"over 600\" children a year come from WellStone and the press."
+  why: "It would measure what the pediatric unit has changed."
+  blocks: [B0126, B0139, B0180, B0181, B0193]
+  sections: [d5-transportation, d6-where-the-numbers-disagree, s9-wellstones-childrens-services, s9-gaps-and-opportunities]
+  looked: "The ambulance service's home page (total calls only); press reports and WellStone's own posts; one web search."
+  who: author
+  how_to_close: "Ask the ambulance service for youth psychiatric transports out of the county by year since 2023."
+- id: OI-084
+  group: Not published, as far as this review found
+  what: "A longer-stay psychiatric option for children in either county was not described in the sources read, and no statement made since the pediatric unit opened says what is still missing or where children go when they need more than a crisis stay."
+  why: "The pediatric unit holds a child for up to two weeks."
+  blocks: [B0182, B0193]
+  sections: [s9-wellstones-childrens-services, s9-gaps-and-opportunities]
+  looked: "Press reports of 2024 to 2026 and the Department's annual reports. A residential facility in the Madison County school system appears on a 2022 state education list with 42 beds and in the Department's autism resource guide; its program and whether it still operates were not checked. A state youth services list also names a 110-day residential program for boys that serves Cullman County among sixteen counties, without giving its location."
+  who: author
+  how_to_close: "Ask WellStone where children are referred after the unit, and check whether the listed residential facility is open and what it treats."
+- id: OI-085
+  group: Not published, as far as this review found
+  what: "Who takes committed patients from Madison and Cullman counties to Bryce Hospital in Tuscaloosa, how often and at what cost was not found, and neither was any official's statement about the burden of those trips."
+  why: "State law lets the probate judge order law enforcement officers to make the trip, and the report cannot say what that costs local deputies."
+  blocks: [B0126]
+  sections: [d5-transportation]
+  looked: "Four web searches; Madison County's probate commitment page; the Department's Bryce Hospital page; the Cullman County Sheriff's pages; press reports of 2017 to 2025; the two sections of state law on conveyance and costs."
+  who: author
+  how_to_close: "Ask both sheriffs' offices and probate courts for the number of transports to state facilities in a year."
+- id: OI-086
+  group: Not published, as far as this review found
+  what: "Counts of psychiatrists, child psychiatrists, psychologists, counselors and social workers practicing in each county were not found, and neither was a list of local practices using the state's child psychiatry consultation service. The provider ratios in print use different definitions, and the Kids Count profiles give no source for theirs."
+  why: "The report measures the shortage with ratios and anecdotes and cannot count clinicians by profession."
+  blocks: [B0099, B0191, B0196]
+  sections: [d4-the-shortage-measured, s9-early-childhood-and-pediatric-medicine, s9-gaps-and-opportunities]
+  looked: "The state health department's rural health data page; the consultation service's pages; a university clinic's page and one private practice's site; two web searches. The licensing boards' sites and the federal area health file were not reached."
+  who: anyone-with-a-browser
+  how_to_close: "Search the state licensing boards' public rosters by county."
+- id: OI-087
+  group: Not published, as far as this review found
+  what: "How many graduates the local training programs produce, where they go to work and whether they stay were not found, and several programs (Oakwood University, Athens State, Calhoun Community College, WellStone's internships and osteopathic school rotations) were not reached."
+  why: "The pipeline is new and its output is unknown."
+  blocks: [B0105, B0112]
+  sections: [d4-the-pipeline, d4-gaps-and-opportunities]
+  looked: "Program pages at the University of Alabama in Huntsville, Alabama A&M, Wallace State and the UAB Huntsville campus (no enrollment or graduate numbers); Calhoun's and Oakwood's program pages (timed out or refused)."
+  who: author
+  how_to_close: "Ask each program for graduates per year and the share who take jobs in north Alabama."
+- id: OI-088
+  group: Not published, as far as this review found
+  what: "A peer support, chaplaincy or wellness program for first responders at the Huntsville police and fire departments or the ambulance service, or a clinician well-being program at the hospitals or WellStone, was not found described in a public source."
+  why: "The report can say only that a resident or a job applicant cannot find out."
+  blocks: [B0108]
+  sections: [d4-wellbeing]
+  looked: "Three web searches; city blog searches; the fire department's page and a 2025 feature; the police department's pages; the ambulance service's home page; the hospitals' pages and Cullman Regional's plan. This is absence from what was read."
+  who: author
+  how_to_close: "Ask each agency's human resources office what support it offers its staff."
+- id: OI-089
+  group: Not published, as far as this review found
+  what: "How much care is delivered by telehealth locally (WellStone visits, hospital tele-psychiatry, school tele-therapy) and a figure for broadband coverage in either county were not found. The one account dates from the school closures of spring 2020."
+  why: "The state's clinic manual expects telehealth to support access, and Cullman County is three-quarters rural."
+  blocks: [B0120]
+  sections: [d5-telehealth-and-broadband]
+  looked: "WellStone's strategic plan; hospital reports and pages; Cullman Regional's plan; the state health department's digital health page; the Cullman electric cooperative's fiber page; two web searches."
+  who: author
+  how_to_close: "Ask WellStone for the share of FY2025 visits delivered by telehealth."
+- id: OI-090
+  group: Not published, as far as this review found
+  what: "The number of WellStone clients who lack a payer for medication, the size of the shortfall, and any patient-assistance program specific to psychiatric medicines in either county were not found."
+  why: "Medication for uninsured adults is one of WellStone's three named unmet needs."
+  blocks: [B0121, B0129]
+  sections: [d5-medicines, d5-gaps-and-opportunities]
+  looked: "WellStone's strategic plan; the Community Free Clinic's and the Good Samaritan Health Clinic's pages; United Way of Cullman County's funding list; the regional council's Medicare help page."
+  who: author
+  how_to_close: "Ask WellStone how many adult clients have no payer for medication and what it spends on them."
+- id: OI-091
+  group: Not published, as far as this review found
+  what: "Drug take-back sites in Cullman County and the locations of medication drop boxes in Madison County were not found."
+  why: "It is a small part of the report's account of medicines and overdose prevention."
+  blocks: [B0164]
+  sections: [d8-who-engages]
+  looked: "The Partnership for a Drug-Free Community's home page, which mentions drop boxes without locations; the Cullman sources read."
+  who: author
+  how_to_close: "Ask the Partnership and the Cullman County Sheriff's Office for their site lists."
+- id: OI-092
+  group: Not published, as far as this review found
+  what: "Service use, crisis admissions, commitments and jail mental health caseloads by race, language or income were not found for either county."
+  why: "Madison County is a quarter Black, and the report cannot say whether the system reaches residents evenly."
+  blocks: [B0147, B0149, B0151, B0159]
+  sections: [d7-scope, d7-what-the-data-show, d7-gaps-and-opportunities]
+  looked: "The sources read for the equity section, among them Cullman Regional's assessment (no demographic breakdown) and United Way of Madison County's executive summary. No search was made for local data by language or income."
+  who: author
+  how_to_close: "Ask WellStone and the probate courts for FY2025 counts by race and ethnicity."
+- id: OI-093
+  group: Not published, as far as this review found
+  what: "How WellStone provides interpretation and translation, any north Alabama office of the statewide Hispanic services nonprofit, and any account of Hispanic residents' use of or barriers to mental health care were not found."
+  why: "Hispanic residents are 7.6% of Madison County and 5.8% of Cullman County and almost absent from the service record."
+  blocks: [B0156, B0160]
+  sections: [d7-specific-communities, d7-gaps-and-opportunities]
+  looked: "WellStone's home page and the Department's directory entry; the nonprofit's home and contact pages (Birmingham only); the state clinic manual's interpretation requirement; two web searches. WellStone's client handbook and other pages could not be read."
+  who: author
+  how_to_close: "Ask WellStone how many bilingual staff it has and how interpretation is arranged."
+- id: OI-094
+  group: Not published, as far as this review found
+  what: "A Huntsville office or named regional staff of the Department's Office of Deaf Services was not found."
+  why: "The report can say only that deaf residents are served through regional clinicians."
+  blocks: [B0157]
+  sections: [d7-specific-communities]
+  looked: "The Department's deaf services page (no regional office list); an older address for the same page (not found)."
+  who: author
+  how_to_close: "Ask the Office of Deaf Services who covers Madison and Cullman counties."
+- id: OI-095
+  group: Not published, as far as this review found
+  what: "An advocacy or peer organization based in Cullman County was not found: no NAMI or Mental Health America affiliate, peer-run recovery center, drop-in center, mental health coalition or LGBTQ+ organization appears in the lists read."
+  why: "The report describes Cullman as having services and no organized voice; a local group that is on no state or national list would change that."
+  blocks: [B0022, B0094, B0155, B0165, B0172, B0275]
+  sections: [guide-in-brief, d3-gaps-and-opportunities, d7-specific-communities, d8-who-engages, d8-gaps-and-opportunities, actors-by-sector]
+  looked: "NAMI Alabama's affiliate list; the Department's drop-in center, peer support and county directory pages; the consumer-run organization's about page; United Way of Cullman County's partner lists; a television station's resource list and a pride organization's resource page; one web search. Mental Health America was not searched separately."
+  who: author
+  how_to_close: "Ask WellStone's Cullman office and United Way of Cullman County whether any family, peer or advocacy group meets in the county."
+- id: OI-096
+  group: Not published, as far as this review found
+  what: "A credible source connecting Cullman's history as a \"sundown town\" with present-day access to or trust in mental health care was not found; no search was spent on it."
+  why: "It bears on whether Black residents of the region use services in Cullman County."
+  blocks: []
+  sections: []
+  looked: "Cullman Regional's 2025 needs assessment, which has no breakdown by race and no comment on the subject."
+  who: author
+  how_to_close: "Decide whether the next edition should research the question and, if so, start with local history and public health literature."
+- id: OI-097
+  group: Not published, as far as this review found
+  what: "Staffing, session limits and use of the counseling centers at the University of Alabama in Huntsville, Alabama A&M, Oakwood University and Wallace State were not found."
+  why: "Students are one of the groups the report says have services built for them."
+  blocks: [B0157]
+  sections: [d7-specific-communities]
+  looked: "Each institution's counseling page (services described; no staffing, limits or use given)."
+  who: author
+  how_to_close: "Ask each counseling center for its staff numbers and the students it sees in a year."
+- id: OI-098
+  group: Not published, as far as this review found
+  what: "A county-level figure for youth suicide or self-harm, or county results from a school survey of students' mental health, was not found for Madison or Cullman."
+  why: "The report can give teen death rates that do not separate suicide, and nothing on what students themselves report."
+  blocks: [B0178]
+  sections: [s9-where-the-area-stands]
+  looked: "The Kids Count county profiles; the statewide report's sources (the state's youth risk survey is state-level and was last run in 2021). Federal and state county data could not be reached, and no search was spent on school surveys."
+  who: author
+  how_to_close: "Ask the state health department and the school districts whether county or district survey results are available."
+- id: OI-099
+  group: Not published, as far as this review found
+  what: "Counselor-to-student ratios, the number of WellStone school-based therapists and the students they serve by district, and the Department's list of which school systems partner with which mental health center were not found; the list's link returned an error on 4 October 2026. The districts receiving state funding for mental health coordinators were not named in the memo read."
+  why: "School-based care is split among providers, and no single count of it was found."
+  blocks: [B0183, B0184, B0185, B0195]
+  sections: [s9-schools, s9-gaps-and-opportunities]
+  looked: "The mental health pages of Madison County, Madison City and Cullman City schools; Cullman County Schools' home page and a guessed page; the Department's school-based mental health page; the state education department's funding memo; press reports; WellStone's school-based therapy pages (could not be opened)."
+  who: author
+  how_to_close: "Ask the Department for its partner list and each district for its counselor, social worker and therapist numbers."
+- id: OI-100
+  group: Not published, as far as this review found
+  what: "Therapeutic foster care places or providers by county, and any description of how the multi-needs child process works in Madison or Cullman, were not found."
+  why: "They are the parts of a children's system of care the report could not describe locally."
+  blocks: []
+  sections: []
+  looked: "The state human resources department's pages and statistical reports; the Madison County and Cullman sources read."
+  who: author
+  how_to_close: "Ask the two county human resources offices how many therapeutic foster care places they use and who chairs the local multi-needs team."
+- id: OI-101
+  group: Not published, as far as this review found
+  what: "Mental health screening and services for young people held at Madison County's detention center, where Cullman County youth are held when they need more than short-term detention, counts for the juvenile specialty courts, and the dollar amount of Madison County's youth services diversion grant were not found."
+  why: "The report can list juvenile programs and cannot say what mental health care detained youth receive."
+  blocks: [B0188, B0189]
+  sections: [s9-juvenile-justice]
+  looked: "Madison County's detention and diversion pages (three sub-pages returned an error); the state youth services agency's detention center list, reference book, county table and annual reports; the Cullman courts' juvenile probation document (no readable text); Cullman Tribune searches."
+  who: author
+  how_to_close: "Ask each county's juvenile court for its screening practice, service provider and yearly counts."
+- id: OI-102
+  group: Not published, as far as this review found
+  what: "Which infant and early childhood mental health consultants serve either county, county figures for the home-visiting programs, and a perinatal or postpartum mental health program at Huntsville Hospital for Women & Children were not found."
+  why: "The earliest years are covered by programs whose reach is counted and whose mental health content is not."
+  blocks: [B0190]
+  sections: [s9-early-childhood-and-pediatric-medicine]
+  looked: "The Department's infant and early childhood mental health page (its provider dashboard was not read); Help Me Grow Alabama's home page; the Department's autism guide; the hospital's services list and support groups page."
+  who: anyone-with-a-browser
+  how_to_close: "Open the Department's provider dashboard in a browser and filter for Madison and Cullman counties."
+- id: OI-103
+  group: Not published, as far as this review found
+  what: "The basis of WellStone's statement that its jail diversion program saves about $300,000 of taxpayer money a year was not found: no method, year or count of people accompanies it."
+  why: "It is the only savings figure attached to diversion in the region."
+  blocks: [B0199]
+  sections: [s10-intercept-0]
+  looked: "A March 2024 press report; a 2018 television report (20 people moved and $70 a day for each inmate); WellStone's strategic plan; a second 2018 report (refused)."
+  who: author
+  how_to_close: "Ask WellStone how and when the saving was measured."
+- id: OI-104
+  group: Not published, as far as this review found
+  what: "A current count of crisis-trained Huntsville Police officers and the schedule of the department's crisis intervention community meetings were not found. The latest figures are 94 certified officers and 190 trained in the shorter course, from a report of about 2022."
+  why: "Police crisis training is the best documented form of public education in the region and its current scale is unknown."
+  blocks: [B0166, B0201]
+  sections: [d8-public-education, s10-intercept-1]
+  looked: "The police department's crisis intervention page; NAMI Alabama's training plan, hub list and contacts pages; city blog posts of 2020 and 2022; press reports (one is no longer served)."
+  who: author
+  how_to_close: "Ask the department's crisis intervention coordinator for current numbers."
+- id: OI-105
+  group: Not published, as far as this review found
+  what: "Crisis-trained officers, mental health officers or co-responders at the Madison Police Department, the Cullman Police Department and the Cullman County Sheriff's Office were not found on any page read, and the Madison County Sheriff's pages mention no crisis intervention team."
+  why: "Outside Huntsville the report cannot say who responds to a person in crisis; absence from a website is not proof that no officers are trained."
+  blocks: [B0203, B0216]
+  sections: [s10-intercept-1, s10-the-area-against-the-intercepts]
+  looked: "Both sheriffs' websites; the Cullman Police Department's page; NAMI Alabama's training pages; Cullman Tribune searches; two web searches. The City of Madison's site refused the page reader (robots)."
+  who: author
+  how_to_close: "Ask each agency how many officers have completed the 40-hour course."
+- id: OI-106
+  group: Not published, as far as this review found
+  what: "Start years, capacity, participants and graduates were not found for Madison County's Adult Mental Health Court, drug court and veterans court, for the Huntsville municipal mental health court, or for Cullman County's drug, veterans and mental health courts, and no annual report was found for any of them."
+  why: "The courts are known by their launch dates or their judges and not by what they have done."
+  blocks: [B0210, B0218]
+  sections: [s10-intercept-3, s10-gaps-and-opportunities]
+  looked: "The circuit courts' websites in both counties, judges' biographies and the alternative sentencing office's pages; the Madison County court's enrollment form (a file type the page reader could not read); a city feature of June 2023; local press reports; the court administration's statewide maps; three web searches."
+  who: author
+  how_to_close: "Ask each court's coordinator for yearly enrollment and completion numbers."
+- id: OI-107
+  group: Not published, as far as this review found
+  what: "Waiting times for competency evaluation or restoration for defendants from Madison or Cullman County were not found; press reports give state totals only."
+  why: "Neither county has jail-based restoration, so its defendants wait in the state queue."
+  blocks: [B0212]
+  sections: [s10-intercept-3]
+  looked: "Two press reports of 2025 and 2026; the Department's FY2025 annual report."
+  who: author
+  how_to_close: "Ask the Department for the number of defendants from each county on the forensic waiting list."
+- id: OI-108
+  group: Not published, as far as this review found
+  what: "An official description of a Huntsville Municipal Court docket for people without housing was not found; the only public description is a citizen's petition, and the city's account is a judge's general statement."
+  why: "The report describes the municipal court's mental health docket and cannot confirm a separate docket for unsheltered people."
+  blocks: [B0206]
+  sections: [s10-intercept-2]
+  looked: "The court's landing and probation pages; the city's homelessness page; city blog searches and features of 2020 and 2023; three web searches."
+  who: author
+  how_to_close: "Ask the municipal court whether it runs such a docket and how it works."
+- id: OI-109
+  group: Not published, as far as this review found
+  what: "How either jail plans discharges and restarts Medicaid or other benefits on release, and counts of people returning to Madison County from state prison, were not found; no Madison County reentry organization with a program described in public was found."
+  why: "Reentry is the intercept the report can describe least in Madison County."
+  blocks: [B0213]
+  sections: [s10-intercept-4-5]
+  looked: "Both sheriffs' sites; the county alternative sentencing pages; the parole bureau's field operations, day reporting center and office pages; First Stop's, the Downtown Rescue Mission's and Family Services Center's home pages."
+  who: author
+  how_to_close: "Ask each jail's health contractor and WellStone's jail diversion staff how release is planned."
+- id: OI-110
+  group: Not published, as far as this review found
+  what: "How many of the people supervised by Madison County's Office of Alternative Sentencing and Release or by Cullman County's community corrections program have a mental illness, and what treatment conditions they carry, were not found."
+  why: "Supervision is where a court-ordered treatment condition is enforced."
+  blocks: [B0204, B0214]
+  sections: [s10-intercept-2, s10-intercept-4-5]
+  looked: "Both programs' pages; the state corrections department's map and directory; a Cullman Tribune search."
+  who: author
+  how_to_close: "Ask each office for its caseload and the number in its mental health pretrial release program."
+- id: OI-111
+  group: Not published, as far as this review found
+  what: "A family justice center for Huntsville or Madison County was not found in the sources read."
+  why: "It would be part of the trauma side of the justice interface."
+  blocks: []
+  sections: []
+  looked: "One web search; Family Services Center's home page; Crisis Services of North Alabama's home and About pages; a 2018 federal prosecutor's release."
+  who: author
+  how_to_close: "Ask Crisis Services of North Alabama whether one operates or is planned."
+- id: OI-112
+  group: Not published, as far as this review found
+  what: "Later lawsuits, settlements or consent decrees over deaths or mental health care in either county's jail were not found in the sources read, and the search was thin. One report of a settled suit over an alleged jail beating could not be read, and the only federal opinion found about Cullman's jail concerned a broken hand (Northern District of Alabama, 5:16-cv-01040, dismissed in 2017)."
+  why: "The report describes three 2014 suits and cannot say whether anything since binds local practice."
+  blocks: [B0209]
+  sections: [s10-intercept-3]
+  looked: "Three web searches; a television report (refused); the Cullman sheriff's detention page."
+  who: author
+  how_to_close: "Search the federal courts' electronic records system for suits naming either county's sheriff since 2021."
+- id: OI-113
+  group: Not published, as far as this review found
+  what: "A 2026 point-in-time count and housing inventory for the Huntsville continuum was not found on the federal housing department's site or the local coalition's on 4 October 2026; the only 2026 figure is a press report of \"around 575\"."
+  why: "It would show whether homelessness kept rising after the 718 counted in 2025."
+  blocks: [B0223]
+  sections: [s11-housing-and-homelessness]
+  looked: "The federal report address for 2026 (not found); the coalition's count page, whose links end at 2024; the city's Homeless Resources page; one web search."
+  who: next-review
+  how_to_close: "Check the federal housing department's continuum reports for the 2026 files."
+- id: OI-114
+  group: Not published, as far as this review found
+  what: "A homelessness count for Madison County alone, or a count of unaccompanied youth for the county, was not found; the federal and coalition reports cover the three-county continuum."
+  why: "Almost everything the report says about homelessness describes three counties together."
+  blocks: [B0222]
+  sections: [s11-housing-and-homelessness]
+  looked: "The federal count reports; the coalition's own 2024 summary (continuum-wide only); a 2017 city blog post with county figures for 2015 and 2016."
+  who: author
+  how_to_close: "Ask the North Alabama Coalition for the Homeless for the county rows of its January 2025 count."
+- id: OI-115
+  group: Not published, as far as this review found
+  what: "The dates and locations of Huntsville's encampment closures and the text of any camping ordinance were not found. An advocacy source says the city gave notice of a fourth closure in four years in October 2024."
+  why: "City policy toward encampments shapes where unsheltered people with mental illness can be found and served."
+  blocks: [B0226]
+  sections: [s11-housing-and-homelessness]
+  looked: "The city's homelessness page, releases and site search; press reports of 2024 to 2026, one of which said in July 2024 that the city had put no new camping rules in place; one web search; one television report (refused)."
+  who: author
+  how_to_close: "Ask the city's Community Development department for its encampment policy and closure dates."
+- id: OI-116
+  group: Not published, as far as this review found
+  what: "The status of the Huntsville Housing Authority's voucher waiting list, its wait time and its special-purpose vouchers, and the number of vouchers the Cullman Housing Authority administers, were not found."
+  why: "Vouchers are the main route out of homelessness, and the report can give only a total for Huntsville and a closed list for Cullman."
+  blocks: [B0227, B0228]
+  sections: [s11-housing-and-homelessness]
+  looked: "Both authorities' home, about and voucher pages; the Huntsville authority's 2024 strategic plan."
+  who: author
+  how_to_close: "Ask each authority for its voucher count and waiting list."
+- id: OI-117
+  group: Not published, as far as this review found
+  what: "Medical respite or recuperative care for homeless people leaving hospital in Madison County was not found on the pages read; no dedicated search was made."
+  why: "People discharged from hospital to the street are among those the crisis system sees again."
+  blocks: []
+  sections: []
+  looked: "The city's, the homeless coalition's, First Stop's and the Downtown Rescue Mission's pages."
+  who: author
+  how_to_close: "Ask Huntsville Hospital's case management department where homeless patients are discharged to."
+- id: OI-118
+  group: Not published, as far as this review found
+  what: "A county-level estimate of the Medicaid coverage gap for Madison or Cullman was not found."
+  why: "In a state that has not expanded Medicaid, it is the number of adults the clinic payment cannot reach."
+  blocks: [B0245]
+  sections: [s12-the-coverage-picture]
+  looked: "An advocacy group's 2023 fact sheet and a 2022 economic analysis (both statewide as read); one web search."
+  who: next-review
+  how_to_close: "Check whether the next state estimates come with county tables."
+- id: OI-119
+  group: Not published, as far as this review found
+  what: "The number of TRICARE beneficiaries, VA-enrolled veterans and federal employees in Madison County, and which services each of the VA's three Huntsville sites offers, were not found. An undated press report gives 45,000 beneficiaries and retirees."
+  why: "Madison County has 34,400 veterans and a large military workforce whose care leans on the civilian system at its edges."
+  blocks: [B0091]
+  sections: [d3-veterans]
+  looked: "Fox Army Health Center's and the garrison's pages; a military installation guide; the VA's Birmingham locations page and Huntsville clinic page; one web search."
+  who: author
+  how_to_close: "Ask the VA's Birmingham system for enrolled veterans by county and services by site."
+- id: OI-120
+  group: Not published, as far as this review found
+  what: "Reported complaints about insurers' networks or mental health parity in the Huntsville or Cullman area were not located; no dedicated search was made."
+  why: "One insurer holds 82% of the Huntsville commercial market."
+  blocks: [B0253]
+  sections: [s12-commercial-insurance-and-hospitals]
+  looked: "No page opened for the payers section mentioned any."
+  who: author
+  how_to_close: "Ask the state insurance department whether it has received such complaints."
+- id: OI-121
+  group: Not published, as far as this review found
+  what: "An estimate of what the Medicaid provisions of the 2025 federal reconciliation law mean for WellStone or local hospitals was not found."
+  why: "It would bear on the payer picture the report describes."
+  blocks: []
+  sections: []
+  looked: "The Department's August 2025 presentation on federal impacts (no Medicaid slide as read); the Medicaid agency's FY2027 budget presentation (duties listed without figures); press coverage of the hospital system."
+  who: next-review
+  how_to_close: "Check the Medicaid agency's and the Department's budget presentations for the next session."
+- id: OI-122
+  group: Not published, as far as this review found
+  what: "Revenue, cost or volume for psychiatric services at Huntsville Hospital, Crestwood or Cullman Regional was not found, and no figure later than a December 2025 forecast was found for the rise in the hospital system's uncompensated care in 2026."
+  why: "The system's finances bear on mental health mainly through what it absorbs."
+  blocks: [B0254, B0259]
+  sections: [s12-commercial-insurance-and-hospitals, s12-gaps-and-opportunities]
+  looked: "The hospital system's annual reports and FY2025 audit (read in part, twice); the hospital association's listings; a December 2025 press report."
+  who: author
+  how_to_close: "Ask the hospital system for behavioral health volumes and its FY2026 uncompensated care."
+- id: OI-123
+  group: Not published, as far as this review found
+  what: "Descriptions of the behavioral health or employee-assistance benefits of the area's largest employers were not found; no search was spent on it."
+  why: "More than half of Madison County residents are covered through an employer."
+  blocks: [B0243]
+  sections: [s12-the-coverage-picture]
+  looked: "No page opened for the payers section described any."
+  who: author
+  how_to_close: "Decide whether the next edition should survey the largest employers."
+- id: OI-124
+  group: Not published, as far as this review found
+  what: "Distances or travel times from the ring counties to the Huntsville crisis center, who transports people there and under what agreement, and any statement by a ring center about using or referring to it were not found. For Cullman, WellStone has said its local crisis teams can take people to Huntsville."
+  why: "It would show whether the fifteen-county catchment works in practice or mostly on paper."
+  blocks: [B0128, B0269, B0270]
+  sections: [d5-gaps-and-opportunities, s13-how-much-the-ring-uses-huntsville]
+  looked: "The Department's crisis pages and directory; the state evaluation office's report; the four ring centers' home, crisis and services pages and the two readable plans; two press reports of February 2025; three web searches."
+  who: author
+  how_to_close: "Ask the four ring centers how often they send people to Huntsville and who drives them."
+- id: OI-125
+  group: Not published, as far as this review found
+  what: "Strategic plans for FY2026–27 from CED Mental Health Center and Northwest Alabama Mental Health Center were not found on the Department's index, which still links their earlier plans; CED's residential page was not read."
+  why: "The report describes these two centers from plans a year older than WellStone's."
+  blocks: [B0265, B0266]
+  sections: [s13-four-centers]
+  looked: "The Department's page of board strategic plans; both centers' websites."
+  who: next-review
+  how_to_close: "Check the Department's strategic plans page for newer files."
+- id: OI-126
+  group: Not published, as far as this review found
+  what: "No source read explains why the ring centers' own counts of people served run higher than the Department's (for example 10,317 in Northwest's plan for 2023 against 3,306 in the Department's FY2025 report)."
+  why: "It decides which count fairly describes each center's size."
+  blocks: [B0262]
+  sections: [s13-four-centers]
+  looked: "The Department's FY2025 annual report; the centers' plans and websites."
+  who: author
+  how_to_close: "Ask the Department what its count of individuals served includes."
+- id: OI-127
+  group: Not published, as far as this review found
+  what: "Any monitoring visit, report or case by the state's protection and advocacy agency concerning a facility in Madison or Cullman County was not found on its public pages."
+  why: "It is the independent body with authority to monitor facilities."
+  blocks: []
+  sections: []
+  looked: "The agency's home, mental health, advisory councils and FY2027 priorities pages."
+  who: author
+  how_to_close: "Ask the agency whether it has monitored any facility in the two counties since 2021."
+- id: OI-128
+  group: Needs a human eye
+  what: The map position of WellStone's Huntsville campus (4020 and 4040 Memorial Parkway SW) is approximate. Neither geocoder holds the address, and the federal treatment locator gives two different points for it, about 1.7 km apart.
+  why: The crisis center, the pediatric unit and the Huntsville clinic are the three most important markers on the regional map, and all three use this one point.
+  blocks:
+  - B0115
+  sections:
+  - d5-facilities
+  looked: The Census Bureau's geocoder (no match for either number under several spellings); OpenStreetMap (the street only, no house number); SAMHSA's FindTreatment.gov locator (34.6957639, -86.5837344 for the mental health record and 34.6802121, -86.5783003 for the substance use record at the same address).
+  who: anyone-with-a-browser
+  how_to_close: Find the campus on a map, read off its coordinates and replace the three entries in geo/overlays.json.
+- id: OI-129
+  group: Needs a human eye
+  what: 'Two service locations have no marker on the map: the Huntsville Vet Center (415 Church Street matches both a northwest and a southwest address) and CED Mental Health Center''s Cherokee County office in Centre (no geocoder match).'
+  why: Both are named in the report and would otherwise be missing from the map without explanation.
+  blocks: []
+  sections: []
+  looked: The Census Bureau's geocoder and OpenStreetMap, on 4 October 2026.
+  who: anyone-with-a-browser
+  how_to_close: Confirm each address on the organization's own page or a map and add the coordinates to geo/overlays.json.

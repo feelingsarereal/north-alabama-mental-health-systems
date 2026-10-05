@@ -1,0 +1,139 @@
+mode: topic
+slug: north-alabama-mental-health-systems
+title: North Alabama Mental Health Systems Report
+short_title: North Alabama Mental Health
+subtitle: A descriptive analysis of the mental health system of systems in Madison and Cullman counties and the
+  fifteen-county Huntsville crisis catchment, for advocates, planners and coalition partners
+question: What does the mental health system of systems look like in WellStone's service area in October 2026 (who
+  decides, who pays, what exists, who delivers it, who is reached and who is missed) in Madison and Cullman counties,
+  and how does the wider fifteen-county crisis catchment depend on it?
+purpose: orientation
+as_of: '2026-10-04'
+authors:
+- Little Orange Fish, prepared with Claude
+venue: DRAFT FOR REVIEW. Not approved by Little Orange Fish and not peer reviewed. Researched and written with Claude
+  from public sources on 4 October 2026; awaiting review by Little Orange Fish.
+year: 2026
+report:
+  publisher: Little Orange Fish, Huntsville, Alabama
+  version: v261004.1
+  status: draft-for-review
+  companion: Alabama Mental Health Systems Report, v261003.1
+  independence: Independent of WellStone and of every organization described; public sources only; none supplied
+    material, saw the text or endorsed it.
+plain_abstract: 'WellStone is the public mental health center for Madison and Cullman counties, and its crisis center
+  in Huntsville is assigned people from fifteen. This report describes the system around it in one place: who governs
+  and pays, what services exist, who staffs them, what is measured, who is reached and who is missed, and how schools,
+  courts, jails, housing and insurers shape the result. It follows the eight domains and four cross-sector sections
+  of the statewide Alabama Mental Health Systems Report, applied to two counties in depth and to the thirteen surrounding
+  counties in outline. It was researched and written with Claude from public sources only, and every sentence was
+  read back against the passage that supports it. You can read the report with each sentence''s source one hover
+  away and see what could not be read, confirmed or found. It is a draft for review, independent of WellStone, and
+  not an approved or peer-reviewed publication.'
+reading_minutes: 92
+audience: advocates, planners and coalition partners in north Alabama; assumes no background in health policy
+palette:
+  groups:
+    domain: '#e8762b'
+    cross_sector: '#3f6f8f'
+    core: '#e8762b'
+    ring: '#7a8791'
+    verified: '#2e7d5b'
+    changed: '#b3541e'
+    open: '#9a6b00'
+permissions:
+  text: Report text written for Little Orange Fish with Claude and published here as a draft for review; source
+    summaries written for this site; no third-party text reproduced beyond quotations of 25 words or fewer, each
+    attributed and cited.
+  figures: Charts, maps and the systems graph are built for this site from cited public data; no published figure
+    images are reproduced. The Little Orange Fish logo is used with the publisher's permission.
+delivery: pages
+github_account: feelingsarereal
+notes_storage: file
+link_every_occurrence: false
+builder:
+  name: Manuscript Interrogator
+  version: 0.5.2
+  date: '2026-10-04'
+draft: true
+banner:
+  text: Draft for review. This report has not been approved by Little Orange Fish, is independent of WellStone and
+    every organization it describes, and is not a position of the North Alabama Mental Health Coalition or its members.
+    It was researched and written with Claude from public sources; every sentence was read back against its source
+    on 4 October 2026, and the open items show what could not be settled.
+  links:
+  - label: Open items
+    to: /open-items
+  - label: How it was made
+    to: /methods
+brand:
+  file: brand/brand.yaml
+extensions:
+  note: Schema extensions shared with the statewide app; the KICKOFF is normative for all of them.
+  claims_ledger: claims-ledger.yaml
+  open_items: open-items.yaml
+  glossary: glossary.yaml
+  concepts: concepts/
+  figures: figures.yaml
+  geo:
+    layers: geo/layers.json
+    tracts: geo/tracts.csv
+    tracts_moe: geo/tracts_moe.csv
+    tract_benchmarks: geo/benchmarks.csv
+    ring_counties: geo/ring_counties.csv
+    alabama_benchmark: geo/alabama_benchmark.csv
+    overlays: geo/overlays.json
+    notes: geo/NOTES.md
+    raw: geo/raw/
+    tract_geometry: not in the pack; fetched at build time (KICKOFF)
+  systems:
+    graph: figures/data/systems-graph.json
+    indicators: systems/indicators.json
+  block_ids: 'every block of review.md carries a trailing <!-- b: B0000 --> comment; tables carry it on the line
+    above'
+verification:
+  method: 'Every block was read against the source passages attached to it by independent checkers that did not
+    write it: a first check of all 283 blocks, a second check of the blocks changed after the first, a third check
+    of the blocks changed after the second, a consistency pass against the open-items list, and a second consistency
+    pass on points raised while the glossary and primers were written.'
+  blocks: 283
+  references: 407
+  ledger_entries: 1497
+  ledger_by_status:
+    verified: 978
+    self: 105
+    analysis: 234
+    absence: 180
+  ledger_by_pass:
+    second check: 553
+    first check: 607
+    consistency pass after the open-items reconciliation: 22
+    third check: 296
+    settled after the third check: 5
+    consistency pass after the glossary and primers were written: 14
+  problems_found_and_fixed:
+    first_check: 215
+    second_check: 41
+    third_check: 5
+    consistency_pass: 11
+    second_consistency_pass: 9
+  reader_aids:
+    glossary_terms: 189
+    primers: 12
+    check: every cited sentence of the glossary and primers was read against its evidence by independent checkers
+    problems_found_and_fixed: 46
+  map_data:
+    tracts: 117
+    tract_layers: 28
+    county_layers: 36
+    counties: 15
+    service_locations: 54
+    service_locations_placed: 52
+    check: geo/raw/checks.md
+  open_items: 129
+  open_items_by_group:
+    Could not be read: 20
+    Needs a human eye: 13
+    Could not be confirmed: 17
+    Not published, as far as this review found: 79
+  words: 21154

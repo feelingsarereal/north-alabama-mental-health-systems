@@ -1,0 +1,216 @@
+{
+ "retrieved": "2026-10-04",
+ "acs": {
+  "tables": [
+   "ACSDP5Y2024.DP02",
+   "ACSDP5Y2024.DP03",
+   "ACSDP5Y2024.DP04",
+   "ACSDP5Y2024.DP05"
+  ],
+  "page": "https://data.census.gov/table/ACSDP5Y2024.DP05?g=050XX00US01089$1400000",
+  "endpoint": "https://data.census.gov/api/access/data/table?g=<geography>&id=<table> (the endpoint the data.census.gov table page itself calls; the keyed api.census.gov service was not used because it now requires a key)",
+  "geographies": {
+   "tracts": [
+    "050XX00US01043$1400000",
+    "050XX00US01089$1400000"
+   ],
+   "benchmarks": [
+    "040XX00US01",
+    "050XX00US01043",
+    "050XX00US01089"
+   ]
+  },
+  "variables": {
+   "pop_total": {
+    "estimate": "DP05_0001E",
+    "margin_of_error": "DP05_0001M",
+    "label": "SEX AND AGE: Total population"
+   },
+   "pct_under18": {
+    "estimate": "DP05_0019PE",
+    "margin_of_error": "DP05_0019PM",
+    "label": "SEX AND AGE: Total population: Under 18 years"
+   },
+   "pct_65plus": {
+    "estimate": "DP05_0024PE",
+    "margin_of_error": "DP05_0024PM",
+    "label": "SEX AND AGE: Total population: 65 years and over"
+   },
+   "pct_black": {
+    "estimate": "DP05_0045PE",
+    "margin_of_error": "DP05_0045PM",
+    "label": "RACE: Total population: One race: Black or African American"
+   },
+   "pct_hispanic": {
+    "estimate": "DP05_0090PE",
+    "margin_of_error": "DP05_0090PM",
+    "label": "HISPANIC OR LATINO AND RACE: Total population: Hispanic or Latino (of any race)"
+   },
+   "pct_white_nh": {
+    "estimate": "DP05_0096PE",
+    "margin_of_error": "DP05_0096PM",
+    "label": "HISPANIC OR LATINO AND RACE: Total population: Not Hispanic or Latino: White alone"
+   },
+   "pct_veterans": {
+    "estimate": "DP02_0070PE",
+    "margin_of_error": "DP02_0070PM",
+    "label": "VETERAN STATUS: Civilian population 18 years and over: Civilian veterans"
+   },
+   "median_hh_income": {
+    "estimate": "DP03_0062E",
+    "margin_of_error": "DP03_0062M",
+    "label": "INCOME AND BENEFITS (IN 2024 INFLATION-ADJUSTED DOLLARS): Total households: Median household income (dollars)"
+   },
+   "pct_poverty": {
+    "estimate": "DP03_0128PE",
+    "margin_of_error": "DP03_0128PM",
+    "label": "PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL: All people"
+   },
+   "unemployment_rate": {
+    "estimate": "DP03_0009PE",
+    "margin_of_error": "DP03_0009PM",
+    "label": "EMPLOYMENT STATUS: Civilian labor force: Unemployment Rate"
+   },
+   "pct_uninsured": {
+    "estimate": "DP03_0099PE",
+    "margin_of_error": "DP03_0099PM",
+    "label": "HEALTH INSURANCE COVERAGE: Civilian noninstitutionalized population: No health insurance coverage"
+   },
+   "pct_public_coverage": {
+    "estimate": "DP03_0098PE",
+    "margin_of_error": "DP03_0098PM",
+    "label": "HEALTH INSURANCE COVERAGE: Civilian noninstitutionalized population: With health insurance coverage: With public coverage"
+   },
+   "pct_disability": {
+    "estimate": "DP02_0072PE",
+    "margin_of_error": "DP02_0072PM",
+    "label": "DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION: Total Civilian Noninstitutionalized Population: With a disability"
+   },
+   "pct_no_vehicle": {
+    "estimate": "DP04_0058PE",
+    "margin_of_error": "DP04_0058PM",
+    "label": "VEHICLES AVAILABLE: Occupied housing units: No vehicles available"
+   },
+   "pct_broadband": {
+    "estimate": "DP02_0154PE",
+    "margin_of_error": "DP02_0154PM",
+    "label": "COMPUTERS AND INTERNET USE: Total households: With a broadband Internet subscription"
+   },
+   "pct_bachelors": {
+    "estimate": "DP02_0068PE",
+    "margin_of_error": "DP02_0068PM",
+    "label": "EDUCATIONAL ATTAINMENT: Population 25 years and over: Bachelor's degree or higher"
+   },
+   "pct_renter": {
+    "estimate": "DP04_0047PE",
+    "margin_of_error": "DP04_0047PM",
+    "label": "HOUSING TENURE: Occupied housing units: Renter-occupied"
+   },
+   "pct_rent_burden_35": {
+    "estimate": "DP04_0142PE",
+    "margin_of_error": "DP04_0142PM",
+    "label": "GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI): Occupied units paying rent (excluding units where GRAPI cannot be computed): 35.0 percent or more"
+   }
+  },
+  "annotations": [
+   [
+    "01089010630",
+    "pct_rent_burden_35",
+    "-666666666.0",
+    "-"
+   ],
+   [
+    "01089010630",
+    "pct_rent_burden_35_moe",
+    "-222222222.0",
+    "**"
+   ],
+   [
+    "01, 01043, 01089",
+    "pop_total_moe; and for the two counties pct_under18_moe and pct_hispanic_moe",
+    "-555555555",
+    "***** (a controlled estimate: no margin of error applies)"
+   ]
+  ],
+  "tract_count": {
+   "Madison": 95,
+   "Cullman": 22
+  }
+ },
+ "places": {
+  "dataset": "yjkw-uj5s",
+  "name": "PLACES: Census Tract Data (GIS Friendly Format), 2025 release",
+  "rows_updated": "2025-12-04T10:39:23Z",
+  "attribution": "Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health",
+  "query": "https://data.cdc.gov/resource/yjkw-uj5s.json?$where=countyfips in ('01089','01043')&$limit=500",
+  "measure_definitions_from": "https://data.cdc.gov/resource/cwsq-ngmh.json (long format, same release)",
+  "measures": {
+   "places_depression": {
+    "id": "DEPRESSION",
+    "measure": "Depression among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_mhlth": {
+    "id": "MHLTH",
+    "measure": "Frequent mental distress among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_loneliness": {
+    "id": "LONELINESS",
+    "measure": "Loneliness among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_emotionspt": {
+    "id": "EMOTIONSPT",
+    "measure": "Lack of social and emotional support among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_foodinsecu": {
+    "id": "FOODINSECU",
+    "measure": "Food insecurity in the past 12 months among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_housinsecu": {
+    "id": "HOUSINSECU",
+    "measure": "Housing insecurity in the past 12 months among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_lacktrpt": {
+    "id": "LACKTRPT",
+    "measure": "Lack of reliable transportation in the past 12 months among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_access2": {
+    "id": "ACCESS2",
+    "measure": "Current lack of health insurance among adults aged 18-64 years",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_binge": {
+    "id": "BINGE",
+    "measure": "Binge drinking among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   },
+   "places_ghlth": {
+    "id": "GHLTH",
+    "measure": "Fair or poor self-rated health status among adults",
+    "data_year": "2023",
+    "type": "Crude prevalence"
+   }
+  },
+  "confidence_intervals": "published by CDC for every value; not retrieved"
+ },
+ "geocoding": {
+  "census": "https://geocoding.geo.census.gov/geocoder/ (benchmark Public_AR_Current, vintage Current_Current; tract from the geographies endpoints)",
+  "osm": "https://nominatim.openstreetmap.org/ (Data (c) OpenStreetMap contributors, ODbL 1.0)",
+  "samhsa": "https://findtreatment.gov/locator (facility records with coordinates)"
+ }
+}

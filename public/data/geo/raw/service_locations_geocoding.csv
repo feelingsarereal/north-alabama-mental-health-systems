@@ -1,0 +1,55 @@
+id,address,city,lon,lat,tract,coord_source,precision,note
+wes,4020 Memorial Parkway SW,Huntsville,-86.5837344,34.6957639,01089002501,samhsa-locator,approximate,"Neither geocoder holds this address. The marker uses the coordinate that SAMHSA's FindTreatment.gov locator gives for WellStone's mental health record at the adjoining address, 4040 Memorial Parkway SW. The locator's substance use record for the same address gives a different point (34.6802121, -86.5783003), so treat the position as approximate."
+wes_peds,4020 Memorial Parkway SW,Huntsville,-86.5837344,34.6957639,01089002501,samhsa-locator,approximate,Same campus point as WellStone Emergency Services; see that note.
+ws_hsv,4040 Memorial Parkway SW,Huntsville,-86.5837344,34.6957639,01089002501,samhsa-locator,approximate,"Coordinate from SAMHSA's FindTreatment.gov locator (mental health record). Its substance use record for the same address gives a different point, so treat the position as approximate."
+ws_office,1131 Eagletree Lane,Huntsville,-86.579,34.69649,01089002600,census-geocoder,address,
+ws_madison,"9238 Madison Boulevard, Suite 900",Madison,-86.76253,34.67246,01089011021,census-geocoder,address,
+nova,1900 Golf Road SW,Huntsville,-86.57853,34.67907,01089002502,census-geocoder,address,
+hh,101 Sivley Road,Huntsville,-86.5809968,34.7205286,01089003100,osm-nominatim,address,The Census geocoder had no match; OpenStreetMap holds the hospital at this address.
+unity,5315 Millennium Drive NW,Huntsville,-86.6652779,34.7533135,01089010625,osm-nominatim,address,The Census geocoder had no match; OpenStreetMap holds the hospital at this address.
+va_clinic,500 Markaview Road NW,Huntsville,-86.62145,34.72658,01089001500,census-geocoder,address,
+va_gov,"301 Governor's Drive SW, Suite 160",Huntsville,-86.58298,34.7199,01089002000,census-geocoder,address,
+fox,4100 Goss Road SW,Huntsville,-86.6642,34.69871,01089011100,census-geocoder,address,
+vet_center,415 Church Street,Huntsville,,,,,ambiguous,"The source gives no street quadrant and the geocoder matches both 415 Church Street NW and 415 Church Street SW, about 900 meters apart. No marker is placed."
+thrive,3500 Memorial Parkway SW,Huntsville,-86.5845488,34.6963915,01089002501,osm-nominatim,address,The Census geocoder had no match; OpenStreetMap holds a building at this address.
+happi_franklin,813 Franklin Street,Huntsville,-86.57849,34.7227,01089003100,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (Franklin Street SE).
+happi_sparkman,2597 Sparkman Drive,Huntsville,-86.59811,34.76331,01089000702,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (Sparkman Drive NW).
+happi_stclair,"115 Saint Clair Avenue, Suite 200",Huntsville,-86.58072,34.7224,01089003100,census-geocoder,approximate,"The source gives no street quadrant and the geocoder matches both SW and SE, about 160 meters apart in the same tract; the SW match is used."
+cfc,410 Sivley Road SW,Huntsville,-86.58356,34.72079,01089003100,census-geocoder,address,
+bradford,1600 Browns Ferry Road,Madison,-86.78173,34.72612,01089011026,census-geocoder,address,
+bhg_hsv,4040 Independence Drive NW,Huntsville,-86.6294,34.73792,01089001301,census-geocoder,address,
+newseason,"2227 Drake Avenue, Suite 19",Huntsville,-86.60209,34.70071,01089002501,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (Drake Avenue SW).
+ourplace,205 Max Luther Drive,Huntsville,-86.5808,34.75798,01089003000,census-geocoder,address,
+ross,"8211 Stephanie Drive, Unit A",Huntsville,-86.56782,34.65722,01089002701,census-geocoder,address,
+noma,2200 Bob Wallace Avenue SW,Huntsville,-86.59316,34.71128,01089002100,census-geocoder,address,
+pdfc,2201 Clinton Avenue,Huntsville,-86.60029,34.72398,01089002100,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (West Clinton Avenue).
+ncac,210 Pratt Avenue NE,Huntsville,-86.58206,34.73879,01089003100,census-geocoder,address,
+arc,1100 Washington Street NW,Huntsville,-86.588783,34.74449,01089003000,osm-nominatim,address,The Census geocoder had no match; OpenStreetMap holds this address.
+ucp,1856 Keats Drive NW,Huntsville,-86.59689,34.75706,01089000702,census-geocoder,address,
+kidstolove,140 Castle Drive,Madison,-86.7085,34.74909,01089001401,census-geocoder,address,
+neaves,817 Cook Avenue,Huntsville,-86.5979,34.74314,01089003000,census-geocoder,address,
+mc_jail,815 Wheeler Avenue NW,Huntsville,-86.59697,34.73897,01089003100,census-geocoder,address,
+dhr_madison,2206 Oakwood Avenue NW,Huntsville,-86.60222,34.74946,01089000702,census-geocoder,address,
+salvation,305 Seminole Drive,Huntsville,-86.59788,34.72168,01089002100,census-geocoder,address,
+hha,200 Washington Street,Huntsville,-86.58616,34.73272,01089003100,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (Washington Street NE).
+ws_cullman,1909 Commerce Avenue NW,Cullman,-86.8759041,34.2044347,01043964800,osm-nominatim,address,"OpenStreetMap holds this house number; the Census geocoder returns the same point under the street name ""Commerce St""."
+crmc,1912 Alabama Highway 157,Cullman,-86.8037,34.19863,01043964902,census-geocoder,address,OpenStreetMap places the hospital about 300 meters from this point.
+bhg_cullman,1912 Commerce Avenue NW,Cullman,-86.87594,34.20681,01043964800,census-geocoder,approximate,"The geocoder matched the number on ""Commerce St""; the neighbouring number 1909 is confirmed on Commerce Avenue NW by OpenStreetMap."
+goodsam,"401 Arnold Street NE, Suite A",Cullman,-86.84061,34.18125,01043964901,census-geocoder,address,
+link,708 Ninth Street,Cullman,-86.83155,34.17203,01043964901,census-geocoder,address,The source gives no street quadrant; the geocoder has one match (9th Street SE).
+cc_jail,1900 Beech Avenue SE,Cullman,-86.83059,34.15124,01043965001,census-geocoder,address,
+dhr_cullman,1220 St. Joseph Street NW,Cullman,-86.8504,34.179,01043964800,census-geocoder,address,
+dmw,2205 Beltline Road,Decatur,-87.02425,34.58399,01103005106,census-geocoder,address,
+admh_region1,"401 Lee Street NE, Suite 150",Decatur,-86.98461,34.60571,01103000400,census-geocoder,address,
+ncamh_decatur,1316 Somerville Road SE,Decatur,-86.97277,34.587,01103000100,census-geocoder,address,
+ncamh_hwy31,4110 US Highway 31 S,Decatur,-86.97158,34.5268,01103005103,census-geocoder,address,
+ncamh_athens,1307 E Elm Street,Athens,-86.9509646,34.8192663,01083020700,osm-nominatim,address,"The Census geocoder matched West Elm Street, which is the wrong end of the street; OpenStreetMap holds a building at 1307 Elm Street East."
+ncamh_moulton,295 Hospital Street,Moulton,-87.28608,34.48362,01079979400,census-geocoder,address,
+ml_guntersville,2409 Homer Clayton Drive,Guntersville,-86.3118844,34.3365508,01095030701,osm-nominatim,address,"The Census geocoder had no match; OpenStreetMap holds the building, labelled with the center's name, at this address."
+ml_scottsboro,16003 AL Highway 35,Scottsboro,-86.05472,34.67409,01071950800,census-geocoder,address,
+ced_attalla,425 5th Avenue NW,Attalla,-86.08947,34.02313,01055010100,census-geocoder,address,
+ced_fortpayne,301 14th Street NW,Fort Payne,-85.7135,34.45527,01049961100,census-geocoder,address,
+ced_centre,200 Dean Buttram Sr. Avenue,Centre,,,,,none,Neither geocoder matched this address. No marker is placed.
+mvh,3001 Scenic Drive,Gadsden,-86.02081,34.0708,01055000400,census-geocoder,approximate,"The geocoder matched ""3001 Scenic Hwy"", not Scenic Drive."
+grmc,1007 Goodyear Avenue,Gadsden,-85.96951,34.00937,01055011200,census-geocoder,address,
+mmcs,2505 US Highway 431,Boaz,-86.15936,34.22122,01095031200,census-geocoder,address,

@@ -1,0 +1,508 @@
+{
+ "nodes": [
+  {
+   "id": "d1",
+   "label": "Governance",
+   "title": "Domain 1. Governance, Policy and Legal Foundations",
+   "kind": "domain",
+   "number": 1,
+   "section": "d1",
+   "scope": "The statewide report describes who decides in Montgomery: the Department, the Legislature, the Governor and the federal courts. This section asks who decides locally. In Madison and Cullman counties that means one nonprofit board, five local governments, two probate courts and a handful of planning documents, and the question in each case is whom the body answers to and what it has put in writing.",
+   "scope_block": "B0032"
+  },
+  {
+   "id": "d2",
+   "label": "Financing",
+   "title": "Domain 2. Financing and Resource Allocation",
+   "kind": "domain",
+   "number": 2,
+   "section": "d2",
+   "scope": "The statewide report follows the money from the Legislature to the Department. This section follows it the rest of the way: what reaches the two counties, from whom, and how much of that a resident could find out. The answer to the last question shapes the whole section. Capital spending is well documented because ribbon-cuttings are news. Operating money is visible only in fragments, and no Form 990 data for the organization at the center of the system appear in the public database for any year after FY2021 [66].",
+   "scope_block": "B0055"
+  },
+  {
+   "id": "d3",
+   "label": "Service continuum",
+   "title": "Domain 3. The Service-Delivery Continuum",
+   "kind": "domain",
+   "number": 3,
+   "section": "d3",
+   "scope": "This section follows the continuum the statewide report uses, from prevention through outpatient care, crisis response, inpatient treatment and recovery supports, and asks at each step what exists in Madison and Cullman counties and how much use it gets. The short version is that the front of the system changed a great deal between 2020 and 2025 and the back of it did not.",
+   "scope_block": "B0072"
+  },
+  {
+   "id": "d4",
+   "label": "Workforce",
+   "title": "Domain 4. Workforce Development and Well-being",
+   "kind": "domain",
+   "number": 4,
+   "section": "d4",
+   "scope": "The statewide report measures Alabama's shortage with federal designations and national ratios. Those tools work poorly at county scale, as this section shows, so it leans on a plainer kind of evidence: what local providers have said they cannot staff. It then looks at where the region's future clinicians are being trained.",
+   "scope_block": "B0097"
+  },
+  {
+   "id": "d5",
+   "label": "Infrastructure",
+   "title": "Domain 5. Medicines, Technology and Infrastructure",
+   "kind": "domain",
+   "number": 5,
+   "section": "d5",
+   "scope": "This section covers the physical and technical base of the local system: the buildings, the record systems, the medicines, and the means of getting a person from where they are to where the care is. The last of these turns out to be the weakest.",
+   "scope_block": "B0114"
+  },
+  {
+   "id": "d6",
+   "label": "Data",
+   "title": "Domain 6. Information, Data and Quality Improvement",
+   "kind": "domain",
+   "number": 6,
+   "section": "d6",
+   "scope": "Every other section of this report ends on some version of the same sentence: the number is not published. This section gathers those gaps in one place. It sets out what is measured about mental health in the two counties and by whom, what a planner would want that is missing, and what quality reporting the new clinic model will require.",
+   "scope_block": "B0132"
+  },
+  {
+   "id": "d7",
+   "label": "Equity",
+   "title": "Domain 7. Equity, Inclusion and Cultural Responsiveness",
+   "kind": "domain",
+   "number": 7,
+   "section": "d7",
+   "scope": "Part I set out who lives in the two counties. This section asks whether the system reaches them evenly: what the data show about differences between and within the counties, which groups have services built for them, and which do not appear in the record at all. The honest summary is that the region can describe its inequities by place and hardly at all by race, language or income, because the data needed for the second kind of description have not been published locally.",
+   "scope_block": "B0147"
+  },
+  {
+   "id": "d8",
+   "label": "Engagement",
+   "title": "Domain 8. Community Engagement, Education and Advocacy",
+   "kind": "domain",
+   "number": 8,
+   "section": "d8",
+   "scope": "This section describes who speaks for mental health in the two counties, how the public is educated about it, what local advocacy has won, and whether people who have lived with mental illness or addiction have a formal voice in how services are run. Little Orange Fish, the publisher of this report, is the backbone organization of one of the bodies described here, the North Alabama Mental Health Coalition; the coalition is described only from public web pages, its own and its founding organization's, and none of its meeting records were used as sources.",
+   "scope_block": "B0162"
+  },
+  {
+   "id": "s9",
+   "label": "Children",
+   "title": "Section 9. Children, Youth and Families: A System of Care",
+   "kind": "cross-sector",
+   "number": 9,
+   "section": "s9",
+   "scope": "A child's mental health care is delivered through more doors than an adult's: the school, the pediatrician, the child welfare agency, the juvenile court. The statewide report reads Alabama against the principles of a system of care, in which those doors open onto the same hallway. This section describes each door in Madison and Cullman counties and what is known about how many children pass through it.",
+   "scope_block": "B0176"
+  },
+  {
+   "id": "s10",
+   "label": "Justice",
+   "title": "Section 10. The Justice Interface",
+   "kind": "cross-sector",
+   "number": 10,
+   "section": "s10",
+   "scope": "The statewide report organizes the meeting points between mental illness and the justice system by the Sequential Intercept Model: community and crisis services, law enforcement, initial detention and court, jails and courts, reentry, and community supervision. This section walks the same six intercepts in Madison and Cullman counties. It deals with deaths and lawsuits as well as programs. People who died or were charged are not named; cases are given by their captions, and what was alleged is kept apart from what a court found.",
+   "scope_block": "B0197"
+  },
+  {
+   "id": "s11",
+   "label": "Housing",
+   "title": "Section 11. Housing, Social Determinants and Community Supports",
+   "kind": "cross-sector",
+   "number": 11,
+   "section": "s11",
+   "scope": "The statewide report reads Alabama against the five domains of social determinants used in Healthy People 2030: neighborhood and built environment, economic stability, health care access, education access, and social and community context. This section does the same for the two counties. It gives most of its length to housing, because housing is a need WellStone's own plan names twice and the one for which the public record is richest.",
+   "scope_block": "B0221"
+  },
+  {
+   "id": "s12",
+   "label": "Payers",
+   "title": "Section 12. Payers, Coverage and the CCBHC Transition",
+   "kind": "cross-sector",
+   "number": 12,
+   "section": "s12",
+   "scope": "Who pays shapes who is served. This section sets out how residents of the two counties are covered, how Medicaid pays for mental health care here, what the move to the Certified Community Behavioral Health Clinic model has changed, and where the commercial and hospital markets stand. The statewide report explains the rules; this section applies them.",
+   "scope_block": "B0242"
+  },
+  {
+   "id": "s13",
+   "label": "The ring",
+   "title": "Section 13. The Ring: Thirteen Counties, Four Centers",
+   "kind": "region",
+   "number": 13,
+   "section": "s13",
+   "scope": "This section has no counterpart in the statewide report. It describes, in outline only, the thirteen counties beyond Madison and Cullman whose crises the state routes to Huntsville, and the four community mental health centers that serve them for everything else. It does not examine their courts, schools, hospitals or housing. Its purpose is to show what the crisis center's wider catchment looks like and how much of that catchment's use of the center is known.",
+   "scope_block": "B0261"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e1-s12-d3",
+   "from": "s12",
+   "to": "d3",
+   "row": 1,
+   "pair": "Payers (12) → Service continuum (3)",
+   "link": "The clinic payment covers Medicaid enrollees; WellStone must serve everyone",
+   "evidence": "The clinic payment covers Medicaid enrollees; WellStone must serve everyone [57] [374]",
+   "refs": [
+    57,
+    374
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e2-d2-d3",
+   "from": "d2",
+   "to": "d3",
+   "row": 2,
+   "pair": "Financing (2) → Service continuum (3)",
+   "link": "Federal grants funded assisted outpatient treatment from 2022 and a clinic grant whose abstract committed WellStone to round-the-clock mobile crisis teams; their periods ended in 2026",
+   "evidence": "Federal grants funded assisted outpatient treatment from 2022 and a clinic grant whose abstract committed WellStone to round-the-clock mobile crisis teams; their periods ended in 2026 [39] [37]",
+   "refs": [
+    39,
+    37
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e3-d4-d3",
+   "from": "d4",
+   "to": "d3",
+   "row": 3,
+   "pair": "Workforce (4) → Service continuum (3); Children (9)",
+   "link": "A 24-bed pediatric unit opened able to staff six beds",
+   "evidence": "A 24-bed pediatric unit opened able to staff six beds [56]",
+   "refs": [
+    56
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e3-d4-s9",
+   "from": "d4",
+   "to": "s9",
+   "row": 3,
+   "pair": "Workforce (4) → Service continuum (3); Children (9)",
+   "link": "A 24-bed pediatric unit opened able to staff six beds",
+   "evidence": "A 24-bed pediatric unit opened able to staff six beds [56]",
+   "refs": [
+    56
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e4-d3-s10",
+   "from": "d3",
+   "to": "s10",
+   "row": 4,
+   "pair": "Service continuum (3) → Justice (10)",
+   "link": "The crisis beds were meant to divert people from jail; the state's evaluation publishes no per-center count of diversion",
+   "evidence": "The crisis beds were meant to divert people from jail; the state's evaluation publishes no per-center count of diversion [88] [62]",
+   "refs": [
+    88,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e5-s11-d3",
+   "from": "s11",
+   "to": "d3",
+   "row": 5,
+   "pair": "Housing (11) → Service continuum (3); Justice (10)",
+   "link": "Supportive housing beds fell from 334 in 2022 to 190 in 2025; WellStone names housing twice among its unmet needs",
+   "evidence": "Supportive housing beds fell from 334 in 2022 to 190 in 2025; WellStone names housing twice among its unmet needs [61] [1]",
+   "refs": [
+    61,
+    1
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e5-s11-s10",
+   "from": "s11",
+   "to": "s10",
+   "row": 5,
+   "pair": "Housing (11) → Service continuum (3); Justice (10)",
+   "link": "Supportive housing beds fell from 334 in 2022 to 190 in 2025; WellStone names housing twice among its unmet needs",
+   "evidence": "Supportive housing beds fell from 334 in 2022 to 190 in 2025; WellStone names housing twice among its unmet needs [61] [1]",
+   "refs": [
+    61,
+    1
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e6-d3-s11",
+   "from": "d3",
+   "to": "s11",
+   "row": 6,
+   "pair": "Service continuum (3) → Housing (11)",
+   "link": "The center asks for stabilization beds and supervised housing; a probate court official asked for more stabilization beds and a step into group homes",
+   "evidence": "The center asks for stabilization beds and supervised housing; a probate court official asked for more stabilization beds and a step into group homes [1] [51]",
+   "refs": [
+    1,
+    51
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e7-d5-d7",
+   "from": "d5",
+   "to": "d7",
+   "row": 7,
+   "pair": "Infrastructure (5) → Equity (7)",
+   "link": "Cullman's transit ends at 2:30 p.m.; the crisis center is in Huntsville",
+   "evidence": "Cullman's transit ends at 2:30 p.m.; the crisis center is in Huntsville [192]",
+   "refs": [
+    192
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e8-d1-d7",
+   "from": "d1",
+   "to": "d7",
+   "row": 8,
+   "pair": "Governance (1) → Equity (7); the ring (13)",
+   "link": "The board is appointed by governments in two counties; its crisis center's catchment is fifteen",
+   "evidence": "The board is appointed by governments in two counties; its crisis center's catchment is fifteen [1] [3]",
+   "refs": [
+    1,
+    3
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e8-d1-s13",
+   "from": "d1",
+   "to": "s13",
+   "row": 8,
+   "pair": "Governance (1) → Equity (7); the ring (13)",
+   "link": "The board is appointed by governments in two counties; its crisis center's catchment is fifteen",
+   "evidence": "The board is appointed by governments in two counties; its crisis center's catchment is fifteen [1] [3]",
+   "refs": [
+    1,
+    3
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e9-d6-d1",
+   "from": "d6",
+   "to": "d1",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d2",
+   "from": "d6",
+   "to": "d2",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d3",
+   "from": "d6",
+   "to": "d3",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d4",
+   "from": "d6",
+   "to": "d4",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d5",
+   "from": "d6",
+   "to": "d5",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d7",
+   "from": "d6",
+   "to": "d7",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-d8",
+   "from": "d6",
+   "to": "d8",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-s9",
+   "from": "d6",
+   "to": "s9",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-s10",
+   "from": "d6",
+   "to": "s10",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-s11",
+   "from": "d6",
+   "to": "s11",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e9-d6-s12",
+   "from": "d6",
+   "to": "s12",
+   "row": 9,
+   "pair": "Data (6) → Every other node",
+   "link": "Access times are the only measured outcome found for the clinic and crisis services",
+   "evidence": "Access times are the only measured outcome found for the clinic and crisis services [50] [62]",
+   "refs": [
+    50,
+    62
+   ],
+   "block": "B0273",
+   "fan_out": true
+  },
+  {
+   "id": "e10-s9-d3",
+   "from": "s9",
+   "to": "d3",
+   "row": 10,
+   "pair": "Children (9) → Service continuum (3)",
+   "link": "The pediatric unit absorbed children once sent out of the county",
+   "evidence": "The pediatric unit absorbed children once sent out of the county [69]",
+   "refs": [
+    69
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e11-d8-d1",
+   "from": "d8",
+   "to": "d1",
+   "row": 11,
+   "pair": "Engagement (8) → Governance (1); Equity (7)",
+   "link": "NAMI has a Madison County affiliate and lists none for Cullman",
+   "evidence": "NAMI has a Madison County affiliate and lists none for Cullman [55]",
+   "refs": [
+    55
+   ],
+   "block": "B0273",
+   "fan_out": false
+  },
+  {
+   "id": "e11-d8-d7",
+   "from": "d8",
+   "to": "d7",
+   "row": 11,
+   "pair": "Engagement (8) → Governance (1); Equity (7)",
+   "link": "NAMI has a Madison County affiliate and lists none for Cullman",
+   "evidence": "NAMI has a Madison County affiliate and lists none for Cullman [55]",
+   "refs": [
+    55
+   ],
+   "block": "B0273",
+   "fan_out": false
+  }
+ ],
+ "reading": "**Reading the map.** Three links carry most of the weight. The first runs from payers to services: the new clinic model improved access to a first appointment and pays only for Medicaid patients, in Madison County, where 18% of residents were eligible for Medicaid at some point in FY2024 [50] [57] [58]. The second runs from housing to everything else: supportive housing has fallen and a court official put the wait for a group home at 100 days or more, and the likely result is that people stay longer in crisis beds, hospital beds and jail [61] [51]. The third runs from data to all the rest. Almost every judgment in this report about whether a program works rests on a launch date and a volume figure, because that is all the public record read for this report holds.",
+ "reading_block": "B0274",
+ "note": "Thirteen nodes: the statewide report's twelve, plus the ring. Eleven rows of the report's dependency table give 25 edges; a row with several targets is several edges sharing a row number, and the Data row fans out to the other eleven statewide nodes."
+}

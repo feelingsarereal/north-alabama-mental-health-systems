@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Little Orange Fish brand on the DESIGN-SYSTEM tokens (KICKOFF §4f). Measured contrast (WCAG 2.1):
+ *   ink #222222 on white 15.9:1 · soft ink #555555 7.5:1 · link/small orange #a84f17 5.5:1 on white, 4.6:1 on #fbe5d6
+ *   heading orange #e47229 3.1:1 on white (bold ≥ 18 px: large text, needs 3:1) — #e8762b itself measures 2.98:1, so
+ *   it is kept for rules, fills and the logo, and headings use this barely darker shade of the same hue.
+ *   dark: ink #e8e6e3 on #1b1d1f 13.6:1 · link #f0a46b 8.2:1 · heading #e8762b 5.7:1.
+ */
+:root {
+  color-scheme: light;
+  --bx-bg: #ffffff; --bx-bg-2: #f3f3f3; --bx-ink: #222222; --bx-muted: #555555; --bx-line: #bbbbbb; --bx-line-soft: #e2e2e2;
+  --bx-accent: #a84f17; --bx-head: #e47229; --bx-rule: #e8762b; --bx-fill: #fbe5d6; --bx-slate: #b6c3cc;
+  --bx-amber: #8a5300; --bx-amber-bg: #fdf0d5;
+  --g-verified: #2e7d5b; --g-own: #6b6b6b; --g-notfound: #8a6100;
+  --bx-hl: #fff2c4;
+}
+.dark {
+  color-scheme: dark;
+  --bx-bg: #1b1d1f; --bx-bg-2: #25282b; --bx-ink: #e8e6e3; --bx-muted: #b8b4ae; --bx-line: #4a4f54; --bx-line-soft: #33373b;
+  --bx-accent: #f0a46b; --bx-head: #e8762b; --bx-rule: #e8762b; --bx-fill: #3a2a1f; --bx-slate: #6d7d88;
+  --bx-amber: #fbbf24; --bx-amber-bg: #3b2c0b;
+  --g-verified: #6fcf9f; --g-own: #b8b4ae; --g-notfound: #e8c05a;
+  --bx-hl: #4a3d12;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  body { background: var(--bx-bg); color: var(--bx-ink); @apply font-body antialiased; font-size: 16px; }
+  h1, h2, h3, h4 { @apply font-display font-bold tracking-tight; color: var(--bx-head); }
+  h3, h4 { color: var(--bx-ink); }
+  a { color: var(--bx-accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 3px solid var(--bx-accent); outline-offset: 2px; border-radius: 2px; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+  }
+}
+
+@layer components {
+  .bx-card { @apply rounded-lg border bg-white dark:bg-night-2 shadow-sm; border-color: var(--bx-line-soft); }
+  .bx-panel { @apply rounded-lg; background: var(--bx-bg-2); }
+  .bx-btn { @apply inline-flex items-center gap-1.5 rounded-md border bg-white dark:bg-night-2 px-2.5 py-1.5 text-sm font-semibold hover:bg-paper-2 dark:hover:bg-[#2f3337] disabled:opacity-40 disabled:cursor-not-allowed; border-color: var(--bx-line); color: var(--bx-ink); }
+  .bx-btn-primary { @apply inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-bold text-white hover:opacity-90; background: #a84f17; }
+  .dark .bx-btn-primary { background: #f0a46b; color: #1b1d1f; }
+  .bx-btn-on { background: var(--bx-ink) !important; color: var(--bx-bg) !important; border-color: var(--bx-ink) !important; }
+  .bx-input { @apply w-full rounded-md border bg-white dark:bg-night-2 px-2.5 py-1.5 text-sm; border-color: var(--bx-line); color: var(--bx-ink); }
+  .bx-chip { @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-semibold leading-5; }
+  .bx-chip-line { @apply bx-chip border; border-color: var(--bx-line); color: var(--bx-muted); }
+  .bx-prose { @apply text-[16px] leading-7; color: var(--bx-ink); }
+  .bx-muted { color: var(--bx-muted); }
+  .bx-kbd { @apply rounded border px-1 font-mono text-[11px]; border-color: var(--bx-line); }
+  .bx-link { color: var(--bx-accent); @apply underline underline-offset-2; }
+  .bx-term { @apply underline decoration-dotted underline-offset-[3px] cursor-help rounded-sm; text-decoration-color: var(--bx-accent); color: inherit; font: inherit; background: none; padding: 0; border: 0; text-align: inherit; }
+  .bx-term:hover { background: var(--bx-bg-2); }
+  /* a 24 px target (WCAG 2.5.8) without changing the line: padding grows the hit area, negative margins give it back */
+  .bx-cite { @apply align-super text-[11px] font-bold cursor-pointer rounded-sm; color: var(--bx-accent); line-height: 1; background: none; border: 0; display: inline-block; min-width: 24px; padding: 6.5px 2px; margin: -6.5px 0; text-align: center; }
+  .bx-cite:hover { text-decoration: underline; }
+  .bx-foldout { @apply bx-card mt-2 mb-4 p-3 text-sm border-l-4; border-left-color: var(--bx-rule); }
+  .bx-todo { @apply bx-chip; background: var(--bx-amber-bg); color: var(--bx-amber); }
+  .bx-reader { @apply max-w-[70ch] text-[17.5px] leading-8 font-body; }
+  .bx-synthesis { @apply border-l-2 pl-4 my-4; border-color: var(--bx-slate); }
+  .bx-synthesis-label { @apply block mb-0.5 text-[11px] uppercase tracking-wider font-bold; color: var(--bx-muted); }
+  .bx-asof { @apply bx-chip; background: var(--bx-bg-2); color: var(--bx-muted); }
+  .bx-tier { @apply bx-chip-line; }
+  .bx-banner { @apply bx-card p-3 mb-6 text-sm border-l-4; border-left-color: var(--bx-rule); }
+  .bx-draft { background: var(--bx-fill); color: var(--bx-ink); border-bottom: 1px solid var(--bx-line-soft); }
+  .bx-th { background: var(--bx-fill); }
+  .bx-section-strip { @apply flex flex-wrap gap-x-3 gap-y-1 text-[13px] mt-1 mb-4; color: var(--bx-muted); }
+}
+
+/* reader body */
+.bx-reader p, .bx-reader li { margin: 0; }
+.bx-block { position: relative; scroll-margin-top: calc(var(--hdr, 8rem) + 1.5rem); }
+.bx-block.bx-flash { animation: bx-flash 2.2s ease-out; }
+@keyframes bx-flash { 0% { background: var(--bx-hl); } 100% { background: transparent; } }
+.bx-reader table { @apply text-[15px] leading-6 w-full border-collapse my-1; }
+.bx-reader th, .bx-reader td { @apply align-top border px-2 py-1.5 text-left; border-color: var(--bx-line-soft); }
+.bx-reader th { background: var(--bx-fill); @apply font-bold; }
+.dark .bx-reader th { color: var(--bx-ink); }
+.bx-table-wrap { @apply overflow-x-auto my-4; }
+.bx-reader ul.bx-list { list-style: disc; padding-left: 1.4rem; }
+.bx-reader ol.bx-list { list-style: decimal; padding-left: 1.6rem; }
+.bx-reader .bx-list > li { margin: 0.45rem 0; }
+.bx-section-h, [id] { scroll-margin-top: calc(var(--hdr, 8rem) + 1rem); }
+
+/* the claim layer (KICKOFF §4b): quiet, only when "Show what was checked" is on; pattern + colour, never colour alone */
+.bx-checked .bx-claim { text-decoration-line: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; cursor: pointer; border-radius: 2px; }
+.bx-checked .bx-claim:hover, .bx-checked .bx-claim:focus-visible { background: var(--bx-bg-2); }
+.bx-checked .g-verified { text-decoration-color: var(--g-verified); text-decoration-style: solid; }
+.bx-checked .g-own { text-decoration-color: var(--g-own); text-decoration-style: dotted; }
+.bx-checked .g-notfound { text-decoration-color: var(--g-notfound); text-decoration-style: wavy; text-decoration-thickness: 1px; }
+.bx-legend-swatch { display: inline-block; width: 2.2em; height: 0.9em; text-decoration-line: underline; text-underline-offset: 2px; text-decoration-thickness: 2px; }
+
+/* "of which not found": only the not-found claims stay underlined */
+.bx-checked.bx-only-notfound .bx-claim:not(.g-notfound) { text-decoration-line: none; }
+
+/* maps */
+.bx-map path.area { stroke: var(--bx-bg); stroke-width: 0.6; cursor: pointer; }
+.bx-map path.area:hover, .bx-map path.area.is-focus { stroke: var(--bx-ink); stroke-width: 1.6; }
+.bx-map path.area.is-selected { stroke: var(--bx-ink); stroke-width: 2.2; }
+.bx-map:focus-visible { outline-offset: 4px; }
+
+.no-print {}
+@media print {
+  .no-print, header, footer, nav { display: none !important; }
+  body { background: #fff; color: #000; }
+  .bx-reader { max-width: none; }
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_01_tract_500k.zip",
+  "downloaded": "2026-10-04",
+  "bytes": 1651401,
+  "sha256": "f1888d5c64a98e3bbb54ab5f87e0fc040e27f63b1ab8377e1b3b76b248b4841f",
+  "last_modified": "Tue, 16 Apr 2024 12:24:27 GMT",
+  "vintage": "2023 cartographic boundary file, 1:500,000",
+  "state": "01",
+  "counties_kept": [
+    "043",
+    "089"
+  ],
+  "tracts": 117,
+  "simplification": "topojson-simplify, presimplify then simplify at the 25th percentile of triangle area; quantization 1e5",
+  "output": "public/data/geo/tracts-madison-cullman.topo.json",
+  "output_bytes": 78585
+}
